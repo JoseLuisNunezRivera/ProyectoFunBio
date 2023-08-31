@@ -16,7 +16,7 @@
 ### Contexto económico
 Uno de los tratamientos para quemaduras de segundo o tercer grado son los injertos de piel; sin embargo, este procedimiento médico es complejo puesto que se extrae piel sana para poder ser injertada en la zona quemada. Esto requiere un equipo especializado y recursos médicos no precarios, lo que significa un costo adicional. 
 Según el Instituto Nacional de Salud del Niño, en la siguiente tabla se muestran los costos que un paciente puede asumir. 
-![Imagen de tabla 3](https://ulcerasfora.sergas.gal/Informacion/ImaxesCP/Tabla%20de%20Land-%20Brow%20galego.JPG) 
+- ![Imagen de tabla 3](https://ulcerasfora.sergas.gal/Informacion/ImaxesCP/Tabla%20de%20Land-%20Brow%20galego.JPG) 
 
 
 
