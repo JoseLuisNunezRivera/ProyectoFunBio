@@ -3,7 +3,7 @@
 
 
 
-## Analisis del caso 
+# Analisis del caso 
 1. "Tema": Open Science Hardware para Salud y Laboratorio
 2. "Problemática": Aumento de quemaduras de segundo grado en menores de edad del país
 3. "Solución": Bioprinter in situ para el tratamiento de las quemaduras de segundo grado
@@ -13,7 +13,7 @@
 - En el Perú, “entre enero y febrero del 2023, el Instituto Nacional de Salud del Niño San Borja, recibió a 75 niños con quemaduras graves, cifra que se ha incrementado en 60% en relación al mismo periodo del 2022 que atendió a 47 menores de Lima y de las diversas regiones del país” [10].
 - La recuperación de una persona quemada suele llevar semanas o incluso meses, durante los cuales experimenta dolor y sufrimiento tanto físico como emocional. El tratamiento y cuidado implica costos significativos, lo que genera tanto carga para el Estado como para la familia del afectado.(Martín y Piris, 2014). La morbilidad y mortalidad aumentan por la presencia de infección y por las heridas profundas que se presentan por la pérdida de la humedad de los tejidos expuestos por la quemadura. [2]
 - Por otro lado, según los diagnósticos consignados en la base de datos de HIS, se puede identificar que las localizaciones más frecuentes de quemaduras son los extremos distales de los miembros (muñecas, manos, tobillos y pies), seguida de los miembros inferiores, cabeza - cuello. [3] 
-### Contexto económico
+### 1.3 Contexto económico
 Uno de los tratamientos para quemaduras de segundo o tercer grado son los injertos de piel; sin embargo, este procedimiento médico es complejo puesto que se extrae piel sana para poder ser injertada en la zona quemada. Esto requiere un equipo especializado y recursos médicos no precarios, lo que significa un costo adicional. 
 Según el Instituto Nacional de Salud del Niño, en la siguiente tabla se muestran los costos que un paciente puede asumir. 
 ![imagen tabla3] (https://scontent.flim41-1.fna.fbcdn.net/v/t39.30808-6/373014634_1591379418057726_3732266276970344158_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=49d041&_nc_eui2=AeGsXk7HT50sOKXAKnLIY2tVcn-bUvjvrUZyf5tS-O-tRsd7sJefcW1JbqhBOlCtZsT60jrAF8kMaxVHoqQhQjoe&_nc_ohc=m5fP4idElSoAX-4nr85&_nc_ht=scontent.flim41-1.fna&oh=00_AfBfUp-B4o06ne8za2akeYOly61USVuzHT3PiHbszUyBLg&oe=64F5CFF1)
@@ -23,11 +23,11 @@ Las quemaduras son lesiones producidas en tejido vivo, debido a la acción de ag
 Un aspecto importante en nuestro tema es la disponibilidad de esta tecnología en los hospitales nacionales, además del personal calificado para su correcta aplicación y desarrollo.
 La capacidad del desarrollo de un prototipo y posterior bioimpresora posibilita la difusión de los beneficios de su uso, además de los costos que puede llegar a reducir. Sumado a esto, se obtendrá una mejor y óptima recuperación de nuestros usuarios.
 ![imagen figura 1] (https://scontent.flim41-1.fna.fbcdn.net/v/t39.30808-6/372983007_1591380998057568_1077372575967308698_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=49d041&_nc_eui2=AeHHR9GCA6NOb8WqCWtjX0jicLx7OELFbuJwvHs4QsVu4oOX2BicQiT45bXEoy1VipAdBaJSHtvO7HPRTHYGkTV8&_nc_ohc=2nOLj-koGIIAX84woKs&_nc_ht=scontent.flim41-1.fna&oh=00_AfAq60wQHAWj0WH_WM00HGwuwz0FEFxnSCk8rOeoii3fPA&oe=64F51A18)
-## 2 Estado del arte
+# Estado del arte
 - " Bioprinter in situ " : los avances en la impresión in situ han ido aumentando con el tiempo. Esta novedosa técnica permite la bioimpresión directamente en el tejido u órgano dañado. Actualmente podemos clasificar los equipos de bioimpresión in situ como 2; bedside mounted printers y hand-held printers. Siendo estas últimas foco de nuestra atención
 - Injertos de piel: El INSN ha comenzado con el cultivo de células para generar injertos, pero “ Este proceso demoró 21 días obteniendo más de 1,350 cm2 de piel cultivada, que sirvió para cubrir las zonas de la espalda, muslos, y hombro izquierdo del paciente”, por lo que este proceso tarda dependiendo de la zona afectada, ya que se tiene que genera la cantidad de células necesarias[11].
 - Sustitutos dérmicos: Generados a base de biomateriales (colágeno) compatibles con la piel han demostrado tener mejor cicatrización para la zona donante, pero eso no significa que eso aplica a pacientes con quemaduras graves, ejemplo: Integra. [12]
-## Clinica de problématica en salud
+# Clinica de problématica en salud
 Paciente: menores de edad de 5-15 años, sin alergias a la anestesia y ningún medicamento requerido para la cirugía, ya que es necesario por el dolor que representa esta zona para todo el cuerpo;  y sin problemas de coagulación, siendo el primer caso: la hemofilia, pero también los niveles de azúcar deben estar estables. Además, el principal síntoma deben ser quemaduras de segundo grado sin exposición del hueso, ya que en caso de tener algún tipo de intoxicación, es recomendable que se trata esto antes de la cirugía .
 ## Bibliografía 
 1. Organización Mundial de la Salud. (2018). Quemaduras: Datos y cifras. https://www.who.int/es/news-room/fact-sheets/detail/burns
