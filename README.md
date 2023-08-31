@@ -16,11 +16,34 @@
 ### Contexto económico
 Uno de los tratamientos para quemaduras de segundo o tercer grado son los injertos de piel; sin embargo, este procedimiento médico es complejo puesto que se extrae piel sana para poder ser injertada en la zona quemada. Esto requiere un equipo especializado y recursos médicos no precarios, lo que significa un costo adicional. 
 Según el Instituto Nacional de Salud del Niño, en la siguiente tabla se muestran los costos que un paciente puede asumir. 
-- ![Imagen de tabla 3] (https://scontent.flim41-1.fna.fbcdn.net/v/t39.30808-6/373014634_1591379418057726_3732266276970344158_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=49d041&_nc_eui2=AeGsXk7HT50sOKXAKnLIY2tVcn-bUvjvrUZyf5tS-O-tRsd7sJefcW1JbqhBOlCtZsT60jrAF8kMaxVHoqQhQjoe&_nc_ohc=m5fP4idElSoAX-4nr85&_nc_ht=scontent.flim41-1.fna&oh=00_AfBfUp-B4o06ne8za2akeYOly61USVuzHT3PiHbszUyBLg&oe=64F5CFF1) 
-
-
-
-
+![imagen tabla3] (https://scontent.flim41-1.fna.fbcdn.net/v/t39.30808-6/373014634_1591379418057726_3732266276970344158_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=49d041&_nc_eui2=AeGsXk7HT50sOKXAKnLIY2tVcn-bUvjvrUZyf5tS-O-tRsd7sJefcW1JbqhBOlCtZsT60jrAF8kMaxVHoqQhQjoe&_nc_ohc=m5fP4idElSoAX-4nr85&_nc_ht=scontent.flim41-1.fna&oh=00_AfBfUp-B4o06ne8za2akeYOly61USVuzHT3PiHbszUyBLg&oe=64F5CFF1)
+Los costos pueden variar mucho según la región, el sistema de salud, el tipo de tratamiento requerido y otros factores.
+### 1.4 Definición del problema: 
+Las quemaduras son lesiones producidas en tejido vivo, debido a la acción de agentes químicos o físicos, que provocan alteraciones que van desde un simple eritema transitorio hasta la destrucción total de las estructuras(4) 
+Un aspecto importante en nuestro tema es la disponibilidad de esta tecnología en los hospitales nacionales, además del personal calificado para su correcta aplicación y desarrollo.
+La capacidad del desarrollo de un prototipo y posterior bioimpresora posibilita la difusión de los beneficios de su uso, además de los costos que puede llegar a reducir. Sumado a esto, se obtendrá una mejor y óptima recuperación de nuestros usuarios.
+![imagen figura 1] (https://scontent.flim41-1.fna.fbcdn.net/v/t39.30808-6/372983007_1591380998057568_1077372575967308698_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=49d041&_nc_eui2=AeHHR9GCA6NOb8WqCWtjX0jicLx7OELFbuJwvHs4QsVu4oOX2BicQiT45bXEoy1VipAdBaJSHtvO7HPRTHYGkTV8&_nc_ohc=2nOLj-koGIIAX84woKs&_nc_ht=scontent.flim41-1.fna&oh=00_AfAq60wQHAWj0WH_WM00HGwuwz0FEFxnSCk8rOeoii3fPA&oe=64F51A18)
+## 2 Estado del arte
+- " Bioprinter in situ " : los avances en la impresión in situ han ido aumentando con el tiempo. Esta novedosa técnica permite la bioimpresión directamente en el tejido u órgano dañado. Actualmente podemos clasificar los equipos de bioimpresión in situ como 2; bedside mounted printers y hand-held printers. Siendo estas últimas foco de nuestra atención
+- Injertos de piel: El INSN ha comenzado con el cultivo de células para generar injertos, pero “ Este proceso demoró 21 días obteniendo más de 1,350 cm2 de piel cultivada, que sirvió para cubrir las zonas de la espalda, muslos, y hombro izquierdo del paciente”, por lo que este proceso tarda dependiendo de la zona afectada, ya que se tiene que genera la cantidad de células necesarias[11].
+- Sustitutos dérmicos: Generados a base de biomateriales (colágeno) compatibles con la piel han demostrado tener mejor cicatrización para la zona donante, pero eso no significa que eso aplica a pacientes con quemaduras graves, ejemplo: Integra. [12]
+## Clinica de problématica en salud
+Paciente: menores de edad de 5-15 años, sin alergias a la anestesia y ningún medicamento requerido para la cirugía, ya que es necesario por el dolor que representa esta zona para todo el cuerpo;  y sin problemas de coagulación, siendo el primer caso: la hemofilia, pero también los niveles de azúcar deben estar estables. Además, el principal síntoma deben ser quemaduras de segundo grado sin exposición del hueso, ya que en caso de tener algún tipo de intoxicación, es recomendable que se trata esto antes de la cirugía .
+## Bibliografía 
+1. Organización Mundial de la Salud. (2018). Quemaduras: Datos y cifras. https://www.who.int/es/news-room/fact-sheets/detail/burns
+2. PIEL DE CERDO LIOFILIZADA EN TRATAMIENTO DE QUEMADURAS: SERIE DE CASOS 2014-2016 https://revistas.uss.edu.pe/index.php/tzh/article/view/1329/1267
+3. Ministerio de Salud. (2020). Lineamiento para la prevención y atención integral de personas con lesiones por quemaduras. https://cdn.www.gob.pe/uploads/document/file/1400166/RM%20883-2020-MINSA.PDF.PDF 
+4. Tian H, Wang L, Xie W, Shen C, Guo G, Liu J, Han C, Ren L, Liang Y, Tang Y, Wang Y, Yin M, Zhang J, Huang Y. Epidemiologic and clinical characteristics of severe burn patients: results of a retrospective multicenter study in China, 2011-2015. Burns Trauma. 2018 May 23;6:14. Disponible en: https://pubmed.ncbi.nlm.nih.gov/29850643/  
+5. Biopen (handheld bioprinter) [Internet]. Adbioink. [citado el 30 de agosto de 2023]. Disponible en: https://www.adbioink.com/product/biopen-handheld-bioprinter/
+6. Sciencedirectassets.com. [citado el 30 de agosto de 2023]. Disponible en:
+In situ 3D bioprinting: A promising technique in advanced biofabrication strategies (sciencedirectassets.com)
+7. MacAdam A, Chaudry E, McTiernan CD, Cortes D, Suuronen EJ, Alarcon EI. Development of in situ bioprinting: A mini review. Front Bioeng Biotechnol [Internet]. 2022 [citado el 30 de agosto de 2023];10. Disponible en: https://pubmed.ncbi.nlm.nih.gov/35935512/
+8. Varkey M, Visscher DO, van Zuijlen PPM, Atala A, Yoo JJ. Skin bioprinting: the future of burn wound reconstruction? Burns Trauma [Internet]. 2019 [citado el 30 de agosto de 2023];7. Disponible en: https://pubmed.ncbi.nlm.nih.gov/30805375/
+9. Peck MD. Epidemiology of burns throughout the world. Part I: Distribution and risk factors. Burns [Internet]. 2011;37(7):1087–100. Disponible en: https://www.sciencedirect.com/science/article/pii/S0305417911001914 
+10. INSN SAN BORJA: CASOS DE NIÑOS QUEMADOS SE INCREMENTA EN 60% EN LO QUE VA DE ESTE AÑO 2023 [Internet]. Gob.pe. [citado el 30 de agosto de 2023]. Disponible en: https://www.insnsb.gob.pe/blog/2023/03/10/insn-san-borja-casos-de-ninos-quemados-se-incrementa-en-60-en-lo-que-va-de-este-ano-2023/ 
+11. INSN SAN BORJA SALVA VIDA DE PACIENTES CON EXTENSAS QUEMADURAS CON APLICACIÓN DE PIEL CULTIVADA [Internet]. Gob.pe. [citado el 30 de agosto de 2023]. Disponible en: https://www.insnsb.gob.pe/blog/2016/04/27/insn-san-borja-salva-vida-de-pacientes-con-extensas-quemaduras-con-aplicacion-de-piel-cultivada/ 
+12. Chau Ramos EA, Hospital María Auxiliadora, Unidad de Cirugía Plástica. Lima, Perú. Evaluación de cicatrización en zonas donantes de injerto de piel parcial con uso de Xenoinjerto en comparación con sustituto dérmico. Horiz méd [Internet]. 2019 [citado el 30 de agosto de 2023];19(3):20–6. Disponible en: https://www.horizontemedico.usmp.edu.pe/index.php/horizontemed/article/view/1070
+ 
 
 
 
