@@ -1,7 +1,12 @@
 # ProyectoFunBio
+¡Bienvenidos al repositorio del grupo 10 de Fundamentos de Biodiseño!
 
-
-
+# Conoce a nuestro equipo
+- Jose Luis Jesús Nuñez Rivera (Coordinador General)
+- Micaela de Fatima Tassara Camarena (Coordinadora de Modelado 3D)
+- Edgar Antonio Aguilar Ocas (Coordinador de Electrónica)
+- Andree Pascale Merino Contreras (Coordinadora de Programación
+- Valeria Alejandra Leonardo Castillón (Coordinadora de Impresión 3D)
 
 # Analisis del caso 
 1. "Tema": Open Science Hardware para Salud y Laboratorio
