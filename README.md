@@ -1,12 +1,16 @@
-# ProyectoFunBio
+# Proyecto Fundamentos de Biodiseño
 ¡Bienvenidos al repositorio del grupo 10 de Fundamentos de Biodiseño!
 
 # Conoce a nuestro equipo
-- Jose Luis Jesús Nuñez Rivera (Coordinador General)
-- Micaela de Fatima Tassara Camarena (Coordinadora de Modelado 3D)
-- Edgar Antonio Aguilar Ocas (Coordinador de Electrónica)
-- Andree Pascale Merino Contreras (Coordinadora de Programación
-- Valeria Alejandra Leonardo Castillón (Coordinadora de Impresión 3D)
+- _Jose Luis Jesús Nuñez Rivera (Coordinador General)_
+- _Micaela de Fatima Tassara Camarena (Coordinadora de Modelado 3D)_
+- _Edgar Antonio Aguilar Ocas (Coordinador de Electrónica)_
+- _Andree Pascale Merino Contreras (Coordinadora de Programación)_
+- _Valeria Alejandra Leonardo Castillón (Coordinadora de Impresión 3D)_
+
+# ¿A qué nos referimos con Open Science Hardware?
+
+El Hardware es una parte esencial de procesos experimentales y los avances en la instrumentación han sido clave para revoluciones científicas. Sin embargo, la actual cadena de suministros de estos hardware científicos limita el acceso e impide la creatividad y personalización. El Open Science Hardware aborda esta problemática facilitando un espacio para compartir, diseñar y fabricar de manera abierta y accesible herramientas, dispositivos y equipos usados en investigaciones científicas y experimentos. Con esto se busca incrementar la transparencia, colaboración y accesibilidad en la comunidad científica, permitiendo que todo esto esté disponible gratuitamente a cualquiera para reproducir, modificar y compartir. [14]
 
 # Analisis del caso 
 1. "Tema": Open Science Hardware para Salud y Laboratorio
@@ -72,6 +76,7 @@ In situ 3D bioprinting: A promising technique in advanced biofabrication strateg
 11. INSN SAN BORJA SALVA VIDA DE PACIENTES CON EXTENSAS QUEMADURAS CON APLICACIÓN DE PIEL CULTIVADA [Internet]. Gob.pe. [citado el 30 de agosto de 2023]. Disponible en: https://www.insnsb.gob.pe/blog/2016/04/27/insn-san-borja-salva-vida-de-pacientes-con-extensas-quemaduras-con-aplicacion-de-piel-cultivada/ 
 12. Chau Ramos EA, Hospital María Auxiliadora, Unidad de Cirugía Plástica. Lima, Perú. Evaluación de cicatrización en zonas donantes de injerto de piel parcial con uso de Xenoinjerto en comparación con sustituto dérmico. Horiz méd [Internet]. 2019 [citado el 30 de agosto de 2023];19(3):20–6. Disponible en: https://www.horizontemedico.usmp.edu.pe/index.php/horizontemed/article/view/1070
 13. Tejido humano en impresora 3D. M. Juste. [Internet]. 2017 [citado el 31 de agosto de 2023]. Disponible en: https://www.expansion.com/economia-digital/innovacion/2017/07/31/5979fa8e268e3e774b8b45b2.html
+14. Gathering for Open Science Hardware. Why GOSH? - gathering for open science hardware [Internet]. Gathering for Open Science Hardware - Gathering for Open Science Hardware. 2021. Disponible en: https://openhardware.science/about/why-gosh/
  
 
 
