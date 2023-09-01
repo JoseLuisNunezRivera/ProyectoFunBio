@@ -42,9 +42,9 @@ Población Objetivo: Niños y adolescentes de edades comprendidas entre 5 y 15 a
 
 Requisitos de Elegibilidad:
 
-No presentar alergias a la anestesia, ni a los otros medicamentos que usen en la operación
-Ausencia de problemas de coagulación, incluyendo la condición de hemofilia.
-Mantener niveles estables de azúcar en sangre.
+- No presentar alergias a la anestesia, ni a los otros medicamentos que usen en la operación
+- Ausencia de problemas de coagulación, incluyendo la condición de hemofilia.
+- Mantener niveles estables de azúcar en sangre.
 
 Situación Médica Específica:
 La clínica se especializa en abordar quemaduras de segundo grado que no involucren la exposición del hueso. Estas quemaduras pueden ser altamente dolorosas y afectar áreas considerables del cuerpo, causando molestias y malestar significativos.
