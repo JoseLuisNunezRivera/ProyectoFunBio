@@ -39,39 +39,37 @@ La capacidad del desarrollo de un prototipo y posterior bioimpresora posibilita 
 
 ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018549/b35b7761-393f-4b75-9cef-987a53142c54)
 
-# Estado del arte comercial
+# Estado del arte 
+
+## Productos comerciales
 
 | Nombre | Características |
 | ------ | --------------- |
-| Biopen | bIOPRINTER      |
+| Biopen | El sistema Biopen incluye un sistema de extrusión motorizado, un cartucho de biotinta, una boquilla y una unidad de fotocurado. Con su unidad de luz visible reemplazable, permite reticular hidrogeles con diferentes fotoiniciadores. Con su sistema de extrusión ajustable, puede realizar bioimpresiones compatibles con las células y permite que el hidrogel cargado de células se imprima a la velocidad deseada en el cartucho. Fuente de fotocurado: LED de luz visible. Peso: 700 g. Velocidad de extrusión: 5 - 35 mm/min |
+
+
+## Patentes de invención y/o utilidad
+
+
+
+# Lista de requerimientos
+
+|Funcionales: ¿Qué es lo que el diseño debe hacer? |
+|---------------------------------------------------|
+|- Controlar el proceso de extrusión de material a una velocidad constante|
+|- Funcionar por largos periodos de tiempo sin necesidad de ser alimentado por una fuente externa|
+
+| No funcionales: ¿Cuáles son las propiedades del diseño? |
+|---------------------------------------------------------|
+|- Ser asequible y accesible para hospitales y clínicas médicas.|
+|- Ser portátil  y capaz de ser transportado fácilmente|
 
 
 
 
+# Planteamiento de la solución
 
 
-
-
-- " Bioprinter in situ " : los avances en la impresión in situ han ido aumentando con el tiempo. Esta novedosa técnica permite la bioimpresión directamente en el tejido u órgano dañado. Actualmente podemos clasificar los equipos de bioimpresión in situ como 2; bedside mounted printers y hand-held printers. Siendo estas últimas foco de nuestra atención
-- Injertos de piel: El INSN ha comenzado con el cultivo de células para generar injertos, pero “ Este proceso demoró 21 días obteniendo más de 1,350 cm2 de piel cultivada, que sirvió para cubrir las zonas de la espalda, muslos, y hombro izquierdo del paciente”, por lo que este proceso tarda dependiendo de la zona afectada, ya que se tiene que genera la cantidad de células necesarias[11].
-- Sustitutos dérmicos: Generados a base de biomateriales (colágeno) compatibles con la piel han demostrado tener mejor cicatrización para la zona donante, pero eso no significa que eso aplica a pacientes con quemaduras graves, ejemplo: Integra. [12]
-- Tejido humano usado en impresora 3D (España): Ingenieros y científicos de la Universidad Complutense de Madrid y del CSIC, han logrado imprimir tejido humano (hueso y cartílago) para implantarlos en el cuerpo de pacientes con roturas o lesiones. [14]
-
-# Clinica de problématica en salud
-
-Población Objetivo: Niños y adolescentes de edades comprendidas entre 5 y 15 años.
-
-Requisitos de Elegibilidad:
-
-- No presentar alergias a la anestesia, ni a los otros medicamentos que usen en la operación
-- Ausencia de problemas de coagulación, incluyendo la condición de hemofilia.
-- Mantener niveles estables de azúcar en sangre.
-
-Situación Médica Específica:
-La clínica se especializa en abordar quemaduras de segundo grado que no involucren la exposición del hueso. Estas quemaduras pueden ser altamente dolorosas y afectar áreas considerables del cuerpo, causando molestias y malestar significativos.
-
-Atención Preoperatoria:
-Antes de la cirugía, realizamos una evaluación exhaustiva para asegurarnos de que el paciente cumpla con los requisitos de elegibilidad. Además, evaluamos los niveles de coagulación sanguínea para garantizar la seguridad del procedimiento.
 
 ## Bibliografía 
 1. Organización Mundial de la Salud. (2018). Quemaduras: Datos y cifras. https://www.who.int/es/news-room/fact-sheets/detail/burns
