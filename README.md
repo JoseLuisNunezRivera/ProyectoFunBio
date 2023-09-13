@@ -60,7 +60,7 @@ Un sistema mínimamente invasivo que utiliza un robot quirúrgico como impresora
 #### 2.2 US11325301B2: EQUIPO DE IMPRESIÓN 3D QUE UTILIZA MATERIAL BIOLÓGICO Y SU MÉTODO
 Aparato de bioimpresión 3D y un método de bioimpresión tridimensional que utiliza el aparato. El aparato de bioimpresión 3D comprende un marco de impresora. Un dispositivo de lápiz de bioimpresión 3D está dispuesto en el marco de la impresora e incluye un lápiz de impresión desmontable. Patente presentada en 2017, Estados Unidos.
 
-#### US20200123485A1: DISPOSITIVOS, SISTEMAS Y MÉTODOS DE BIOIMPRESIÓN PARA IMPRIMIR GELES BLANDOS PARA EL TRATAMIENTO DE TRASTORNOS MUSCULOESQUELÉTICOS Y DE LA PIEL.
+#### 2.3 US20200123485A1: DISPOSITIVOS, SISTEMAS Y MÉTODOS DE BIOIMPRESIÓN PARA IMPRIMIR GELES BLANDOS PARA EL TRATAMIENTO DE TRASTORNOS MUSCULOESQUELÉTICOS Y DE LA PIEL.
 Dispositivos, sistemas y métodos que utilizan bioimpresoras para formar estructuras de andamio in situ para facilitar el tratamiento de trastornos musculoesqueléticos o de la piel en pacientes. Un método para tratar un trastorno musculoesquelético de un paciente incluye colocar una bioimpresora en un lugar del trastorno musculoesquelético, o en un lugar de una lesión cutánea, en el paciente. El método incluye extruir una formulación de hidrogel desde la bioimpresora al lugar. El método incluye curar la formulación de hidrogel en el lugar. La formulación de hidrogel tiene una composición eficaz para generar, tras el curado, una estructura de soporte en el lugar para facilitar la hipertrofia muscular o la curación de heridas de la piel en el lugar. Patente presentada en 2019, Estados Unidos.
 
 
