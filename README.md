@@ -66,7 +66,7 @@ Un sistema mínimamente invasivo que utiliza un robot quirúrgico como impresora
 - Controlar el proceso de extrusión de material a una velocidad constante
 - Funcionar por largos periodos de tiempo sin necesidad de ser alimentado por una fuente externa
 - Imprimir  múltiples tipos de células de manera orientada y precisa, adaptada a cada herida individual
--  Mantener una temperatura constante que permita la preservación de las células durante la aplicación.
+-  Mantener una temperatura constante que permita la preservación de las células durante la aplicación
   
 *No funcionales: ¿Cuáles son las propiedades del diseño?*
 - Cumplir con estándares de seguridad médica y estar diseñado para minimizar riesgos de infección o reacciones adversas en el paciente.
