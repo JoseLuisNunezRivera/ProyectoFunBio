@@ -89,7 +89,7 @@ Dispositivos, sistemas y métodos que utilizan bioimpresoras para formar estruct
 
 # Propuesta de solución
 
-
+Bioimpresora in situ con tecnología de impresión UV por fotoreticulación, para la aplicación precisa de hidrogeles fotopolimerizables, que acelera la cicatrización en pacientes con quemaduras y reduce el riesgo de infecciones.
 
 
 ## Bibliografía 
