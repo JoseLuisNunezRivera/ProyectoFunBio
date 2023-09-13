@@ -42,6 +42,8 @@ La capacidad del desarrollo de un prototipo y posterior bioimpresora posibilita 
 # Estado del arte comercial
 
 | Nombre | Características |
+| ------ | --------------- |
+| Biopen | bIOPRINTER      |
 
 
 
