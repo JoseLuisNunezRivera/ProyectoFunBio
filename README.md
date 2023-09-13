@@ -32,6 +32,7 @@ Según el Instituto Nacional de Salud del Niño, en la siguiente tabla se muestr
 Los costos pueden variar mucho según la región, el sistema de salud, el tipo de tratamiento requerido y otros factores.
 ### 1.4 Definición del problema: 
 Las quemaduras son lesiones producidas en tejido vivo, debido a la acción de agentes químicos o físicos, que provocan alteraciones que van desde un simple eritema transitorio hasta la destrucción total de las estructuras(4). 
+La falta de tecnología de bioimpresión en Perú para el tratamiento de heridas por quemaduras representa una problemática grave en la atención médica. A medida que las quemaduras continúan siendo un problema de salud significativo en el país, la ausencia de esta tecnología avanzada limita las opciones de tratamiento efectivas y la posibilidad de una recuperación más rápida y completa para los pacientes. Esto se traduce en un aumento en la morbilidad y la carga económica en el sistema de salud peruano, así como en la calidad de vida disminuida para las personas afectadas por quemaduras. La falta de acceso a la bioimpresión también restringe la capacidad de la comunidad médica peruana para llevar a cabo investigaciones y avances en el campo de la regeneración de tejidos y la medicina regenerativa, lo que podría tener un impacto duradero en la atención médica en el país.
 
 
 
@@ -53,17 +54,17 @@ Las quemaduras son lesiones producidas en tejido vivo, debido a la acción de ag
 
 # Lista de requerimientos
 
-|Funcionales: ¿Qué es lo que el diseño debe hacer? |
-|---------------------------------------------------|
-|- Controlar el proceso de extrusión de material a una velocidad constante|
-|- Funcionar por largos periodos de tiempo sin necesidad de ser alimentado por una fuente externa|
-|- Mantener una temperatura constante que permita la preservación de las células durante la aplicación. |
+*Funcionales: ¿Qué es lo que el diseño debe hacer?*
 
-| No funcionales: ¿Cuáles son las propiedades del diseño? |
-|---------------------------------------------------------|
-|- Ser asequible y accesible para hospitales y clínicas médicas.|
-|- Ser portátil  y capaz de ser transportado fácilmente|
-|- Carcasa exterior ergonómico y antideslizante|
+- Controlar el proceso de extrusión de material a una velocidad constante
+- Funcionar por largos periodos de tiempo sin necesidad de ser alimentado por una fuente externa
+- Imprimir  múltiples tipos de células de manera orientada y precisa, adaptada a cada herida individual
+
+*No funcionales: ¿Cuáles son las propiedades del diseño?*
+- Cumplir con estándares de seguridad médica y estar diseñado para minimizar riesgos de infección o reacciones adversas en el paciente.
+- Ser asequible y accesible para hospitales y clínicas médicas
+- Ser portátil  y capaz de ser transportado fácilmente
+- Carcasa exterior ergonómico y antideslizante
 
 
 
