@@ -39,7 +39,18 @@ La capacidad del desarrollo de un prototipo y posterior bioimpresora posibilita 
 
 ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018549/b35b7761-393f-4b75-9cef-987a53142c54)
 
-# Estado del arte
+# Estado del arte comercial
+|    Nombre    |   Características  |
+|              |                    |
+|              |                    | 
+
+
+
+
+
+
+
+
 - " Bioprinter in situ " : los avances en la impresión in situ han ido aumentando con el tiempo. Esta novedosa técnica permite la bioimpresión directamente en el tejido u órgano dañado. Actualmente podemos clasificar los equipos de bioimpresión in situ como 2; bedside mounted printers y hand-held printers. Siendo estas últimas foco de nuestra atención
 - Injertos de piel: El INSN ha comenzado con el cultivo de células para generar injertos, pero “ Este proceso demoró 21 días obteniendo más de 1,350 cm2 de piel cultivada, que sirvió para cubrir las zonas de la espalda, muslos, y hombro izquierdo del paciente”, por lo que este proceso tarda dependiendo de la zona afectada, ya que se tiene que genera la cantidad de células necesarias[11].
 - Sustitutos dérmicos: Generados a base de biomateriales (colágeno) compatibles con la piel han demostrado tener mejor cicatrización para la zona donante, pero eso no significa que eso aplica a pacientes con quemaduras graves, ejemplo: Integra. [12]
