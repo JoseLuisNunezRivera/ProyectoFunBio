@@ -32,8 +32,7 @@ Según el Instituto Nacional de Salud del Niño, en la siguiente tabla se muestr
 Los costos pueden variar mucho según la región, el sistema de salud, el tipo de tratamiento requerido y otros factores.
 ### 1.4 Definición del problema: 
 Las quemaduras son lesiones producidas en tejido vivo, debido a la acción de agentes químicos o físicos, que provocan alteraciones que van desde un simple eritema transitorio hasta la destrucción total de las estructuras(4). 
-Un aspecto importante en nuestro tema es la disponibilidad de esta tecnología en los hospitales nacionales, además del personal calificado para su correcta aplicación y desarrollo.
-La capacidad del desarrollo de un prototipo y posterior bioimpresora posibilita la difusión de los beneficios de su uso, además de los costos que puede llegar a reducir. Sumado a esto, se obtendrá una mejor y óptima recuperación de nuestros usuarios.
+
 
 
 
