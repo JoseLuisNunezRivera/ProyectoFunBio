@@ -40,9 +40,8 @@ La capacidad del desarrollo de un prototipo y posterior bioimpresora posibilita 
 ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018549/b35b7761-393f-4b75-9cef-987a53142c54)
 
 # Estado del arte comercial
-|    Nombre    |   Características  |
-|              |                    |
-|              |                    | 
+
+| Nombre | Características |
 
 
 
