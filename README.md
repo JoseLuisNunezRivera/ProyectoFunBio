@@ -46,9 +46,16 @@ La falta de tecnología de bioimpresión en Perú para el tratamiento de heridas
 | Nombre | Características |
 | ------ | --------------- |
 | Biopen | El sistema Biopen incluye un sistema de extrusión motorizado, un cartucho de biotinta, una boquilla y una unidad de fotocurado. Con su unidad de luz visible reemplazable, permite reticular hidrogeles con diferentes fotoiniciadores. Con su sistema de extrusión ajustable, puede realizar bioimpresiones compatibles con las células y permite que el hidrogel cargado de células se imprima a la velocidad deseada en el cartucho. Fuente de fotocurado: LED de luz visible. Peso: 700 g. Velocidad de extrusión: 5 - 35 mm/min |
+| AxceldaPen |  Impresión de células óseas para tratar el desgaste de rodilla y daño al cartílago. Su bio tinta es a base de las propias células del paciente que son cultivadas previas a su cirugía, este proceso permite al cirujano medir el tamaño del cartílago necesario para cada paciente. |
 
 
 ## Patentes de invención y/o utilidad
+
+### 1.1 CN110769771B: ROBOT IMPRESORA BIOLÓGICA TRIDIMENSIONAL
+
+Un sistema mínimamente invasivo que utiliza un robot quirúrgico como impresora tridimensional para fabricar tejido biológico en un sujeto. La planificación preoperatoria se utiliza para instruir y controlar el movimiento del robot y la extrusión robótica de biotinta. El movimiento del robot se coordina con la extrusión de tinta para formar capas del espesor y tamaño deseados, y el uso de diferentes tipos de tinta permite colocar el elemento compuesto. Dichos sistemas tienen un mecanismo de expulsión de biotinta de pequeño diámetro, generalmente en forma de cánula impulsada por un pistón, que permite el acceso a áreas con espacio limitado (como las articulaciones). El control robótico está programado para realizar un movimiento angular alrededor de un punto de pivote en un punto de inserción en el sujeto. La biotinta se puede almacenar en una capa predeterminada en la cánula para permitir la dispensación secuencial desde una cánula. Patente presentada en 2018, China.
+
+
 
 
 
