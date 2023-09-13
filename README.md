@@ -58,11 +58,13 @@ La capacidad del desarrollo de un prototipo y posterior bioimpresora posibilita 
 |---------------------------------------------------|
 |- Controlar el proceso de extrusión de material a una velocidad constante|
 |- Funcionar por largos periodos de tiempo sin necesidad de ser alimentado por una fuente externa|
+|- Mantener una temperatura constante que permita la preservación de las células durante la aplicación. |
 
 | No funcionales: ¿Cuáles son las propiedades del diseño? |
 |---------------------------------------------------------|
 |- Ser asequible y accesible para hospitales y clínicas médicas.|
 |- Ser portátil  y capaz de ser transportado fácilmente|
+|- Carcasa exterior ergonómico y antideslizante|
 
 
 
