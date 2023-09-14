@@ -46,8 +46,10 @@ La falta de tecnología de bioimpresión en Perú para el tratamiento de heridas
 | Nombre | Características |
 | ------ | --------------- |
 | Biopen | El sistema Biopen incluye un sistema de extrusión motorizado, un cartucho de biotinta, una boquilla y una unidad de fotocurado. Con su unidad de luz visible reemplazable, permite reticular hidrogeles con diferentes fotoiniciadores. Con su sistema de extrusión ajustable, puede realizar bioimpresiones compatibles con las células y permite que el hidrogel cargado de células se imprima a la velocidad deseada en el cartucho. Fuente de fotocurado: LED de luz visible. Peso: 700 g. Velocidad de extrusión: 5 - 35 mm/min ![WhatsApp Image 2023-09-12 at 23 39 20](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/d2f227fc-6f3e-4884-9298-fa22dcb96ce1)|
+| ------ | --------------- |
 | AxceldaPen |  Impresión de células óseas para tratar el desgaste de rodilla y daño al cartílago. Su bio tinta es a base de las propias células del paciente que son 
 cultivadas previas a su cirugía, este proceso permite al cirujano medir el tamaño del cartílago necesario para cada paciente. ![WhatsApp Image 2023-09-12 at 23 40 32](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/47091ba6-e5be-4359-b378-2511cd12171d) |
+| ------ | --------------- |
 | iFixPen® | El iFixPen es un dispositivo de mano que entrega una estructura impresa en 3D directamente sobre defectos corneales. Entrega una estructura impresa en 3D directamente sobre defectos corneales. La tinta iFixInk, pendiente de patente, crea una estructura completamente transparente y biodegradable para sellar la herida, prevenir la infiltración de patógenos, aliviar el dolor y acelerar la curación. ![WhatsApp Image 2023-09-12 at 23 41 24](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/e8d23090-c875-4c4d-bfb6-0de70207e938) |
 
 
