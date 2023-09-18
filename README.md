@@ -1,5 +1,7 @@
 # Proyecto Fundamentos de Biodiseño
-¡Bienvenidos al repositorio del grupo 10 de Fundamentos de Biodiseño!
+**<p align="center">
+¡Bienvenidos al repositorio del grupo 10 de Fundamentos de Biodiseño!**
+</p>
 
 # Conoce a nuestro equipo
 - _Jose Luis Jesús Nuñez Rivera (Coordinador General)_
@@ -86,7 +88,7 @@ Dispositivos, sistemas y métodos que utilizan bioimpresoras para formar estruct
 
 # Propuesta de solución
 
-Bioimpresora in situ con tecnología de impresión UV por fotoreticulación, para la aplicación precisa de hidrogeles fotopolimerizables, que acelera la cicatrización en pacientes con quemaduras y reduce el riesgo de infecciones.
+Nuestra propuesta de solución es una bioimpresora in situ con tecnología de impresión UV por fotoreticulación, para la aplicación precisa de hidrogeles fotopolimerizables, que acelera la cicatrización en pacientes con quemaduras y reduce el riesgo de infecciones.
 
 
 ## Bibliografía 
