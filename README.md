@@ -65,7 +65,7 @@ La falta de tecnología de bioimpresión en Perú para el tratamiento de heridas
 
 ## Patentes de invención y/o utilidad
 
-#### 2.1 CN110769771B: ROBOT IMPRESORA BIOLÓGICA TRIDIMENSIONAL[15]
+#### 2.1 CN110769771B: ROBOT IMPRESORA BIOLÓGICA TRIDIMENSIONAL. [15]
 
 Un sistema mínimamente invasivo que utiliza un robot quirúrgico como impresora tridimensional para fabricar tejido biológico en un sujeto. La planificación preoperatoria se utiliza para instruir y controlar el movimiento del robot y la extrusión robótica de biotinta. El movimiento del robot se coordina con la extrusión de tinta para formar capas del espesor y tamaño deseados, y el uso de diferentes tipos de tinta permite colocar el elemento compuesto. Dichos sistemas tienen un mecanismo de expulsión de biotinta de pequeño diámetro, generalmente en forma de cánula impulsada por un pistón, que permite el acceso a áreas con espacio limitado (como las articulaciones). El control robótico está programado para realizar un movimiento angular alrededor de un punto de pivote en un punto de inserción en el sujeto. La biotinta se puede almacenar en una capa predeterminada en la cánula para permitir la dispensación secuencial desde una cánula. Patente presentada en 2018, China.
 
@@ -74,22 +74,19 @@ Un sistema mínimamente invasivo que utiliza un robot quirúrgico como impresora
 </p>
 
 
-#### 2.2 US11325301B2: EQUIPO DE IMPRESIÓN 3D QUE UTILIZA MATERIAL BIOLÓGICO Y SU MÉTODO[16]
+#### 2.2 US11325301B2: EQUIPO DE IMPRESIÓN 3D QUE UTILIZA MATERIAL BIOLÓGICO Y SU MÉTODO. [16]
 Aparato de bioimpresión 3D y un método de bioimpresión tridimensional que utiliza el aparato. El aparato de bioimpresión 3D comprende un marco de impresora. Un dispositivo de lápiz de bioimpresión 3D está dispuesto en el marco de la impresora e incluye un lápiz de impresión desmontable. Patente presentada en 2017, Estados Unidos.
 
 <p align="center">
   <img width="500" height="376" src="https://patentimages.storage.googleapis.com/a3/7e/ed/00a4d92a281746/US11325301-20220510-D00001.png">
 </p>
 
-#### 2.3 US20200123485A1: DISPOSITIVOS, SISTEMAS Y MÉTODOS DE BIOIMPRESIÓN PARA IMPRIMIR GELES BLANDOS PARA EL TRATAMIENTO DE TRASTORNOS MUSCULOESQUELÉTICOS Y DE LA PIEL.[17]
+#### 2.3 US20200123485A1: DISPOSITIVOS, SISTEMAS Y MÉTODOS DE BIOIMPRESIÓN PARA IMPRIMIR GELES BLANDOS PARA EL TRATAMIENTO DE TRASTORNOS MUSCULOESQUELÉTICOS Y DE LA PIEL. [17]
 Dispositivos, sistemas y métodos que utilizan bioimpresoras para formar estructuras de andamio in situ para facilitar el tratamiento de trastornos musculoesqueléticos o de la piel en pacientes. Un método para tratar un trastorno musculoesquelético de un paciente incluye colocar una bioimpresora en un lugar del trastorno musculoesquelético, o en un lugar de una lesión cutánea, en el paciente. El método incluye extruir una formulación de hidrogel desde la bioimpresora al lugar. El método incluye curar la formulación de hidrogel en el lugar. La formulación de hidrogel tiene una composición eficaz para generar, tras el curado, una estructura de soporte en el lugar para facilitar la hipertrofia muscular o la curación de heridas de la piel en el lugar. Patente presentada en 2019, Estados Unidos.
 
 <p align="center">
   <img width="634.75" height="412.25" src="https://i.imgur.com/GxFTSh3.png">
 </p>
-
-<img src="https://patentimages.storage.googleapis.com/3c/0d/04/75c3ed3dcd04bb/US20200123485A1-20200423-D00008.png" width="1000" height="1000">
-
 
 # Lista de requerimientos
 
@@ -115,7 +112,7 @@ Nuestra propuesta de solución es una bioimpresora in situ con tecnología de im
 
 
 ## Bibliografía 
-[1^]. Organización Mundial de la Salud. (2018). Quemaduras: Datos y cifras. https://www.who.int/es/news-room/fact-sheets/detail/burns
+1. Organización Mundial de la Salud. (2018). Quemaduras: Datos y cifras. https://www.who.int/es/news-room/fact-sheets/detail/burns
 2. PIEL DE CERDO LIOFILIZADA EN TRATAMIENTO DE QUEMADURAS: SERIE DE CASOS 2014-2016 https://revistas.uss.edu.pe/index.php/tzh/article/view/1329/1267
 3. Ministerio de Salud. (2020). Lineamiento para la prevención y atención integral de personas con lesiones por quemaduras. https://cdn.www.gob.pe/uploads/document/file/1400166/RM%20883-2020-MINSA.PDF.PDF 
 4. Tian H, Wang L, Xie W, Shen C, Guo G, Liu J, Han C, Ren L, Liang Y, Tang Y, Wang Y, Yin M, Zhang J, Huang Y. Epidemiologic and clinical characteristics of severe burn patients: results of a retrospective multicenter study in China, 2011-2015. Burns Trauma. 2018 May 23;6:14. Disponible en: https://pubmed.ncbi.nlm.nih.gov/29850643/  
@@ -130,9 +127,9 @@ In situ 3D bioprinting: A promising technique in advanced biofabrication strateg
 12. Chau Ramos EA, Hospital María Auxiliadora, Unidad de Cirugía Plástica. Lima, Perú. Evaluación de cicatrización en zonas donantes de injerto de piel parcial con uso de Xenoinjerto en comparación con sustituto dérmico. Horiz méd [Internet]. 2019 [citado el 30 de agosto de 2023];19(3):20–6. Disponible en: https://www.horizontemedico.usmp.edu.pe/index.php/horizontemed/article/view/1070
 13. Tejido humano en impresora 3D. M. Juste. [Internet]. 2017 [citado el 31 de agosto de 2023]. Disponible en: https://www.expansion.com/economia-digital/innovacion/2017/07/31/5979fa8e268e3e774b8b45b2.html
 14. Gathering for Open Science Hardware. Why GOSH? - gathering for open science hardware [Internet]. Gathering for Open Science Hardware - Gathering for Open Science Hardware. 2021. Disponible en: https://openhardware.science/about/why-gosh/
-[15]. THREE-DIMENSIONAL ROBOT BIOLOGICAL PRINTER - CN110769771B - https://worldwide.espacenet.com/patent/search?q=pn%3DCN110769771B
-[16]. 3D PRINTING EQUIPMENT UTILIZING BIOLOGICAL MATERIAL, AND METHOD - US11325301B2 - https://worldwide.espacenet.com/patent/search/family/056325304/publication/US11325301B2?q=pn%3DUS11325301B2
-[17]. BIOPRINTER DEVICES, SYSTEMS AND METHODS FOR PRINTING SOFT GELS FOR THE TREATMENT OF MUSCULOSKELETAL AND SKIN DISORDERS - US20200123485A1 - https://worldwide.espacenet.com/patent/search/family/070279465/publication/US2020123485A1?q=pn%3DUS2020123485A1
+15. THREE-DIMENSIONAL ROBOT BIOLOGICAL PRINTER - CN110769771B - https://worldwide.espacenet.com/patent/search?q=pn%3DCN110769771B
+16. 3D PRINTING EQUIPMENT UTILIZING BIOLOGICAL MATERIAL, AND METHOD - US11325301B2 - https://worldwide.espacenet.com/patent/search/family/056325304/publication/US11325301B2?q=pn%3DUS11325301B2
+17. BIOPRINTER DEVICES, SYSTEMS AND METHODS FOR PRINTING SOFT GELS FOR THE TREATMENT OF MUSCULOSKELETAL AND SKIN DISORDERS - US20200123485A1 - https://worldwide.espacenet.com/patent/search/family/070279465/publication/US2020123485A1?q=pn%3DUS2020123485A1
 
 
  
