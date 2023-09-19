@@ -18,8 +18,8 @@
 | Coordinadora de Modelado 3D | Micaela de Fatima Tassara Camarena | .|
 | Coordinador de Electrónica | Edgar Antonio Aguilar Ocas | . |
 | Coordinadora de Programación | Andree Pascale Merino Contreras | . |
-| Coordinadora de Impresión 3D | Valeria Alejandra Leonardo Castillón | ![Uploading image.png…]()
- |
+| Coordinadora de Impresión 3D | Valeria Alejandra Leonardo Castillón |![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/505de8a7-6597-4738-9d9c-96426f7614ff)
+|
 </p>
 
 # ¿A qué nos referimos con Open Science Hardware?
