@@ -10,6 +10,17 @@
 - _Andree Pascale Merino Contreras (Coordinadora de Programación)_
 - _Valeria Alejandra Leonardo Castillón (Coordinadora de Impresión 3D)_
 
+<p align="center">
+ 
+| Cargo | Apellidos y nombres | .|
+|-------|---------------------|-|
+| Coordinador General | Jose Luis Jesús Nuñez Rivera | .|
+| Coordinadora de Modelado 3D | Micaela de Fatima Tassara Camarena | .|
+| Coordinador de Electrónica | Edgar Antonio Aguilar Ocas | . |
+| Coordinadora de Programación | Andree Pascale Merino Contreras | . |
+| Coordinadora de Impresión 3D | Valeria Alejandra Leonardo Castillón | . |
+</p>
+
 # ¿A qué nos referimos con Open Science Hardware?
 
 El Hardware es una parte esencial de procesos experimentales y los avances en la instrumentación han sido clave para revoluciones científicas. Sin embargo, la actual cadena de suministros de estos hardware científicos limita el acceso e impide la creatividad y personalización. El Open Science Hardware aborda esta problemática facilitando un espacio para compartir, diseñar y fabricar de manera abierta y accesible herramientas, dispositivos y equipos usados en investigaciones científicas y experimentos. Con esto se busca incrementar la transparencia, colaboración y accesibilidad en la comunidad científica, permitiendo que todo esto esté disponible gratuitamente a cualquiera para reproducir, modificar y compartir. [14]
