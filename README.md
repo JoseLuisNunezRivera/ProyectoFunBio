@@ -78,7 +78,7 @@ Un sistema mínimamente invasivo que utiliza un robot quirúrgico como impresora
 Aparato de bioimpresión 3D y un método de bioimpresión tridimensional que utiliza el aparato. El aparato de bioimpresión 3D comprende un marco de impresora. Un dispositivo de lápiz de bioimpresión 3D está dispuesto en el marco de la impresora e incluye un lápiz de impresión desmontable. Patente presentada en 2017, Estados Unidos.
 
 <p align="center">
-  <img width="500" height="376" src="https://patentimages.storage.googleapis.com/a3/7e/ed/00a4d92a281746/US11325301-20220510-D00001.png">
+  <img width="607.5" height="542" src="https://patentimages.storage.googleapis.com/a3/7e/ed/00a4d92a281746/US11325301-20220510-D00001.png">
 </p>
 
 #### 2.3 US20200123485A1: DISPOSITIVOS, SISTEMAS Y MÉTODOS DE BIOIMPRESIÓN PARA IMPRIMIR GELES BLANDOS PARA EL TRATAMIENTO DE TRASTORNOS MUSCULOESQUELÉTICOS Y DE LA PIEL. [17]
