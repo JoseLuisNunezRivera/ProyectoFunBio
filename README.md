@@ -31,7 +31,7 @@ El Hardware es una parte esencial de procesos experimentales y los avances en la
  
 
 ### 1.2 Contexto social
-- Las quemaduras representan un desafío de salud pública a nivel global. No solo por la frecuencia y facilidad con la que ocurren, sino que, en función de su gravedad, pueden generar discapacidades e incluso la muerte. Según la OMS, a nivel mundial, se estima que alrededor de 180,000 muertes ocurren anualmente debido a quemaduras. En países con desarrollo medio y bajo, las quemaduras ocupan el tercer lugar como causa de muerte accidental. [1]
+- Las quemaduras representan un desafío de salud pública a nivel global. No solo por la frecuencia y facilidad con la que ocurren, sino que, en función de su gravedad, pueden generar discapacidades e incluso la muerte. Según la OMS, a nivel mundial, se estima que alrededor de 180,000 muertes ocurren anualmente debido a quemaduras. En países con desarrollo medio y bajo, las quemaduras ocupan el tercer lugar como causa de muerte accidental. [^1]
 - En el Perú, “entre enero y febrero del 2023, el Instituto Nacional de Salud del Niño San Borja, recibió a 75 niños con quemaduras graves, cifra que se ha incrementado en 60% en relación al mismo periodo del 2022 que atendió a 47 menores de Lima y de las diversas regiones del país” [10].
 - La recuperación de una persona quemada suele llevar semanas o incluso meses, durante los cuales experimenta dolor y sufrimiento tanto físico como emocional. El tratamiento y cuidado implica costos significativos, lo que genera tanto carga para el Estado como para la familia del afectado.(Martín y Piris, 2014). La morbilidad y mortalidad aumentan por la presencia de infección y por las heridas profundas que se presentan por la pérdida de la humedad de los tejidos expuestos por la quemadura. [2]
 - Por otro lado, según los diagnósticos consignados en la base de datos de HIS, se puede identificar que las localizaciones más frecuentes de quemaduras son los extremos distales de los miembros (muñecas, manos, tobillos y pies), seguida de los miembros inferiores, cabeza - cuello. [3] 
@@ -108,7 +108,7 @@ Nuestra propuesta de solución es una bioimpresora in situ con tecnología de im
 
 
 ## Bibliografía 
-1. Organización Mundial de la Salud. (2018). Quemaduras: Datos y cifras. https://www.who.int/es/news-room/fact-sheets/detail/burns
+[1^]. Organización Mundial de la Salud. (2018). Quemaduras: Datos y cifras. https://www.who.int/es/news-room/fact-sheets/detail/burns
 2. PIEL DE CERDO LIOFILIZADA EN TRATAMIENTO DE QUEMADURAS: SERIE DE CASOS 2014-2016 https://revistas.uss.edu.pe/index.php/tzh/article/view/1329/1267
 3. Ministerio de Salud. (2020). Lineamiento para la prevención y atención integral de personas con lesiones por quemaduras. https://cdn.www.gob.pe/uploads/document/file/1400166/RM%20883-2020-MINSA.PDF.PDF 
 4. Tian H, Wang L, Xie W, Shen C, Guo G, Liu J, Han C, Ren L, Liang Y, Tang Y, Wang Y, Yin M, Zhang J, Huang Y. Epidemiologic and clinical characteristics of severe burn patients: results of a retrospective multicenter study in China, 2011-2015. Burns Trauma. 2018 May 23;6:14. Disponible en: https://pubmed.ncbi.nlm.nih.gov/29850643/  
