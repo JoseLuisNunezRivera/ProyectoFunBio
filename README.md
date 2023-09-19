@@ -15,7 +15,7 @@
 | Cargo | Apellidos y nombres | .|
 |-------|---------------------|-|
 | Coordinador General | Jose Luis Jesús Nuñez Rivera | .|
-| Coordinadora de Modelado 3D | Micaela de Fatima Tassara Camarena | .|
+| Coordinadora de Modelado 3D | Micaela de Fatima Tassara Camarena ||
 | Coordinador de Electrónica | Edgar Antonio Aguilar Ocas | . |
 | Coordinadora de Programación | Andree Pascale Merino Contreras | . |
 | Coordinadora de Impresión 3D | Valeria Alejandra Leonardo Castillón |. |
