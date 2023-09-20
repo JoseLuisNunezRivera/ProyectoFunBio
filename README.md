@@ -110,10 +110,15 @@ Dispositivos, sistemas y métodos que utilizan bioimpresoras para formar estruct
 
 Nuestra propuesta de solución es una bioimpresora in situ con tecnología de impresión UV por fotoreticulación, para la aplicación precisa de hidrogeles fotopolimerizables, que acelera la cicatrización en pacientes con quemaduras y reduce el riesgo de infecciones.
 
-# CAJA NEGRA
-
+# Caja negra
+Etapa de abstracción de nuestro proyecto a prototipar.
 
 ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143332991/f52c6264-8b43-45f2-892a-cd1994637ae2)
+
+# Esquema de funciones
+listado de funciones que definen nuestra propuesta de solución
+
+![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143332991/a151dac5-0a3d-45d0-b250-385203632a3d)
 
 
 ## Bibliografía 
