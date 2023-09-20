@@ -113,6 +113,9 @@ Nuestra propuesta de solución es una bioimpresora in situ con tecnología de im
 # CAJA NEGRA
 
 
+![4](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143332991/f52c6264-8b43-45f2-892a-cd1994637ae2)
+
+
 ## Bibliografía 
 1. Organización Mundial de la Salud. (2018). Quemaduras: Datos y cifras. https://www.who.int/es/news-room/fact-sheets/detail/burns
 2. PIEL DE CERDO LIOFILIZADA EN TRATAMIENTO DE QUEMADURAS: SERIE DE CASOS 2014-2016 https://revistas.uss.edu.pe/index.php/tzh/article/view/1329/1267
