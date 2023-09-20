@@ -139,7 +139,8 @@ __FUNCIONES:__
 
 
 # Matriz morfologica
-![Image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143332991/c3254eb7-83d5-4ddc-8169-e58fd4c765f6)
+![WhatsApp Image 2023-09-19 at 23 55 46](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/bc73d4bb-37f1-4fbd-ba34-f0f22fe27e5b)
+
 
 # Tabla de valoración
 
