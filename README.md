@@ -121,6 +121,11 @@ listado de funciones que definen nuestra propuesta de solución
 
 ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143332991/a151dac5-0a3d-45d0-b250-385203632a3d)
 
+# Matriz morfologica
+
+# Tabla de valoración
+
+# Conclusión
 
 ## Bibliografía 
 1. Organización Mundial de la Salud. (2018). Quemaduras: Datos y cifras. https://www.who.int/es/news-room/fact-sheets/detail/burns
