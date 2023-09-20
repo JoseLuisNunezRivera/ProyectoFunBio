@@ -15,7 +15,7 @@
 | Cargo | Apellidos y nombres | .|
 |-------|---------------------|-|
 | Coordinador General | Jose Luis Jesús Nuñez Rivera | .|
-| Coordinadora de Modelado 3D | Micaela de Fátima Tassara Camarena|![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/44e6e9af-ad05-4ed4-aaeb-d5ab6d765cb7)|
+| Coordinadora de Modelado 3D |                   Micaela de Fátima Tassara Camarena                       |![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/44e6e9af-ad05-4ed4-aaeb-d5ab6d765cb7)|
 | Coordinador de Electrónica | Edgar Antonio Aguilar Ocas | . |
 | Coordinadora de Programación | Andree Pascale Merino Contreras | . |
 | Coordinadora de Impresión 3D | Valeria Alejandra Leonardo Castillón |. |
