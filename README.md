@@ -16,7 +16,8 @@
 |-------|---------------------|-|
 | Coordinador General | Jose Luis Jesús Nuñez Rivera | .|
 | Coordinadora de Modelado 3D |                   Micaela de Fátima Tassara Camarena                       |![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/44e6e9af-ad05-4ed4-aaeb-d5ab6d765cb7)|
-| Coordinador de Electrónica | Edgar Antonio Aguilar Ocas | . |
+| Coordinador de Electrónica | Edgar Antonio Aguilar Ocas | ![Image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143332991/7b11ad99-30e0-4acb-b5b1-b57fcb73ede9)
+. |
 | Coordinadora de Programación | Andree Pascale Merino Contreras | . |
 | Coordinadora de Impresión 3D | Valeria Alejandra Leonardo Castillón |. |
 </p>
