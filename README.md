@@ -147,7 +147,7 @@ __FUNCIONES:__
 
 
 # Conclusión
-El proyecto ofrece una visión prometedora para abordar un problema crítico de salud pública en Perú mediante el uso de tecnologías de bioimpresión accesibles y avanzadas. Sin embargo, es esencial abordar cuidadosamente los desafíos técnicos y de diseño, así como promover la colaboración y la adopción de Open Science Hardware en la comunidad médica para lograr un impacto significativo en la atención de quemaduras.
+El proyecto ofrece una visión prometedora para abordar un problema crítico de salud pública en Perú mediante el uso de tecnologías de bioimpresión accesibles y avanzadas. Sin embargo, es esencial abordar cuidadosamente los desafíos técnicos y de diseño, así como promover la colaboración y la adopción de Open Science Hardware en la comunidad médica para lograr un impacto significativo en la atención de quemaduras.Por esto, la propuesta número 3 fue la elegida por su accesible costo, fácil manejo así como eficacia. También el material utilizado ayuda a la cicatrización y a la prevención de infecciones.
 
 ## Bibliografía 
 1. Organización Mundial de la Salud. (2018). Quemaduras: Datos y cifras. https://www.who.int/es/news-room/fact-sheets/detail/burns
