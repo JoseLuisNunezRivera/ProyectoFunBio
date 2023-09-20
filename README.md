@@ -118,13 +118,13 @@ Listado de funciones que definen nuestra propuesta de solución
 ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143332991/a151dac5-0a3d-45d0-b250-385203632a3d)
 
 __FUNCIONES:__ 
-*Regulador de energía:* Regulará la energía eléctrica para repartirla a todo el sistema
-*Regulador de material:* Regulará el material usado para la posterior extrusión
-*Analizar:* Se analizará los datos del paciente para que de acuerdo a eso se proceda a controlar el material
-*Detectar (sensores):* Harán seguimiento al estado del biomaterial para garantizar la viabilidad del mismo
-*Preparar:* los biomateriales se preparan de acuerdo a lo analizado
-*Extruir:* El biomaterial será extruido finalmente
-*Procesar:* Los datos del sensor que garantice la viabilidad celular serán procesados 
+-*Regulador de energía:* Regulará la energía eléctrica para repartirla a todo el sistema
+-*Regulador de material:* Regulará el material usado para la posterior extrusión
+-*Analizar:* Se analizará los datos del paciente para que de acuerdo a eso se proceda a controlar el material
+-*Detectar (sensores):* Harán seguimiento al estado del biomaterial para garantizar la viabilidad del mismo
+-*Preparar:* los biomateriales se preparan de acuerdo a lo analizado
+-*Extruir:* El biomaterial será extruido finalmente
+-*Procesar:* Los datos del sensor que garantice la viabilidad celular serán procesados 
 
 
 
