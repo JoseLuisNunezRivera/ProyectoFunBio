@@ -18,9 +18,8 @@
 | Coordinadora de Modelado 3D |                   Micaela de Fátima Tassara Camarena                       |![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/44e6e9af-ad05-4ed4-aaeb-d5ab6d765cb7)|
 | Coordinador de Electrónica | Edgar Antonio Aguilar Ocas | ![Image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143332991/7b11ad99-30e0-4acb-b5b1-b57fcb73ede9)
 . |
-| Coordinadora de Programación | Andree Pascale Merino Contreras | ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/12703bbf-8846-465d-be94-b2a22efe7d41)
- |
-| Coordinadora de Impresión 3D | Valeria Alejandra Leonardo Castillón |. |
+| Coordinadora de Programación | Andree Pascale Merino Contreras | ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/12703bbf-8846-465d-be94-b2a22efe7d41) |
+| Coordinadora de Impresión 3D | Valeria Alejandra Leonardo Castillón |![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/b52248b7-1ae4-4131-8426-358fba8ff67d)|
 </p>
 
 # ¿A qué nos referimos con Open Science Hardware?
