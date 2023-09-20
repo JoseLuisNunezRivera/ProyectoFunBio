@@ -113,7 +113,7 @@ Nuestra propuesta de solución es una bioimpresora in situ con tecnología de im
 # CAJA NEGRA
 
 
-![4](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143332991/f52c6264-8b43-45f2-892a-cd1994637ae2)
+![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143332991/f52c6264-8b43-45f2-892a-cd1994637ae2)
 
 
 ## Bibliografía 
