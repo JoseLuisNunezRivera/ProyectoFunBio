@@ -110,6 +110,8 @@ Dispositivos, sistemas y métodos que utilizan bioimpresoras para formar estruct
 
 Nuestra propuesta de solución es una bioimpresora in situ con tecnología de impresión UV por fotoreticulación, para la aplicación precisa de hidrogeles fotopolimerizables, que acelera la cicatrización en pacientes con quemaduras y reduce el riesgo de infecciones.
 
+# CAJA NEGRA
+
 
 ## Bibliografía 
 1. Organización Mundial de la Salud. (2018). Quemaduras: Datos y cifras. https://www.who.int/es/news-room/fact-sheets/detail/burns
