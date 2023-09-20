@@ -102,6 +102,7 @@ Dispositivos, sistemas y métodos que utilizan bioimpresoras para formar estruct
 - Carcasa exterior ergonómico y antideslizante
 
 # Aclaraciones
+
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6527863/
 - El proceso extrusión para bioimpresión permite el 70 a 75% de células vivas para el implante, a comparación de la bioimpresión por láser que es menor a este porcentaje
 
