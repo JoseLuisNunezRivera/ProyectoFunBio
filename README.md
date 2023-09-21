@@ -9,12 +9,11 @@
  
 | Cargo | Apellidos y nombres | .|
 |-------|---------------------|-|
-| Coordinador General | Jose Luis Jesús Nuñez Rivera | .|
-| Coordinadora de Modelado 3D |                   Micaela de Fátima Tassara Camarena                       |<img width="150" height="200" src=https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/44e6e9af-ad05-4ed4-aaeb-d5ab6d765cb7>|
-| Coordinador de Electrónica | Edgar Antonio Aguilar Ocas | ![Image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143332991/7b11ad99-30e0-4acb-b5b1-b57fcb73ede9)
-. |
-| Coordinadora de Programación | Andree Pascale Merino Contreras | ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/12703bbf-8846-465d-be94-b2a22efe7d41) |
-| Coordinadora de Impresión 3D | Valeria Alejandra Leonardo Castillón |![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/3f628e35-7432-4b8a-bbef-588038a451fe)|
+| Coordinador de Modelado 3D | Jose Luis Jesús Nuñez Rivera | .|
+| Coordinador de Electrónica | Edgar Antonio Aguilar Ocas|<img width="130" height="200" src=https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143332991/7b11ad99-30e0-4acb-b5b1-b57fcb73ede9>|
+| Coordinadora de Programación | Andree Pascale Merino Contreras |<img width="130" height="200" src=https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/12703bbf-8846-465d-be94-b2a22efe7d41>|
+| Coordinadora de Impresión 3D | Valeria Alejandra Leonardo Castillón |<img width="130" height="200" src=https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/3f628e35-7432-4b8a-bbef-588038a451fe>|
+| Coordinadora General | Micaela de Fátima Tassara Camarena |<img width="130" height="200" src=https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/44e6e9af-ad05-4ed4-aaeb-d5ab6d765cb7>|
 </p>
 
 # ¿A qué nos referimos con Open Science Hardware?
