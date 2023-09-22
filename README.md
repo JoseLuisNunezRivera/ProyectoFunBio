@@ -9,11 +9,11 @@
  
 | Cargo | Apellidos y nombres | .|
 |-------|---------------------|-|
+| Coordinadora General | Micaela de Fátima Tassara Camarena |<img width="130" height="200" src=https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/44e6e9af-ad05-4ed4-aaeb-d5ab6d765cb7>|
 | Coordinador de Modelado 3D | Jose Luis Jesús Nuñez Rivera | .|
 | Coordinador de Electrónica | Edgar Antonio Aguilar Ocas|<img width="130" height="200" src=https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143332991/7b11ad99-30e0-4acb-b5b1-b57fcb73ede9>|
 | Coordinadora de Programación | Andree Pascale Merino Contreras |<img width="130" height="200" src=https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/12703bbf-8846-465d-be94-b2a22efe7d41>|
 | Coordinadora de Impresión 3D | Valeria Alejandra Leonardo Castillón |<img width="130" height="200" src=https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/3f628e35-7432-4b8a-bbef-588038a451fe>|
-| Coordinadora General | Micaela de Fátima Tassara Camarena |<img width="130" height="200" src=https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/44e6e9af-ad05-4ed4-aaeb-d5ab6d765cb7>|
 </p>
 
 # ¿A qué nos referimos con Open Science Hardware?
@@ -84,6 +84,9 @@ Dispositivos, sistemas y métodos que utilizan bioimpresoras para formar estruct
 <p align="center">
   <img width="634.75" height="412.25" src="https://i.imgur.com/GxFTSh3.png">
 </p>
+
+# Productos Open Hardware relacionados
+
 
 # Lista de requerimientos
 
