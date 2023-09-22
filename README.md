@@ -122,7 +122,7 @@ https://www.nature.com/articles/s41598-017-05699-x
 
 # Propuesta de solución
 
-Nuestra propuesta de solución es una bioimpresora in situ con tecnología de impresión UV por fotoreticulación, para la aplicación precisa de hidrogeles fotopolimerizables, que acelera la cicatrización en pacientes con quemaduras y reduce el riesgo de infecciones.
+Nuestra propuesta de solución es una bioimpresora in situ para la aplicación precisa de hidrogeles fotopolimerizables, que acelera la cicatrización en pacientes con quemaduras y reduce el riesgo de infecciones.
 
 # Caja negra
 Etapa de abstracción de nuestro proyecto a prototipar.
