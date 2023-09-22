@@ -87,6 +87,13 @@ Dispositivos, sistemas y métodos que utilizan bioimpresoras para formar estruct
 
 # Productos Open Hardware relacionados
 
+### **An open-source handheld extruder loaded with pore-forming bioink for in situ wound dressing**
+
+
+<p align="center">
+  <img src="https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/2daaa2bf-14b7-4c76-b9fc-fc72072f4a04">
+</p>
+
 
 # Lista de requerimientos
 
@@ -119,8 +126,9 @@ Nuestra propuesta de solución es una bioimpresora in situ con tecnología de im
 
 # Caja negra
 Etapa de abstracción de nuestro proyecto a prototipar.
-
-![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143332991/f52c6264-8b43-45f2-892a-cd1994637ae2)
+<p align="center">
+  <img src="https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/778be475-272a-4d12-b2cd-4e6325fe1853">
+</p>
 
 # Esquema de funciones
 
