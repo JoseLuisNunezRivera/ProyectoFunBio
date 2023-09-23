@@ -102,9 +102,9 @@ Dispositivos, sistemas y métodos que utilizan bioimpresoras para formar estruct
 - Existe una etapa de cooling antes de insertar la jeringa con la biotinta al biopen.
 - Precio de 121 dólares.
 
-  Limitaciones:
-  - No posee arreglo multimaterial. Este puede incorporarse a futuro para permitir apósito heterogéneo.
-  - El arreglo UV LED puede ser reemplazada por otra forma de crosslinking para evitar cualquier fotodaño potencial a la piel.
+#### Limitaciones:
+ - No posee arreglo multimaterial. Este puede incorporarse a futuro para permitir apósito heterogéneo.
+ - El arreglo UV LED puede ser reemplazada por otra forma de crosslinking para evitar cualquier fotodaño potencial a la piel.
   
 
 
