@@ -149,7 +149,7 @@ Listado de funciones que definen nuestra propuesta de solución
 
 ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143332991/a151dac5-0a3d-45d0-b250-385203632a3d)
 
-__FUNCIONES:__ 
+#### __FUNCIONES:__ 
 
 - Regulador de energía: Regulará la energía eléctrica para repartirla a todo el sistema
 - Regulador de material: Regulará el material usado para la posterior extrusión
