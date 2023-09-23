@@ -94,6 +94,19 @@ Dispositivos, sistemas y métodos que utilizan bioimpresoras para formar estruct
   <img src="https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/2daaa2bf-14b7-4c76-b9fc-fc72072f4a04">
 </p>
 
+#### Características:
+- La jeringa es de 5mL
+- Posee un regulador de velocidad. Esto para ajustarse a los requerimientos de la biotinta. Existe un potenciometro que permite el cambio de la velocidad de rotación del motor que es traducido a movimientos lineales del émbolo de la jeringa. Existían dos modos de operación: el primero era una parte movible que podia viajar hacia delante y empujar el émbolo de la jeringa para extruir; y el segundo, podía retraerse a una velocidad más rápida para colocar una nueva jeringa.
+- Biotinta de dos fases basada en la mezcla de GelMA y PEO
+- Crosslinkg a través de UV LEDs. Había un control de apago/prendido de los LEDs
+- Existe una etapa de cooling antes de insertar la jeringa con la biotinta al biopen.
+- Precio de 121 dólares.
+
+  Limitaciones:
+  - No posee arreglo multimaterial. Este puede incorporarse a futuro para permitir apósito heterogéneo.
+  - El arreglo UV LED puede ser reemplazada por otra forma de crosslinking para evitar cualquier fotodaño potencial a la piel.
+  
+
 
 # Lista de requerimientos
 
