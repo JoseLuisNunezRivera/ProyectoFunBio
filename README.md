@@ -117,7 +117,7 @@ Dispositivos, sistemas y métodos que utilizan bioimpresoras para formar estruct
 - Uso de biotinta basada en fibrina y crosslinking enzimático por medio de una solución de trombina. Están en dos jeringas separadas y son co-deliveradas a su respectiva velocidad.
 - La rueda de silicona funciona para estabilizar el contacto entre el cabezal de impresión y el lugar de la herida y para disipar las fuerzas impartidas por el peso del instrumento y del usuario. Esta rueda es de silicona para incementar la friccion con la superficie de deposición. Se ejerce una presión en el substrato menos de 12kPa.
 
-
+### **3D bio-printer from an off-shelf 3D printer (Prusa). The bioprinter is used for constructing 3D scaffold from hydrogels**
 
 # Lista de requerimientos
 
