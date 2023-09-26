@@ -123,6 +123,13 @@ Dispositivos, sistemas y métodos que utilizan bioimpresoras para formar estruct
  <img src="https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/a161f7d5-1672-4062-b6cc-090e954419a8">
 </p>
 
+#### Características: 
+- Se cambió el extrusor original de la I3 y la boquilla de cabeza caliente, por 2 bombas peristálticas impresas en FDM
+- Nozzle impreso utilizando la impresora DLP-LCD "Anycubic Photon S" y resina transparente PLA+.
+- Las piezas impresas se lavaron con alcohol isopropílico (IPA) y se curaron después de la impresión con luz ultravioleta LED.
+- El biomaterial compuesto usado es una mezcla en diferentes concentraciones de alginato y gelatin
+- El crosslinking se realiza mediante la adición de 300mM de cloruro de calcio.
+- El cloruro de calcio se roció sobre las películas de hidrogel.
 
 # Lista de requerimientos
 
