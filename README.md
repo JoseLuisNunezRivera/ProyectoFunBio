@@ -120,7 +120,7 @@ Dispositivos, sistemas y métodos que utilizan bioimpresoras para formar estruct
 ### **-3D bio-printer from an off-shelf 3D printer (Prusa). The bioprinter is used for constructing 3D scaffold from hydrogels**
 
 <p align="center">
- <img src="![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/a161f7d5-1672-4062-b6cc-090e954419a8)">
+ <img src="https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/a161f7d5-1672-4062-b6cc-090e954419a8">
 </p>
 
 
