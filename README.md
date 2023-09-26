@@ -87,7 +87,7 @@ Dispositivos, sistemas y métodos que utilizan bioimpresoras para formar estruct
 
 # Productos Open Hardware relacionados
 
-### **An open-source handheld extruder loaded with pore-forming bioink for in situ wound dressing**
+### **-An open-source handheld extruder loaded with pore-forming bioink for in situ wound dressing**
 
 <p align="center">
   <img src="https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/2daaa2bf-14b7-4c76-b9fc-fc72072f4a04">
@@ -105,7 +105,7 @@ Dispositivos, sistemas y métodos que utilizan bioimpresoras para formar estruct
  - No posee arreglo multimaterial. Este puede incorporarse a futuro para permitir apósito heterogéneo.
  - El arreglo UV LED puede ser reemplazada por otra forma de crosslinking para evitar cualquier fotodaño potencial a la piel.
   
-### **Handheld instrument for wound-conformal delivery of skin precursor sheets improves healing in full-thickness burns**
+### **-Handheld instrument for wound-conformal delivery of skin precursor sheets improves healing in full-thickness burns**
 
 <p align="center">
   <img src="https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/f4979146-2b88-4f78-948e-f2ccc54a931c">
@@ -117,7 +117,12 @@ Dispositivos, sistemas y métodos que utilizan bioimpresoras para formar estruct
 - Uso de biotinta basada en fibrina y crosslinking enzimático por medio de una solución de trombina. Están en dos jeringas separadas y son co-deliveradas a su respectiva velocidad.
 - La rueda de silicona funciona para estabilizar el contacto entre el cabezal de impresión y el lugar de la herida y para disipar las fuerzas impartidas por el peso del instrumento y del usuario. Esta rueda es de silicona para incementar la friccion con la superficie de deposición. Se ejerce una presión en el substrato menos de 12kPa.
 
-### **3D bio-printer from an off-shelf 3D printer (Prusa). The bioprinter is used for constructing 3D scaffold from hydrogels**
+### **-3D bio-printer from an off-shelf 3D printer (Prusa). The bioprinter is used for constructing 3D scaffold from hydrogels**
+
+<p align="center">
+ <img src="![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/a161f7d5-1672-4062-b6cc-090e954419a8)">
+</p>
+
 
 # Lista de requerimientos
 
