@@ -158,7 +158,7 @@ https://www.nature.com/articles/s41598-017-05699-x
 
 # Propuesta de solución
 
-Nuestra propuesta de solución es una bioimpresora in situ para la aplicación precisa de hidrogeles fotopolimerizables, que acelera la cicatrización en pacientes con quemaduras y reduce el riesgo de infecciones.
+Sistema In Situ de bioimpresión de scaffolds con extrusión por bomba peristáltica y crosslinking iónico para la estimulación de cicatrización y prevención de nfecciones en heridas abiertas causadas por quemaduras.
 
 # Caja negra
 Etapa de abstracción de nuestro proyecto a prototipar.
