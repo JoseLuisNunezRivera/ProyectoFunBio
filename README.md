@@ -162,9 +162,8 @@ Sistema In Situ de bioimpresión de scaffolds con extrusión por bomba peristál
 
 # Caja negra
 Etapa de abstracción de nuestro proyecto a prototipar.
-<p align="center">
-  <img src="https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/778be475-272a-4d12-b2cd-4e6325fe1853">
-</p>
+![15d8d4c7-4761-4de0-bc48-b51743688ad0](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/14513b8d-236c-4c09-8807-47e35a9935a8)
+
 
 # Esquema de funciones
 
