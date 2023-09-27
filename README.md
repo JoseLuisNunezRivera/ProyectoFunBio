@@ -158,7 +158,7 @@ https://www.nature.com/articles/s41598-017-05699-x
 
 # Propuesta de solución
 
-Sistema In Situ de bioimpresión de scaffolds con extrusión por bomba peristáltica y crosslinking iónico para la estimulación de cicatrización y prevención de nfecciones en heridas abiertas causadas por quemaduras.
+Sistema In Situ de bioimpresión de scaffolds con extrusión por bomba peristáltica y crosslinking iónico para la estimulación de cicatrización y prevención de infecciones en heridas causadas por quemaduras.
 
 # Caja negra
 Etapa de abstracción de nuestro proyecto a prototipar.
