@@ -182,8 +182,8 @@ Listado de funciones que definen nuestra propuesta de solución
 
 
 # Matriz morfologica
-![WhatsApp Image 2023-09-19 at 23 55 46](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/bc73d4bb-37f1-4fbd-ba34-f0f22fe27e5b)
 
+![Gráfico Circular Azul Presentación](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/4f5f8b6b-9747-46dc-8822-45574b5abc4a)
 
 # Tabla de valoración
 ![WhatsApp Image 2023-09-19 at 23 55 50](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/4b861ad6-af39-48a1-97f4-52657b277d45)
