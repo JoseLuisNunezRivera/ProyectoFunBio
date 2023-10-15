@@ -197,6 +197,8 @@ El proyecto ofrece una visión prometedora para abordar un problema crítico de 
 # Tabla de valoración económica
 ![Captura de pantalla 2023-10-15 142151](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143332991/c13edf23-97fd-43bb-8bce-06f54ca49fab)
 # Tabla de valoración técnica
+![Captura de pantalla 2023-10-15 144519](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143332991/5b72bf3e-b47e-4579-9a04-a81651c333ed)
+
 
 ## Bibliografía 
 1. Organización Mundial de la Salud. (2018). Quemaduras: Datos y cifras. https://www.who.int/es/news-room/fact-sheets/detail/burns
