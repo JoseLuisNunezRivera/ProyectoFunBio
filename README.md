@@ -139,6 +139,16 @@ https://www.nature.com/articles/s41598-017-05699-x
 - Para el proceso de “photocuring” se ha demostrado que es necesario solo 10 segundos de exposición a o 700mW/cm2 of 365nm UV-A para mantener el 90% de células vivas, para Bioandamios Core/Shell GelMa/HAMa con rigidez de 200KPa. Sin embargo, nos hemos decidido por un crosslinking iónico con cloruro de calcio para el alginato que usaremos como biomaterial para mantener las ceélular vivas.
 - Para la esterilización de los materiales se recomiendo exposición a luz UV por 4 horas.
 ### Biomateriales para la bioimpresión
+https://drive.google.com/file/d/1x9udr_g3XU39Y2daWFmOKxjno0pU2IlR/view
+#### Polímeros Naturales
+- Alginato: Se ha demostrado su compatibilidad para una diversidad de células, pero presenta poca capacidad de adhesión para las células, lo que reduce su interacción; Sin embargo, esto podría mejorar añadiendo otro biomaterial con la característica que le falta
+- Quitosano: Es una opción económicamente cómoda, además de ser biodegradable, antibacterial, antifúngico y es usado tanto en la farmacéutica como para cubrir heridas, pero este es un medio ácido que hace difícil a la célula sobrevivir. Por lo que, se tendría que controlar su nivel de acidez.
+- Agarosa Su naturaleza no adhesiva es un problema para las células, pero esta se puede solidificar a rápidamente en una temperatura entre 26C a 30C, por lo que mezclarlo con otro compuesto para su característica limitante sería lo ideal para su funcionalidad.
+- Existen otros como Ácido hialurónico, Colágeno, gelatina, fibrina, Hidrogeles a base de péptidos, matriz extracelular descelularizada que dependiendo de sus características y necesidad del paciente podría ser lo ideal o conseguir una mezcla a base de estos que lo sea.
+#### Polímeros sintéticos
+Utilizados por sus propiedades como andamiaje para las células, ya que son resistentes y preferible para la bioipresion por extrusión
+#### Polímeros compuestos
+Siendo mezclas de varios compuestos que para priorizar alguna característica sin dejar de lado otras.
 
 # Propuesta de solución
 Sistema In Situ de bioimpresión de scaffolds con extrusión por bomba peristáltica y crosslinking iónico para la estimulación de cicatrización y prevención de infecciones en heridas causadas por quemaduras.
