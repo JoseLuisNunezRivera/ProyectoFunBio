@@ -148,9 +148,9 @@ https://drive.google.com/file/d/1x9udr_g3XU39Y2daWFmOKxjno0pU2IlR/view
 - El alginato y ácido hialurónico tienen propiedades complementarias. El alginato no tiene buenas propiedad de adhsesión, mientras que el ácido hialurónico posee una alta viscosidad y por ello puede ser utilizado como material auxiliar para aumentar las propiedad físicas del alginato, lo que mejora en gran medida la eficacia del crosslinking y la estabilidad mecánica del scaffold. Ambos ya son utilizados en el tratamiento de heridas, gracias a sus propiedades antiinflamatorias y antigénicas. Además gracias al alto contenido de agua del ácido hialurónico, el scaffold impreso puede promover el crecimiento y la proliferación celular. Todo ello resulta muy beneficioso para el objetivo del proyecto.
 
 #### Proporción para el crosslinking de alginato y ácido hialurónico con cloruro de calcio
-- Ácido hialurónico y alginato: Utiliza una proporción de ácido hialurónico a alginato en el rango de 1:1 a 2:1. La inclusión de ácido hialurónico puede ayudar a mejorar la hidratación y promover la regeneración de tejidos.
+- Ácido hialurónico y alginato: Se utiliza una proporción de ácido hialurónico a alginato en el rango de 1:1 a 2:1. La inclusión de ácido hialurónico puede ayudar a mejorar la hidratación y promover la regeneración de tejidos.
 
-- Concentración de cloruro de calcio: Utiliza una solución de cloruro de calcio al 2-4% en peso en agua, que es una concentración comúnmente empleada en procesos de crosslinking. Sin embargo, la concentración exacta puede variar según las necesidades del proyecto y las condiciones de bioimpresión.
+- Concentración de cloruro de calcio: Se utiliza una solución de cloruro de calcio al 2-4% en peso en agua, que es una concentración comúnmente empleada en procesos de crosslinking. Sin embargo, la concentración exacta puede variar según las necesidades del proyecto y las condiciones de bioimpresión.
 
 Es importante señalar que la proporción exacta y la concentración de cloruro de calcio se van optimizando a través de pruebas empíricas para adaptarse a las características específicas del scaffold  deseado y a las condiciones de la herida que se desea tratar.
 
