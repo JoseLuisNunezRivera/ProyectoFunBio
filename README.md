@@ -214,12 +214,16 @@ Listado de funciones que definen nuestra propuesta de solución
 
 ## Modelado 3D de los componentes
 Carcasa de batería: https://skfb.ly/oMzyD
+![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/a2b5b1ff-8740-43a7-84ff-ac3e780afd0e)
 
 Soporte de jeringas: https://skfb.ly/oMzy8
+![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/855e8f25-b5a5-4019-8357-32399ff9510c)
 
 Soporte Arduino Nano IoT: https://skfb.ly/oMyWH
+![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/b47f4de9-c59c-4e06-8bed-cc734fc547ec)
 
 Soporte bomba: https://skfb.ly/oMzPo
+![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/a2738ec3-06d3-476f-9a1b-ae1bcf4aa19d)
 
 Nozzle: https://hacksterio.s3.amazonaws.com/uploads/attachments/1468839/15e_SvI1SD9jRq.max (descarga formato .max)
 Foto referencial:
