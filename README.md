@@ -32,14 +32,14 @@ El Hardware es una parte esencial de procesos experimentales y los avances en la
 ### Contexto económico
 Uno de los tratamientos para quemaduras de segundo o tercer grado son los injertos de piel; sin embargo, este procedimiento médico es complejo puesto que se extrae piel sana para poder ser injertada en la zona quemada. Esto requiere un equipo especializado y recursos médicos no precarios, lo que significa un costo adicional. 
 Según el Instituto Nacional de Salud del Niño, en la siguiente tabla se muestran los costos que un paciente puede asumir. 
-
+<p align="center">
 ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018549/418bde84-2bd1-4719-a990-67a97ee94830)
 
 Los costos pueden variar mucho según la región, el sistema de salud, el tipo de tratamiento requerido y otros factores.
 ### Definición del problema: 
 Las quemaduras son lesiones producidas en tejido vivo, debido a la acción de agentes químicos o físicos, que provocan alteraciones que van desde un simple eritema transitorio hasta la destrucción total de las estructuras(4). 
 La falta de tecnología de bioimpresión en Perú para el tratamiento de heridas por quemaduras representa una problemática grave en la atención médica. A medida que las quemaduras continúan siendo un problema de salud significativo en el país, la ausencia de esta tecnología avanzada limita las opciones de tratamiento efectivas y la posibilidad de una recuperación más rápida y completa para los pacientes. Esto se traduce en un aumento en la morbilidad y la carga económica en el sistema de salud peruano, así como en la calidad de vida disminuida para las personas afectadas por quemaduras. La falta de acceso a la bioimpresión también restringe la capacidad de la comunidad médica peruana para llevar a cabo investigaciones y avances en el campo de la regeneración de tejidos y la medicina regenerativa, lo que podría tener un impacto duradero en la atención médica en el país.
-
+<p align="center">
 ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018549/b35b7761-393f-4b75-9cef-987a53142c54)
 
 # Estado del arte 
