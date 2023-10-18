@@ -6,6 +6,7 @@
 # Conoce a nuestro equipo
 
 <p align="center"> 
+ 
 | Cargo | Apellidos y nombres |Imagen|
 |-------|---------------------|-|
 | Coordinadora General | Micaela de Fátima Tassara Camarena | <img width="130" height="200" src=https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/44e6e9af-ad05-4ed4-aaeb-d5ab6d765cb7> |
