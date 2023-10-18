@@ -221,7 +221,10 @@ Soporte Arduino Nano IoT: https://skfb.ly/oMyWH
 
 Soporte bomba: https://skfb.ly/oMzPo
 
-Nozzle: 
+Nozzle: https://hacksterio.s3.amazonaws.com/uploads/attachments/1468839/15e_SvI1SD9jRq.max (descarga formato .max)
+Foto referencial:
+![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/64e92d45-3a66-4e16-adb1-e491435b0c13)
+
 
 
 # Conclusión
