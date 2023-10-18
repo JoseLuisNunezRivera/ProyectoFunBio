@@ -166,8 +166,7 @@ Etapa de abstracción de nuestro proyecto a prototipar.
 
 Listado de funciones que definen nuestra propuesta de solución
 
-
-![Gráfico Circular Azul Presentación](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/0573c032-063f-41e1-8b31-0ac4bed5ff74)
+![Gráfico Circular Azul Presentación](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/14d6d14a-adb5-4ccd-a4fe-f99f51cf2ccc)
 
 #### __FUNCIONES:__ 
 
