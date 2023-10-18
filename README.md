@@ -38,8 +38,7 @@ Los costos pueden variar mucho según la región, el sistema de salud, el tipo d
 ### Definición del problema: 
 Las quemaduras son lesiones producidas en tejido vivo, debido a la acción de agentes químicos o físicos, que provocan alteraciones que van desde un simple eritema transitorio hasta la destrucción total de las estructuras(4). 
 La falta de tecnología de bioimpresión en Perú para el tratamiento de heridas por quemaduras representa una problemática grave en la atención médica. A medida que las quemaduras continúan siendo un problema de salud significativo en el país, la ausencia de esta tecnología avanzada limita las opciones de tratamiento efectivas y la posibilidad de una recuperación más rápida y completa para los pacientes. Esto se traduce en un aumento en la morbilidad y la carga económica en el sistema de salud peruano, así como en la calidad de vida disminuida para las personas afectadas por quemaduras. La falta de acceso a la bioimpresión también restringe la capacidad de la comunidad médica peruana para llevar a cabo investigaciones y avances en el campo de la regeneración de tejidos y la medicina regenerativa, lo que podría tener un impacto duradero en la atención médica en el país.
-<p align="center">
-![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018549/b35b7761-393f-4b75-9cef-987a53142c54)
+**<p align="center"> ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018549/b35b7761-393f-4b75-9cef-987a53142c54)**
 
 # Estado del arte 
 
