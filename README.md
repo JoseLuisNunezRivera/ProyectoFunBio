@@ -196,14 +196,17 @@ Listado de funciones que definen nuestra propuesta de solución
 # Tabla de valoración económica
 ![Captura de pantalla 2023-10-15 144806](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143332991/63d7f496-1fdd-4396-852e-da46b29a1b0f)
 
-<img width="800" alt="600" src="https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/db32e388-1261-462d-9111-226fab8c3e7c">
+<img width="800" alt="600" src="https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/f7cd4d36-bd9e-4599-9ab8-7c66a7b14d68">
+
 
 # Tabla de valoración técnica
 ![Captura de pantalla 2023-10-15 144519](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143332991/5b72bf3e-b47e-4579-9a04-a81651c333ed)
 
-<img width="800" alt="600" src="https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/a3397806-f385-48e6-a7bc-ad83f769c457">
+<img width="800" alt="600" src="https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/442c95f6-3be2-4d1d-929e-a9bdc805236b">
+
 
 # Gráfica de valoración
+<img width="800" alt="800" src="https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/74e4902e-422c-40c9-b02a-a86c943fb491">
 
 
 # Conclusión
