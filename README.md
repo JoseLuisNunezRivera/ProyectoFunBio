@@ -32,8 +32,7 @@ El Hardware es una parte esencial de procesos experimentales y los avances en la
 ### Contexto económico
 Uno de los tratamientos para quemaduras de segundo o tercer grado son los injertos de piel; sin embargo, este procedimiento médico es complejo puesto que se extrae piel sana para poder ser injertada en la zona quemada. Esto requiere un equipo especializado y recursos médicos no precarios, lo que significa un costo adicional. 
 Según el Instituto Nacional de Salud del Niño, en la siguiente tabla se muestran los costos que un paciente puede asumir. 
-<p align="center">
-![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018549/418bde84-2bd1-4719-a990-67a97ee94830)
+**<p align="center"> ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018549/418bde84-2bd1-4719-a990-67a97ee94830)**
 
 Los costos pueden variar mucho según la región, el sistema de salud, el tipo de tratamiento requerido y otros factores.
 ### Definición del problema: 
