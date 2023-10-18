@@ -187,7 +187,7 @@ Listado de funciones que definen nuestra propuesta de solución
 
 **<p align="center"> Tamaño ideal ergonómico**
 
-<img width="600" alt="600" src="https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/9db94c80-0281-4914-92e3-da366a16769e">
+**<p align="center"> <img width="600" alt="600" src="https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/9db94c80-0281-4914-92e3-da366a16769e">**
 
 ## Tabla de valoración económica
 ![Captura de pantalla 2023-10-15 144806](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143332991/63d7f496-1fdd-4396-852e-da46b29a1b0f)
