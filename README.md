@@ -85,7 +85,7 @@ Dispositivos, sistemas y métodos que utilizan bioimpresoras para formar estruct
   <img width="634.75" height="412.25" src="https://i.imgur.com/GxFTSh3.png">
 </p>
 
-# Productos Open Hardware relacionados
+## Productos Open Hardware relacionados
 
 ### **-An open-source handheld extruder loaded with pore-forming bioink for in situ wound dressing**
 
@@ -212,7 +212,7 @@ Listado de funciones que definen nuestra propuesta de solución
 # Conclusión
 El proyecto ofrece una visión prometedora para abordar un problema crítico de salud pública en Perú mediante el uso de tecnologías de bioimpresión accesibles y avanzadas. Sin embargo, es esencial abordar cuidadosamente los desafíos técnicos y de diseño, así como promover la colaboración y la adopción de Open Science Hardware en la comunidad médica para lograr un impacto significativo en la atención de quemaduras. Por esto, La propuesta número tres fue la elegida gracias a su costo asequible y gran eficacia. La bomba peristáltica con motor DC permite un flujo constante, rápido y controlado del biomaterial; además, el atomizador elegido permite realizar un crosslinking eficaz. A pesar de sus características avanzadas, es una opción asequible y posee un interfaz intuitivo y ergonómico, que lo hace fácil de utilizar.
 
-## Bibliografía 
+# Bibliografía 
 1. Organización Mundial de la Salud. (2018). Quemaduras: Datos y cifras. https://www.who.int/es/news-room/fact-sheets/detail/burns
 2. PIEL DE CERDO LIOFILIZADA EN TRATAMIENTO DE QUEMADURAS: SERIE DE CASOS 2014-2016 https://revistas.uss.edu.pe/index.php/tzh/article/view/1329/1267
 3. Ministerio de Salud. (2020). Lineamiento para la prevención y atención integral de personas con lesiones por quemaduras. https://cdn.www.gob.pe/uploads/document/file/1400166/RM%20883-2020-MINSA.PDF.PDF 
