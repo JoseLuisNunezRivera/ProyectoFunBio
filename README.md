@@ -219,7 +219,9 @@ Soporte de jeringas: https://skfb.ly/oMzy8
 
 Soporte Arduino Nano IoT: https://skfb.ly/oMyWH
 
-Nozzle:
+Soporte bomba: https://skfb.ly/oMzPo
+
+Nozzle: 
 
 
 # Conclusión
