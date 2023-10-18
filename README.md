@@ -6,7 +6,6 @@
 # Conoce a nuestro equipo
 
 <p align="center">
- 
 | Cargo | Apellidos y nombres |Imagen|
 |-------|---------------------|-|
 | Coordinadora General | Micaela de Fátima Tassara Camarena |<img width="130" height="200" src=https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/44e6e9af-ad05-4ed4-aaeb-d5ab6d765cb7>|
@@ -17,59 +16,48 @@
 </p>
 
 # ¿A qué nos referimos con Open Science Hardware?
-
 El Hardware es una parte esencial de procesos experimentales y los avances en la instrumentación han sido clave para revoluciones científicas. Sin embargo, la actual cadena de suministros de estos hardware científicos limita el acceso e impide la creatividad y personalización. El Open Science Hardware aborda esta problemática facilitando un espacio para compartir, diseñar y fabricar de manera abierta y accesible herramientas, dispositivos y equipos usados en investigaciones científicas y experimentos. Con esto se busca incrementar la transparencia, colaboración y accesibilidad en la comunidad científica, permitiendo que todo esto esté disponible gratuitamente a cualquiera para reproducir, modificar y compartir. [14]
 
 # Analisis del caso 
-1. "Tema": Open Science Hardware para Salud y Laboratorio
-2. "Problemática": Aumento de quemaduras de segundo grado en menores de edad del país
+- "Tema": Open Science Hardware para Salud y Laboratorio
+-  "Problemática": Aumento de quemaduras de segundo grado en menores de edad del país
  
-
-### 1.2 Contexto social
+### Contexto social
 - Las quemaduras representan un desafío de salud pública a nivel global. No solo por la frecuencia y facilidad con la que ocurren, sino que, en función de su gravedad, pueden generar discapacidades e incluso la muerte. Según la OMS, a nivel mundial, se estima que alrededor de 180,000 muertes ocurren anualmente debido a quemaduras. En países con desarrollo medio y bajo, las quemaduras ocupan el tercer lugar como causa de muerte accidental. [1]
 - En el Perú, “entre enero y febrero del 2023, el Instituto Nacional de Salud del Niño San Borja, recibió a 75 niños con quemaduras graves, cifra que se ha incrementado en 60% en relación al mismo periodo del 2022 que atendió a 47 menores de Lima y de las diversas regiones del país” [10].
 - La recuperación de una persona quemada suele llevar semanas o incluso meses, durante los cuales experimenta dolor y sufrimiento tanto físico como emocional. El tratamiento y cuidado implica costos significativos, lo que genera tanto carga para el Estado como para la familia del afectado.(Martín y Piris, 2014). La morbilidad y mortalidad aumentan por la presencia de infección y por las heridas profundas que se presentan por la pérdida de la humedad de los tejidos expuestos por la quemadura. [2]
-- Por otro lado, según los diagnósticos consignados en la base de datos de HIS, se puede identificar que las localizaciones más frecuentes de quemaduras son los extremos distales de los miembros (muñecas, manos, tobillos y pies), seguida de los miembros inferiores, cabeza - cuello. [3] 
-### 1.3 Contexto económico
+- Por otro lado, según los diagnósticos consignados en la base de datos de HIS, se puede identificar que las localizaciones más frecuentes de quemaduras son los extremos distales de los miembros (muñecas, manos, tobillos y pies), seguida de los miembros inferiores, cabeza - cuello. [3]
+
+### Contexto económico
 Uno de los tratamientos para quemaduras de segundo o tercer grado son los injertos de piel; sin embargo, este procedimiento médico es complejo puesto que se extrae piel sana para poder ser injertada en la zona quemada. Esto requiere un equipo especializado y recursos médicos no precarios, lo que significa un costo adicional. 
 Según el Instituto Nacional de Salud del Niño, en la siguiente tabla se muestran los costos que un paciente puede asumir. 
 
 ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018549/418bde84-2bd1-4719-a990-67a97ee94830)
 
-
 Los costos pueden variar mucho según la región, el sistema de salud, el tipo de tratamiento requerido y otros factores.
-### 1.4 Definición del problema: 
+### Definición del problema: 
 Las quemaduras son lesiones producidas en tejido vivo, debido a la acción de agentes químicos o físicos, que provocan alteraciones que van desde un simple eritema transitorio hasta la destrucción total de las estructuras(4). 
 La falta de tecnología de bioimpresión en Perú para el tratamiento de heridas por quemaduras representa una problemática grave en la atención médica. A medida que las quemaduras continúan siendo un problema de salud significativo en el país, la ausencia de esta tecnología avanzada limita las opciones de tratamiento efectivas y la posibilidad de una recuperación más rápida y completa para los pacientes. Esto se traduce en un aumento en la morbilidad y la carga económica en el sistema de salud peruano, así como en la calidad de vida disminuida para las personas afectadas por quemaduras. La falta de acceso a la bioimpresión también restringe la capacidad de la comunidad médica peruana para llevar a cabo investigaciones y avances en el campo de la regeneración de tejidos y la medicina regenerativa, lo que podría tener un impacto duradero en la atención médica en el país.
-
-
-
 
 ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018549/b35b7761-393f-4b75-9cef-987a53142c54)
 
 # Estado del arte 
 
 ## Productos comerciales
-
 | Nombre | Características | Imágenes |
 | ------ | --------------- | -------- |
 | Biopen | El sistema Biopen incluye un sistema de extrusión motorizado, un cartucho de biotinta, una boquilla y una unidad de fotocurado. Con su unidad de luz visible reemplazable, permite reticular hidrogeles con diferentes fotoiniciadores. Con su sistema de extrusión ajustable, puede realizar bioimpresiones compatibles con las células y permite que el hidrogel cargado de células se imprima a la velocidad deseada en el cartucho. Fuente de fotocurado: LED de luz visible. Peso: 700 g. Velocidad de extrusión: 5 - 35 mm/min | ![WhatsApp Image 2023-09-12 at 23 39 20](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/d2f227fc-6f3e-4884-9298-fa22dcb96ce1)|
 | AxceldaPen | Impresión de células óseas para tratar el desgaste de rodilla y daño al cartílago. Su bio tinta es a base de las propias células del paciente que son cultivadas previas a su cirugía, este proceso permite al cirujano medir el tamaño del cartílago necesario para cada paciente. | ![WhatsApp Image 2023-09-12 at 23 40 32](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/47091ba6-e5be-4359-b378-2511cd12171d) |
 | iFixPen® | El iFixPen es un dispositivo de mano que entrega una estructura impresa en 3D directamente sobre defectos corneales. Entrega una estructura impresa en 3D directamente sobre defectos corneales. La tinta iFixInk, pendiente de patente, crea una estructura completamente transparente y biodegradable para sellar la herida, prevenir la infiltración de patógenos, aliviar el dolor y acelerar la curación. | ![WhatsApp Image 2023-09-12 at 23 41 24](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/e8d23090-c875-4c4d-bfb6-0de70207e938) |
 
-
 ## Patentes de invención y/o utilidad
-
 #### 1. CN110769771B: ROBOT IMPRESORA BIOLÓGICA TRIDIMENSIONAL. [15]
-
 Un sistema mínimamente invasivo que utiliza un robot quirúrgico como impresora tridimensional para fabricar tejido biológico en un sujeto. La planificación preoperatoria se utiliza para instruir y controlar el movimiento del robot y la extrusión robótica de biotinta. El movimiento del robot se coordina con la extrusión de tinta para formar capas del espesor y tamaño deseados, y el uso de diferentes tipos de tinta permite colocar el elemento compuesto. Dichos sistemas tienen un mecanismo de expulsión de biotinta de pequeño diámetro, generalmente en forma de cánula impulsada por un pistón, que permite el acceso a áreas con espacio limitado (como las articulaciones). El control robótico está programado para realizar un movimiento angular alrededor de un punto de pivote en un punto de inserción en el sujeto. La biotinta se puede almacenar en una capa predeterminada en la cánula para permitir la dispensación secuencial desde una cánula. Patente presentada en 2018, China.
-
 La patente habla de un mecanismo de expulsión de biotinta de pequeño diámetro, en forma de cánula impulsada por un pistón, que utiliza un robot quirúrgico mientras que el prototipo pensado en el proyecto usa un “lápiz de impresión desmontable.” Estos son tipos de dispositivos de impresión diferentes.
 
 <p align="center">
   <img width="500" height="376" src="https://patentimages.storage.googleapis.com/13/e7/0d/5d88b13f4c1854/HDA0002295930190000011.png">
 </p>
-
 
 #### 2. US11325301B2: EQUIPO DE IMPRESIÓN 3D QUE UTILIZA MATERIAL BIOLÓGICO Y SU MÉTODO. [16]
 Aparato de bioimpresión 3D y un método de bioimpresión tridimensional que utiliza el aparato. El aparato de bioimpresión 3D comprende un marco de impresora. Un dispositivo de lápiz de bioimpresión 3D está dispuesto en el marco de la impresora e incluye un lápiz de impresión desmontable. Patente presentada en 2017, Estados Unidos.
@@ -78,7 +66,7 @@ Aparato de bioimpresión 3D y un método de bioimpresión tridimensional que uti
   <img width="607.5" height="542" src="https://patentimages.storage.googleapis.com/a3/7e/ed/00a4d92a281746/US11325301-20220510-D00001.png">
 </p>
 
-#### 3. US20200123485A1: DISPOSITIVOS, SISTEMAS Y MÉTODOS DE BIOIMPRESIÓN PARA IMPRIMIR GELES BLANDOS PARA EL TRATAMIENTO DE TRASTORNOS MUSCULOESQUELÉTICOS Y DE LA PIEL. [17]
+#### 3. US20200123485A1: DISPOSITIVOS, SISTEMAS Y MÉTODOS DE BIOIMPRESIÓN PARA IMPRIMIR GELES BLANDOS PARA EL TRATAMIENTO DE TRASTORNOS MUSCULOESQUELÉTICOS Y DE LA PIEL.[17]
 Dispositivos, sistemas y métodos que utilizan bioimpresoras para formar estructuras de andamio in situ para facilitar el tratamiento de trastornos musculoesqueléticos o de la piel en pacientes. Un método para tratar un trastorno musculoesquelético de un paciente incluye colocar una bioimpresora en un lugar del trastorno musculoesquelético, o en un lugar de una lesión cutánea, en el paciente. El método incluye extruir una formulación de hidrogel desde la bioimpresora al lugar. El método incluye curar la formulación de hidrogel en el lugar. La formulación de hidrogel tiene una composición eficaz para generar, tras el curado, una estructura de soporte en el lugar para facilitar la hipertrofia muscular o la curación de heridas de la piel en el lugar. Patente presentada en 2019, Estados Unidos.
 
 <p align="center">
@@ -86,7 +74,6 @@ Dispositivos, sistemas y métodos que utilizan bioimpresoras para formar estruct
 </p>
 
 ## Productos Open Hardware relacionados
-
 ### **1. An open-source handheld extruder loaded with pore-forming bioink for in situ wound dressing**
 
 <p align="center">
@@ -132,9 +119,7 @@ Dispositivos, sistemas y métodos que utilizan bioimpresoras para formar estruct
 - El cloruro de calcio se añadio a manera de "spray" sobre las películas de hidrogel.
 
 # Lista de requerimientos
-
 *Funcionales: ¿Qué es lo que el diseño debe hacer?*
-
 - Controlar el proceso de extrusión de material a una velocidad constante
 - Funcionar por largos periodos de tiempo sin necesidad de ser alimentado por una fuente externa
 - Imprimir  múltiples tipos de células de manera orientada y precisa, adaptada a cada herida individual
@@ -146,26 +131,23 @@ Dispositivos, sistemas y métodos que utilizan bioimpresoras para formar estruct
 - Ser portátil  y capaz de ser transportado fácilmente
 - Carcasa exterior ergonómico y antideslizante
 
-# Aclaraciones
-
+## Aclaraciones
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6527863/
 - El proceso extrusión para bioimpresión permite el 70 a 75% de células vivas para el implante, a comparación de la bioimpresión por láser que es menor a este porcentaje
-
 https://www.nature.com/articles/s41598-017-05699-x
-- Para el proceso de “photocuring” se ha demostrado que es necesario solo 10 segundos de exposición a o 700mW/cm2 of 365nm UV-A para mantener el 90% de células vivas, para Bioandamios Core/Shell GelMa/HAMa con rigidez de 200KPa
-
-
+- Para el proceso de “photocuring” se ha demostrado que es necesario solo 10 segundos de exposición a o 700mW/cm2 of 365nm UV-A para mantener el 90% de células vivas, para Bioandamios Core/Shell GelMa/HAMa con rigidez de 200KPa. Sin embargo, nos hemos decidido por un crosslinking iónico con cloruro de calcio para el alginato que usaremos como biomaterial para mantener las ceélular vivas.
+- Para la esterilización de los materiales se recomiendo exposición a luz UV por 4 horas.
+### Biomateriales para la bioimpresión
 
 # Propuesta de solución
-
 Sistema In Situ de bioimpresión de scaffolds con extrusión por bomba peristáltica y crosslinking iónico para la estimulación de cicatrización y prevención de infecciones en heridas causadas por quemaduras.
 
-# Caja negra
+## Caja negra
 Etapa de abstracción de nuestro proyecto a prototipar.
 ![15d8d4c7-4761-4de0-bc48-b51743688ad0](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/14513b8d-236c-4c09-8807-47e35a9935a8)
 
 
-# Esquema de funciones
+## Esquema de funciones
 
 Listado de funciones que definen nuestra propuesta de solución
 
@@ -180,32 +162,32 @@ Listado de funciones que definen nuestra propuesta de solución
 - Crosslinking: Proceso en el cual el biomaterial extruido será crosslinkeado.
 
 
-# Matriz morfologica
+## Matriz morfologica
 
 ![Gráfico Circular Azul Presentación](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/4f5f8b6b-9747-46dc-8822-45574b5abc4a)
 
-# Tabla de valoración
+## Tabla de valoración
 ![WhatsApp Image 2023-09-19 at 23 55 50](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/4b861ad6-af39-48a1-97f4-52657b277d45)
 
-# Bocetos
+## Bocetos
 
 ![](https://i.imgur.com/UwXRCZZ.png)
 ![](https://i.imgur.com/L8Dtdnr.png)
 ![Gráfico Circular Azul Presentación](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/0643a722-45ca-4caa-8d8d-bde70788bcff)
 
-# Tabla de valoración económica
+## Tabla de valoración económica
 ![Captura de pantalla 2023-10-15 144806](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143332991/63d7f496-1fdd-4396-852e-da46b29a1b0f)
 
 <img width="800" alt="600" src="https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/f7cd4d36-bd9e-4599-9ab8-7c66a7b14d68">
 
 
-# Tabla de valoración técnica
+## Tabla de valoración técnica
 ![Captura de pantalla 2023-10-15 144519](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143332991/5b72bf3e-b47e-4579-9a04-a81651c333ed)
 
 <img width="800" alt="600" src="https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/442c95f6-3be2-4d1d-929e-a9bdc805236b">
 
 
-# Gráfica de valoración
+## Gráfica de valoración
 <img width="800" alt="800" src="https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/74e4902e-422c-40c9-b02a-a86c943fb491">
 
 
