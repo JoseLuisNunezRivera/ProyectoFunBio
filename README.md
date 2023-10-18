@@ -234,6 +234,7 @@ Carpeta de OnShape: https://cad.onshape.com/documents?nodeId=c4793eb9e9bfce57338
 https://cad.onshape.com/documents/fe2039349cf3cb46d6771c7a/w/25ac5372a12e5c31bed55b96/e/f3281b6cf46a657b9270b5a7
 https://cad.onshape.com/documents/97077a52108c90ed77ca5680/w/f6fc2ac3dd7456e9a3ec2b12
 https://cad.onshape.com/documents/12e3ed61cab0943749af3f1c/w/2f6f5ba43f477e4e80162eb6
+https://cad.onshape.com/documents/0dbdbc4544e5d12945d07739/w/277f741cfdfd406b3f8b8f2b/e/689cc54fe502cda9b17dcbeb
 
 # Conclusión
 El proyecto ofrece una visión prometedora para abordar un problema crítico de salud pública en Perú mediante el uso de tecnologías de bioimpresión accesibles y avanzadas. Sin embargo, es esencial abordar cuidadosamente los desafíos técnicos y de diseño, así como promover la colaboración y la adopción de Open Science Hardware en la comunidad médica para lograr un impacto significativo en la atención de quemaduras. Por esto, La propuesta número tres fue la elegida gracias a su costo asequible y gran eficacia. La bomba peristáltica con motor DC permite un flujo constante, rápido y controlado del biomaterial; además, el atomizador elegido permite realizar un crosslinking eficaz. A pesar de sus características avanzadas, es una opción asequible y posee un interfaz intuitivo y ergonómico, que lo hace fácil de utilizar.
