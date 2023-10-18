@@ -192,14 +192,19 @@ Listado de funciones que definen nuestra propuesta de solución
 ![](https://i.imgur.com/UwXRCZZ.png)
 ![](https://i.imgur.com/L8Dtdnr.png)
 ![Gráfico Circular Azul Presentación](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/0643a722-45ca-4caa-8d8d-bde70788bcff)
-# Conclusión
-El proyecto ofrece una visión prometedora para abordar un problema crítico de salud pública en Perú mediante el uso de tecnologías de bioimpresión accesibles y avanzadas. Sin embargo, es esencial abordar cuidadosamente los desafíos técnicos y de diseño, así como promover la colaboración y la adopción de Open Science Hardware en la comunidad médica para lograr un impacto significativo en la atención de quemaduras. Por esto, La propuesta número tres fue la elegida gracias a su costo asequible y gran eficacia. La bomba peristáltica con motor DC permite un flujo constante, rápido y controlado del biomaterial; además, el atomizador elegido permite realizar un crosslinking eficaz. A pesar de sus características avanzadas, es una opción asequible y posee un interfaz intuitivo y ergonómico, que lo hace fácil de utilizar.
+
 # Tabla de valoración económica
 ![Captura de pantalla 2023-10-15 144806](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143332991/63d7f496-1fdd-4396-852e-da46b29a1b0f)
+<img width="536" alt="image" src="https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/d5efbd69-f701-4f14-a932-9ee5fc0abca5">
+
 
 # Tabla de valoración técnica
 ![Captura de pantalla 2023-10-15 144519](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143332991/5b72bf3e-b47e-4579-9a04-a81651c333ed)
+<img width="535" alt="image" src="https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/05a12183-656f-42c4-931e-ff07251f8bdf">
 
+
+# Conclusión
+El proyecto ofrece una visión prometedora para abordar un problema crítico de salud pública en Perú mediante el uso de tecnologías de bioimpresión accesibles y avanzadas. Sin embargo, es esencial abordar cuidadosamente los desafíos técnicos y de diseño, así como promover la colaboración y la adopción de Open Science Hardware en la comunidad médica para lograr un impacto significativo en la atención de quemaduras. Por esto, La propuesta número tres fue la elegida gracias a su costo asequible y gran eficacia. La bomba peristáltica con motor DC permite un flujo constante, rápido y controlado del biomaterial; además, el atomizador elegido permite realizar un crosslinking eficaz. A pesar de sus características avanzadas, es una opción asequible y posee un interfaz intuitivo y ergonómico, que lo hace fácil de utilizar.
 
 ## Bibliografía 
 1. Organización Mundial de la Salud. (2018). Quemaduras: Datos y cifras. https://www.who.int/es/news-room/fact-sheets/detail/burns
