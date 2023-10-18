@@ -7,7 +7,7 @@
 
 <p align="center">
  
-| Cargo | Apellidos y nombres | .|
+| Cargo | Apellidos y nombres |Imagen|
 |-------|---------------------|-|
 | Coordinadora General | Micaela de Fátima Tassara Camarena |<img width="130" height="200" src=https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/44e6e9af-ad05-4ed4-aaeb-d5ab6d765cb7>|
 | Coordinador de Modelado 3D | Jose Luis Jesús Nuñez Rivera | <img width="130" height="130" src=https://i.imgur.com/1i70Hka.jpg>|
