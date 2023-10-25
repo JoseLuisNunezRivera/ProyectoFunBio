@@ -131,12 +131,12 @@ Dispositivos, sistemas y métodos que utilizan bioimpresoras para formar estruct
 - Ser portátil  y capaz de ser transportado fácilmente
 - Carcasa exterior ergonómico y antideslizante
 
-## Aclaraciones
+## Aclaraciones sistema de extrusión
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6527863/
 - El proceso extrusión para bioimpresión permite el 70 a 75% de células vivas para el implante, a comparación de la bioimpresión por láser que es menor a este porcentaje
 https://www.nature.com/articles/s41598-017-05699-x
 - Para el proceso de “photocuring” se ha demostrado que es necesario solo 10 segundos de exposición a o 700mW/cm2 of 365nm UV-A para mantener el 90% de células vivas, para Bioandamios Core/Shell GelMa/HAMa con rigidez de 200KPa. Sin embargo, nos hemos decidido por un crosslinking iónico con cloruro de calcio para el alginato que usaremos como biomaterial para mantener las ceélular vivas.
-- Para la esterilización de los materiales se recomiendo exposición a luz UV por 4 horas.
+
 ### Biomateriales para la bioimpresión
 https://drive.google.com/file/d/1x9udr_g3XU39Y2daWFmOKxjno0pU2IlR/view
 #### Polímeros Naturales
@@ -179,7 +179,12 @@ Listado de funciones que definen nuestra propuesta de solución
 
 <img width="800" alt="800" src="https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/555e84d2-33b7-40d2-8bb5-46311da2bbd4">
 
-
+## Aclaraciones Componentes
+- El motor DC consume 183 mA.
+- La boquilla es desenrroscable para intercambiar en cada paciente.
+- Para la esterilización de los materiales se recomiendo exposición a luz UV por 4 horas.
+- Los compartimientos reciben el cartucho de bimaterial a usar, por lo que reponible.
+- Las pruebas son realizadas a corriente continua, pero la meta es además incorporar una batería e emergencia.
 
 ## Tabla de valoración
 ![WhatsApp Image 2023-09-19 at 23 55 50](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/4b861ad6-af39-48a1-97f4-52657b277d45)
