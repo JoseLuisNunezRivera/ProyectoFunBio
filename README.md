@@ -250,8 +250,9 @@ Arduino: https://cad.onshape.com/documents/ab3b7c1e555b9870de947bb4/w/7b7a156555
 ## Parámetros de impresión
 ![The better way to buy real estate](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/c8b7bda9-aa74-4acb-b43e-9706652bfa26)
 
-##Capturas de cura
+## Capturas de cura
 ![carcasa izquierda con soportes](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/74231571-5ed1-40e9-8bbc-b2e98175db62)
+![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/698454c9-8dd1-42a3-b260-f2f66c843126)
 ![carcasa arduino y carcasa abteria](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/ddf33c6f-6cc2-4f25-b9e4-0a88e8a2e178)
 ![noozle](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/b9d8fb56-1147-45a3-8ec9-f2e1ae292cdf)
 ![sopprte motores](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/75340d76-2ab6-422e-82d8-ad1967f7ab5d)
