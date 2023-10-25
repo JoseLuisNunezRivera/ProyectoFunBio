@@ -245,6 +245,10 @@ Carcasa: https://cad.onshape.com/documents/80a58f6b33bd11654a4a7b8a/w/2bfbe9e69a
 Nozzle: https://cad.onshape.com/documents/c027aca2a53d79b99da7408b/w/2184ef4e9c322564a1ff58e7/e/02e012f190c222045617761a
 Arduino: https://cad.onshape.com/documents/ab3b7c1e555b9870de947bb4/w/7b7a1565550325052a94cc66/e/a32d93db64576edb51181aca
 
+## Parámetros de impresión
+![The better way to buy real estate](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/c8b7bda9-aa74-4acb-b43e-9706652bfa26)
+
+
 # Conclusión
 El proyecto ofrece una visión prometedora para abordar un problema crítico de salud pública en Perú mediante el uso de tecnologías de bioimpresión accesibles y avanzadas. Sin embargo, es esencial abordar cuidadosamente los desafíos técnicos y de diseño, así como promover la colaboración y la adopción de Open Science Hardware en la comunidad médica para lograr un impacto significativo en la atención de quemaduras. Por esto, La propuesta número tres fue la elegida gracias a su costo asequible y gran eficacia. La bomba peristáltica con motor DC permite un flujo constante, rápido y controlado del biomaterial; además, el atomizador elegido permite realizar un crosslinking eficaz. A pesar de sus características avanzadas, es una opción asequible y posee un interfaz intuitivo y ergonómico, que lo hace fácil de utilizar.
 
