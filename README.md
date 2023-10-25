@@ -175,10 +175,11 @@ Listado de funciones que definen nuestra propuesta de solución
 - Dosificación: Se refiere a la técnica de bioimpresión a utilizar para la dosificación del biomaterial en la zona deseada. Esta ténica será la extrusión.
 - Crosslinking: Proceso en el cual el biomaterial extruido será crosslinkeado.
 
-
 ## Matriz morfologica
 
-<img width="800" alt="800" src="https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/4a08f645-3497-4e2f-8f2f-323fe5956388">
+<img width="800" alt="800" src="https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/555e84d2-33b7-40d2-8bb5-46311da2bbd4">
+
+
 
 ## Tabla de valoración
 ![WhatsApp Image 2023-09-19 at 23 55 50](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/4b861ad6-af39-48a1-97f4-52657b277d45)
@@ -215,26 +216,29 @@ Listado de funciones que definen nuestra propuesta de solución
 ## Modelado 3D de los componentes
 Carcasa de batería: https://skfb.ly/oMzyD
 ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/a2b5b1ff-8740-43a7-84ff-ac3e780afd0e)
+![Bateria](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/7fd6b080-9738-402d-a0fd-cd1ec7a27c17)
 
-Compatimientos: https://skfb.ly/oMzy8
-![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/855e8f25-b5a5-4019-8357-32399ff9510c)
 
 Soporte Arduino Nano IoT: https://skfb.ly/oMyWH
-![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/b47f4de9-c59c-4e06-8bed-cc734fc547ec)
+![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/e327fc77-4701-46b2-b805-fbfd8cff48d6)
+
+![arduino](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/263ad8df-8e19-4f50-862e-8f732baebeb3)
 
 Soporte bomba: https://skfb.ly/oMzPo
 ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/a2738ec3-06d3-476f-9a1b-ae1bcf4aa19d)
 
-Nozzle: https://hacksterio.s3.amazonaws.com/uploads/attachments/1468839/15e_SvI1SD9jRq.max (descarga formato .max)
-Foto referencial:
-![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/64e92d45-3a66-4e16-adb1-e491435b0c13)
+Nozzle: https://skfb.ly/oMKX9
+![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/6648aaf3-5047-4a91-b957-7e488c0eb870)
+![Nozzle](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/1f29efee-f472-4c0b-86d0-146266399faa)
 
-# Links OnShape: 
-https://cad.onshape.com/documents?nodeId=c4793eb9e9bfce5733811830&resourceType=folder}
-https://cad.onshape.com/documents/fe2039349cf3cb46d6771c7a/w/25ac5372a12e5c31bed55b96/e/f3281b6cf46a657b9270b5a7
-https://cad.onshape.com/documents/97077a52108c90ed77ca5680/w/f6fc2ac3dd7456e9a3ec2b12
-https://cad.onshape.com/documents/12e3ed61cab0943749af3f1c/w/2f6f5ba43f477e4e80162eb6
-https://cad.onshape.com/documents/0dbdbc4544e5d12945d07739/w/277f741cfdfd406b3f8b8f2b/e/689cc54fe502cda9b17dcbeb
+
+
+Enlaces OnShape
+
+Bateria: https://cad.onshape.com/documents/8753fb74caf40b7c49822295/w/75cc47d2df99ca0daf6d1ac5/e/1bb90dee041613b8d4c29219
+Carcasa: https://cad.onshape.com/documents/80a58f6b33bd11654a4a7b8a/w/2bfbe9e69aeff237d9c1ac6a/e/a47df91319393d363567d214
+Nozzle: https://cad.onshape.com/documents/c027aca2a53d79b99da7408b/w/2184ef4e9c322564a1ff58e7/e/02e012f190c222045617761a
+Arduino: https://cad.onshape.com/documents/ab3b7c1e555b9870de947bb4/w/7b7a1565550325052a94cc66/e/a32d93db64576edb51181aca
 
 # Conclusión
 El proyecto ofrece una visión prometedora para abordar un problema crítico de salud pública en Perú mediante el uso de tecnologías de bioimpresión accesibles y avanzadas. Sin embargo, es esencial abordar cuidadosamente los desafíos técnicos y de diseño, así como promover la colaboración y la adopción de Open Science Hardware en la comunidad médica para lograr un impacto significativo en la atención de quemaduras. Por esto, La propuesta número tres fue la elegida gracias a su costo asequible y gran eficacia. La bomba peristáltica con motor DC permite un flujo constante, rápido y controlado del biomaterial; además, el atomizador elegido permite realizar un crosslinking eficaz. A pesar de sus características avanzadas, es una opción asequible y posee un interfaz intuitivo y ergonómico, que lo hace fácil de utilizar.
