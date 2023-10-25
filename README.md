@@ -210,7 +210,7 @@ Listado de funciones que definen nuestra propuesta de solución
 
 ## Diagrama o esquema electrónico
 
-![asa_page-0001](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/fb61ee04-1bf3-44ba-a9fb-13f9453a643f)
+!<img width="800" alt="600" src="https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/89004099-d260-428a-bb32-4af799aba299">
 
 ## Modelado 3D de los componentes
 Carcasa de batería: https://skfb.ly/oMzyD
