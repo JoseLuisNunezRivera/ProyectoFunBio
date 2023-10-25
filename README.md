@@ -213,7 +213,8 @@ Listado de funciones que definen nuestra propuesta de solución
 <img width="800" alt="700" src="https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/3f2213d3-8c91-4263-840c-ba0a08073bde">
 
 ## Modelado 3D de los componentes
-Carcasa de batería: https://skfb.ly/oMzyD
+# Carcasa de batería: 
+https://skfb.ly/oMzyD
 ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/a2b5b1ff-8740-43a7-84ff-ac3e780afd0e)
 
 Compatimientos: https://skfb.ly/oMzy8
