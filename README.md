@@ -229,8 +229,8 @@ Nozzle: https://hacksterio.s3.amazonaws.com/uploads/attachments/1468839/15e_SvI1
 Foto referencial:
 ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/64e92d45-3a66-4e16-adb1-e491435b0c13)
 
-Carpeta de OnShape: https://cad.onshape.com/documents?nodeId=c4793eb9e9bfce5733811830&resourceType=folder}
-
+# Links OnShape: 
+https://cad.onshape.com/documents?nodeId=c4793eb9e9bfce5733811830&resourceType=folder}
 https://cad.onshape.com/documents/fe2039349cf3cb46d6771c7a/w/25ac5372a12e5c31bed55b96/e/f3281b6cf46a657b9270b5a7
 https://cad.onshape.com/documents/97077a52108c90ed77ca5680/w/f6fc2ac3dd7456e9a3ec2b12
 https://cad.onshape.com/documents/12e3ed61cab0943749af3f1c/w/2f6f5ba43f477e4e80162eb6
