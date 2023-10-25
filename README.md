@@ -242,6 +242,7 @@ Nozzle: https://skfb.ly/oMKX9
 
 Enlaces OnShape
 
+Ensamble: https://cad.onshape.com/documents/f09de541852abb89f9219f57/w/cb1cec3edf1ba7c8b469c0cc/e/483040a0c3ee574bb941b9c0?renderMode=0&uiState=6539873ed6a9f41deebdb429
 Bateria: https://cad.onshape.com/documents/8753fb74caf40b7c49822295/w/75cc47d2df99ca0daf6d1ac5/e/1bb90dee041613b8d4c29219
 Carcasa: https://cad.onshape.com/documents/80a58f6b33bd11654a4a7b8a/w/2bfbe9e69aeff237d9c1ac6a/e/a47df91319393d363567d214
 Nozzle: https://cad.onshape.com/documents/c027aca2a53d79b99da7408b/w/2184ef4e9c322564a1ff58e7/e/02e012f190c222045617761a
