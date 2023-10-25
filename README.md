@@ -274,6 +274,9 @@ In situ 3D bioprinting: A promising technique in advanced biofabrication strateg
 15. THREE-DIMENSIONAL ROBOT BIOLOGICAL PRINTER - CN110769771B - https://worldwide.espacenet.com/patent/search?q=pn%3DCN110769771B
 16. 3D PRINTING EQUIPMENT UTILIZING BIOLOGICAL MATERIAL, AND METHOD - US11325301B2 - https://worldwide.espacenet.com/patent/search/family/056325304/publication/US11325301B2?q=pn%3DUS11325301B2
 17. BIOPRINTER DEVICES, SYSTEMS AND METHODS FOR PRINTING SOFT GELS FOR THE TREATMENT OF MUSCULOSKELETAL AND SKIN DISORDERS - US20200123485A1 - https://worldwide.espacenet.com/patent/search/family/070279465/publication/US2020123485A1?q=pn%3DUS2020123485A1
+18. GhavamiNejad A, Ashammakhi N, Wu XY, Khademhosseini A. Crosslinking strategies for 3D bioprinting of polymeric hydrogels. Small [Internet]. 2020;16(35). Disponible en: http://dx.doi.org/10.1002/smll.202002931
+ 	 
+
 
 
  
