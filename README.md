@@ -187,7 +187,7 @@ Listado de funciones que definen nuestra propuesta de solución
 
 ![](https://i.imgur.com/UwXRCZZ.png)
 ![](https://i.imgur.com/L8Dtdnr.png)
-![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/afa42fc3-083d-4380-ba1c-46fcffd2c1ff)
+![Gráfico Circular Azul Presentación (3)](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/1366df94-0447-4629-a678-c82b14518280)
 
 **<p align="center"> Tamaño ideal ergonómico**
 
