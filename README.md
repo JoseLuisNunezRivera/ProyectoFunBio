@@ -184,7 +184,9 @@ Listado de funciones que definen nuestra propuesta de solución
 - La boquilla es desenrroscable para intercambiar en cada paciente.
 - Para la esterilización de los materiales se recomiendo exposición a luz UV por 4 horas.
 - Los compartimientos reciben el cartucho de bimaterial a usar, por lo que reponible.
-- Las pruebas son realizadas a corriente continua, pero la meta es además incorporar una batería e emergencia.
+- Las pruebas son realizadas a corriente continua, pero la meta es además incorporar una batería de emergencia.
+- La la limpiez ainterna se recomienda el uso d euna solución NaOH al 8%.
+- El movimiento de la bomba en ambos sentidos permite evitar el "clouding".
 
 ## Tabla de valoración
 ![WhatsApp Image 2023-09-19 at 23 55 50](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/4b861ad6-af39-48a1-97f4-52657b277d45)
