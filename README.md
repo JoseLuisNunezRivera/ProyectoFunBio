@@ -216,7 +216,7 @@ Listado de funciones que definen nuestra propuesta de solución
 Carcasa de batería: https://skfb.ly/oMzyD
 ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/a2b5b1ff-8740-43a7-84ff-ac3e780afd0e)
 
-Soporte de jeringas: https://skfb.ly/oMzy8
+Compatimientos: https://skfb.ly/oMzy8
 ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/855e8f25-b5a5-4019-8357-32399ff9510c)
 
 Soporte Arduino Nano IoT: https://skfb.ly/oMyWH
