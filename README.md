@@ -291,10 +291,8 @@ Enlace: https://cad.onshape.com/documents/09f9c76a7d47eff0724d30c6/w/3d43e792844
 - Carcasa derecha e izquierda:
   ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/4f86f504-3860-40b0-bb3d-4a78577dc93b)
   
-
-
-
-
+- Tapa y boquilla:
+  ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/f6925ce5-2114-4930-bbc6-b88629456535)
 
 ## Hardware
 Incorporación del joystick
