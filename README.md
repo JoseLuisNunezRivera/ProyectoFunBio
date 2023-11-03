@@ -227,21 +227,28 @@ Es importante resaltar estos puntos para evitar la contaminación entre paciente
 <img width="800" alt="700" src="https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/3f2213d3-8c91-4263-840c-ba0a08073bde">
 
 ## Modelado 3D de los componentes
+
 Carcasa de batería: https://skfb.ly/oMzyD
+
 ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/a2b5b1ff-8740-43a7-84ff-ac3e780afd0e)
+
 ![Bateria](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/7fd6b080-9738-402d-a0fd-cd1ec7a27c17)
 
 
 Soporte Arduino Nano IoT: https://skfb.ly/oMyWH
+
 ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/e327fc77-4701-46b2-b805-fbfd8cff48d6)
 
 ![arduino](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/263ad8df-8e19-4f50-862e-8f732baebeb3)
 
 Soporte bomba: https://skfb.ly/oMzPo
+
 ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/a2738ec3-06d3-476f-9a1b-ae1bcf4aa19d)
 
 Nozzle: https://skfb.ly/oMKX9
+
 ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/6648aaf3-5047-4a91-b957-7e488c0eb870)
+
 ![Nozzle](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/1f29efee-f472-4c0b-86d0-146266399faa)
 
 
@@ -249,6 +256,7 @@ Nozzle: https://skfb.ly/oMKX9
 ## Modelado 3D
 
 ![image](https://i.imgur.com/AK7mcbh.png)
+
 Enlace: https://cad.onshape.com/documents/09f9c76a7d47eff0724d30c6/w/3d43e792844fd2dbdda089f4/e/7ecab6a8aefa52bed1cfe061
 
 ## Parámetros de impresión
