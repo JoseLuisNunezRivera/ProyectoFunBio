@@ -251,14 +251,6 @@ Nozzle: https://skfb.ly/oMKX9
 
 ![Nozzle](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/1f29efee-f472-4c0b-86d0-146266399faa)
 
-
-
-## Modelado 3D
-
-![image](https://i.imgur.com/AK7mcbh.png)
-
-Enlace: https://cad.onshape.com/documents/09f9c76a7d47eff0724d30c6/w/3d43e792844fd2dbdda089f4/e/7ecab6a8aefa52bed1cfe061
-
 ## Parámetros de impresión
 ![The better way to buy real estate](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/c8b7bda9-aa74-4acb-b43e-9706652bfa26)
 
