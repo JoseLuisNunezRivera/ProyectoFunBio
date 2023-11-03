@@ -181,13 +181,16 @@ Listado de funciones que definen nuestra propuesta de solución
 
 ## Aclaraciones Componentes
 - El motor DC consume 183 mA.
-- La boquilla es desenrroscable para intercambiar en cada paciente.
-- Para la esterilización de los materiales se recomiendo exposición a luz UV por 4 horas.
 - Los compartimientos reciben el cartucho de bimaterial a usar, por lo que reponible.
 - Las pruebas son realizadas a corriente continua, pero la meta es además incorporar una batería de emergencia.
-- La la limpiez ainterna se recomienda el uso d euna solución NaOH al 8%.
 - El movimiento de la bomba en ambos sentidos permite evitar el "clouding".
-
+- El prototipo será contruido en PLA, lo adecuado para uso médico son materiales como ácero inoxidable para el caso de la boquilla, PVC tranparente en el caso del protector dela boquilla.
+### Limpieza de los componentes
+Es importante resaltar estos puntos para evitar la contaminación entre pacientes, ya que al tratar quemaduras lo que principalment se quiere evitar con la sinfecciones:
+- Se recomienda una desinfección de alto nivel (DAN) para el partes como la boquilla, el interiro de los artuchos y todo componente expuesto directamente a la contaminación. Esto puede ser con ácido peracético (0.001-0.2) durante 10 a 15 minutos, lo que se utiliza para desinfectar un equipo de diálisis.
+- La limpieza interna se recomienda el uso de una solución NaOH al 8% para zonas no cercanas al paciente como la carcasa.
+- La para la perte externa se recomienda el uso de hipoclorito 5000 ppm.
+ 
 ## Tabla de valoración
 ![WhatsApp Image 2023-09-19 at 23 55 50](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/4b861ad6-af39-48a1-97f4-52657b277d45)
 
@@ -240,13 +243,12 @@ Nozzle: https://skfb.ly/oMKX9
 
 
 
-Enlaces OnShape
-
-Ensamble: https://cad.onshape.com/documents/f09de541852abb89f9219f57/w/cb1cec3edf1ba7c8b469c0cc/e/483040a0c3ee574bb941b9c0?renderMode=0&uiState=6539873ed6a9f41deebdb429
-Bateria: https://cad.onshape.com/documents/8753fb74caf40b7c49822295/w/75cc47d2df99ca0daf6d1ac5/e/1bb90dee041613b8d4c29219
-Carcasa: https://cad.onshape.com/documents/80a58f6b33bd11654a4a7b8a/w/2bfbe9e69aeff237d9c1ac6a/e/a47df91319393d363567d214
-Nozzle: https://cad.onshape.com/documents/c027aca2a53d79b99da7408b/w/2184ef4e9c322564a1ff58e7/e/02e012f190c222045617761a
-Arduino: https://cad.onshape.com/documents/ab3b7c1e555b9870de947bb4/w/7b7a1565550325052a94cc66/e/a32d93db64576edb51181aca
+## Enlaces OnShape
+- Ensamble: https://cad.onshape.com/documents/f09de541852abb89f9219f57/w/cb1cec3edf1ba7c8b469c0cc/e/483040a0c3ee574bb941b9c0?renderMode=0&uiState=6539873ed6a9f41deebdb429
+- Bateria: https://cad.onshape.com/documents/8753fb74caf40b7c49822295/w/75cc47d2df99ca0daf6d1ac5/e/1bb90dee041613b8d4c29219
+- Carcasa: https://cad.onshape.com/documents/80a58f6b33bd11654a4a7b8a/w/2bfbe9e69aeff237d9c1ac6a/e/a47df91319393d363567d214
+- Nozzle: https://cad.onshape.com/documents/c027aca2a53d79b99da7408b/w/2184ef4e9c322564a1ff58e7/e/02e012f190c222045617761a
+- Arduino: https://cad.onshape.com/documents/ab3b7c1e555b9870de947bb4/w/7b7a1565550325052a94cc66/e/a32d93db64576edb51181aca
 
 ## Parámetros de impresión
 ![The better way to buy real estate](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/c8b7bda9-aa74-4acb-b43e-9706652bfa26)
@@ -260,16 +262,12 @@ Arduino: https://cad.onshape.com/documents/ab3b7c1e555b9870de947bb4/w/7b7a156555
 ## Simulador tinkercad
 ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/c53a6dad-0dcb-4d12-b247-17de8e157c14)
 
-
-
-
-
-
+## Diagrma de flujo
 
 # Conclusión
 El proyecto ofrece una visión prometedora para abordar un problema crítico de salud pública en Perú mediante el uso de tecnologías de bioimpresión accesibles y avanzadas. Sin embargo, es esencial abordar cuidadosamente los desafíos técnicos y de diseño, así como promover la colaboración y la adopción de Open Science Hardware en la comunidad médica para lograr un impacto significativo en la atención de quemaduras. Por esto, La propuesta número tres fue la elegida gracias a su costo asequible y gran eficacia. La bomba peristáltica con motor DC permite un flujo constante, rápido y controlado del biomaterial; además, el atomizador elegido permite realizar un crosslinking eficaz. A pesar de sus características avanzadas, es una opción asequible y posee un interfaz intuitivo y ergonómico, que lo hace fácil de utilizar.
 
-# Presentación
+# Presentación HITO 01
 https://www.canva.com/design/DAFyIOSvqEU/xKgEkVsLvqRSR0-aUGSA_A/edit?utm_content=DAFyIOSvqEU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 # Bibliografía 
