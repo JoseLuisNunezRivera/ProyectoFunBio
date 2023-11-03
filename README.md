@@ -134,9 +134,10 @@ Dispositivos, sistemas y métodos que utilizan bioimpresoras para formar estruct
 # Propuesta de solución
 Sistema In Situ de bioimpresión de scaffolds con extrusión por bomba peristáltica y crosslinking iónico para la estimulación de cicatrización y prevención de infecciones en heridas causadas por quemaduras.
 
-## Aclaraciones sistema de extrusión
+## Aclaraciones sistema de extrusión y crosslinking
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6527863/
 - El proceso extrusión para bioimpresión permite el 70 a 75% de células vivas para el implante, a comparación de la bioimpresión por láser que es menor a este porcentaje
+  
 https://www.nature.com/articles/s41598-017-05699-x
 - Para el proceso de “photocuring” se ha demostrado que es necesario solo 10 segundos de exposición a o 700mW/cm2 of 365nm UV-A para mantener el 90% de células vivas, para Bioandamios Core/Shell GelMa/HAMa con rigidez de 200KPa. Sin embargo, nos hemos decidido por un crosslinking iónico con cloruro de calcio para el alginato que usaremos como biomaterial para mantener las ceélular vivas.
 
