@@ -20,7 +20,7 @@
 # ¿A qué nos referimos con Open Science Hardware?
 El Hardware es una parte esencial de procesos experimentales y los avances en la instrumentación han sido clave para revoluciones científicas. Sin embargo, la actual cadena de suministros de estos hardware científicos limita el acceso e impide la creatividad y personalización. El Open Science Hardware aborda esta problemática facilitando un espacio para compartir, diseñar y fabricar de manera abierta y accesible herramientas, dispositivos y equipos usados en investigaciones científicas y experimentos. Con esto se busca incrementar la transparencia, colaboración y accesibilidad en la comunidad científica, permitiendo que todo esto esté disponible gratuitamente a cualquiera para reproducir, modificar y compartir. [14]
 
-# Analisis del caso 
+# I. Analisis del caso 
 - "Tema": Open Science Hardware para Salud y Laboratorio
 -  "Problemática": Aumento de quemaduras de segundo grado en menores de edad del país
  
@@ -41,7 +41,7 @@ Las quemaduras son lesiones producidas en tejido vivo, debido a la acción de ag
 La falta de tecnología de bioimpresión en Perú para el tratamiento de heridas por quemaduras representa una problemática grave en la atención médica. A medida que las quemaduras continúan siendo un problema de salud significativo en el país, la ausencia de esta tecnología avanzada limita las opciones de tratamiento efectivas y la posibilidad de una recuperación más rápida y completa para los pacientes. Esto se traduce en un aumento en la morbilidad y la carga económica en el sistema de salud peruano, así como en la calidad de vida disminuida para las personas afectadas por quemaduras. La falta de acceso a la bioimpresión también restringe la capacidad de la comunidad médica peruana para llevar a cabo investigaciones y avances en el campo de la regeneración de tejidos y la medicina regenerativa, lo que podría tener un impacto duradero en la atención médica en el país.
 **<p align="center"> ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018549/b35b7761-393f-4b75-9cef-987a53142c54)**
 
-# Estado del arte 
+# II. Estado del arte 
 
 ## Productos comerciales
 | Nombre | Características | Imágenes |
@@ -131,6 +131,9 @@ Dispositivos, sistemas y métodos que utilizan bioimpresoras para formar estruct
 - Ser portátil  y capaz de ser transportado fácilmente
 - Carcasa exterior ergonómico y antideslizante
 
+# Propuesta de solución
+Sistema In Situ de bioimpresión de scaffolds con extrusión por bomba peristáltica y crosslinking iónico para la estimulación de cicatrización y prevención de infecciones en heridas causadas por quemaduras.
+
 ## Aclaraciones sistema de extrusión
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6527863/
 - El proceso extrusión para bioimpresión permite el 70 a 75% de células vivas para el implante, a comparación de la bioimpresión por láser que es menor a este porcentaje
@@ -154,13 +157,10 @@ https://drive.google.com/file/d/1x9udr_g3XU39Y2daWFmOKxjno0pU2IlR/view
 
 Es importante señalar que la proporción exacta y la concentración de cloruro de calcio se van optimizando a través de pruebas empíricas para adaptarse a las características específicas del scaffold  deseado y a las condiciones de la herida que se desea tratar.
 
-# Propuesta de solución
-Sistema In Situ de bioimpresión de scaffolds con extrusión por bomba peristáltica y crosslinking iónico para la estimulación de cicatrización y prevención de infecciones en heridas causadas por quemaduras.
-
+# III. Caja negra y esquema de funciones. MatrizMorfológica y Tabla de Valoración
 ## Caja negra
 Etapa de abstracción de nuestro proyecto a prototipar.
 ![15d8d4c7-4761-4de0-bc48-b51743688ad0](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/14513b8d-236c-4c09-8807-47e35a9935a8)
-
 
 ## Esquema de funciones
 
@@ -194,7 +194,7 @@ Es importante resaltar estos puntos para evitar la contaminación entre paciente
 ## Tabla de valoración
 ![WhatsApp Image 2023-09-19 at 23 55 50](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/4b861ad6-af39-48a1-97f4-52657b277d45)
 
-## Bocetos
+# IV. Bocetos del Concepto Seleccionado. Tablade Evaluación Técnica y Económica
 
 ![](https://i.imgur.com/UwXRCZZ.png)
 ![](https://i.imgur.com/L8Dtdnr.png)
@@ -218,6 +218,9 @@ Es importante resaltar estos puntos para evitar la contaminación entre paciente
 
 ## Gráfica de valoración
 <img width="800" alt="800" src="https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/74e4902e-422c-40c9-b02a-a86c943fb491">
+
+
+# V. Diseño Esquemático y Simulación Electrónica.Modelado 3D de los componentes por separado
 
 ## Diagrama o esquema electrónico
 
@@ -262,13 +265,31 @@ Nozzle: https://skfb.ly/oMKX9
 ## Simulador tinkercad
 ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/c53a6dad-0dcb-4d12-b247-17de8e157c14)
 
-## Diagrma de flujo
+# Presentación HITO 01
+https://www.canva.com/design/DAFyIOSvqEU/xKgEkVsLvqRSR0-aUGSA_A/edit?utm_content=DAFyIOSvqEU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+# VI. Iteración 1 (Hardware - Software -Manufactura Digital). Diagrama de Flujo
+
+## Hardware
+![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/071029c9-ba2c-4b5c-91d6-a9218971d414)
+SIMULACIÓN: https://www.tinkercad.com/things/jERCG8p7Obw-grand-trug/editel?sharecode=czoMqdoFsqJDZCXz_PBO7eIG9Ziwfk7C82nwVDGqqsg
+VIDEO DE PRUEBA: https://drive.google.com/file/d/1bM-UF46B_w9EeCMDXME14NQ2QX0UETod/view?usp=drive_link
+
+
+## Software
+![Simple Flowchart Infographic Graph](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/70b78cdd-6fa6-425b-b2d6-e9ff2ab9ff42)
+Código con un motor de prueba:
+![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/d8c32eb8-a2d8-44fc-bba8-bc77c7b3dcd0)
+
+## Integración Hardware - Impresión 3D
+ 
+### Modelado 3D 
+
 
 # Conclusión
 El proyecto ofrece una visión prometedora para abordar un problema crítico de salud pública en Perú mediante el uso de tecnologías de bioimpresión accesibles y avanzadas. Sin embargo, es esencial abordar cuidadosamente los desafíos técnicos y de diseño, así como promover la colaboración y la adopción de Open Science Hardware en la comunidad médica para lograr un impacto significativo en la atención de quemaduras. Por esto, La propuesta número tres fue la elegida gracias a su costo asequible y gran eficacia. La bomba peristáltica con motor DC permite un flujo constante, rápido y controlado del biomaterial; además, el atomizador elegido permite realizar un crosslinking eficaz. A pesar de sus características avanzadas, es una opción asequible y posee un interfaz intuitivo y ergonómico, que lo hace fácil de utilizar.
 
-# Presentación HITO 01
-https://www.canva.com/design/DAFyIOSvqEU/xKgEkVsLvqRSR0-aUGSA_A/edit?utm_content=DAFyIOSvqEU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 
 # Bibliografía 
 1. Organización Mundial de la Salud. (2018). Quemaduras: Datos y cifras. https://www.who.int/es/news-room/fact-sheets/detail/burns
