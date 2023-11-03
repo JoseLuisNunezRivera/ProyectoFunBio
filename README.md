@@ -285,6 +285,10 @@ Enlace: https://cad.onshape.com/documents/09f9c76a7d47eff0724d30c6/w/3d43e792844
 - Nozzle:
   ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/0a767878-dca5-4980-bbd8-9cf228f9c93a)
 
+- Carcasa arduino y batería:
+  ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/595a17d0-1f27-4e5a-9f24-6caec6a9bb40)
+
+
 
 
 ## Hardware
