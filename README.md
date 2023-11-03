@@ -276,12 +276,16 @@ https://www.canva.com/design/DAFyIOSvqEU/xKgEkVsLvqRSR0-aUGSA_A/edit?utm_content
 
 # VI. Iteración 1 (Hardware - Software -Manufactura Digital). Diagrama de Flujo
 
+## Modelado
+![image](https://i.imgur.com/AK7mcbh.png)
+
+Enlace: https://cad.onshape.com/documents/09f9c76a7d47eff0724d30c6/w/3d43e792844fd2dbdda089f4/e/7ecab6a8aefa52bed1cfe061
+
 ## Hardware
 ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/071029c9-ba2c-4b5c-91d6-a9218971d414)
-SIMULACIÓN: https://www.tinkercad.com/things/jERCG8p7Obw-grand-trug/editel?sharecode=czoMqdoFsqJDZCXz_PBO7eIG9Ziwfk7C82nwVDGqqsg
+Simulación: https://www.tinkercad.com/things/jERCG8p7Obw-grand-trug/editel?sharecode=czoMqdoFsqJDZCXz_PBO7eIG9Ziwfk7C82nwVDGqqsg
 
-VIDEO DE PRUEBA: https://drive.google.com/file/d/1bM-UF46B_w9EeCMDXME14NQ2QX0UETod/view?usp=drive_link
-
+Video de prueba: https://drive.google.com/file/d/1bM-UF46B_w9EeCMDXME14NQ2QX0UETod/view?usp=drive_link
 
 ## Software
 ![Simple Flowchart Infographic Graph](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/70b78cdd-6fa6-425b-b2d6-e9ff2ab9ff42)
