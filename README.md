@@ -179,18 +179,6 @@ Listado de funciones que definen nuestra propuesta de solución
 ## Matriz morfologica
 
 <img width="800" alt="800" src="https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/555e84d2-33b7-40d2-8bb5-46311da2bbd4">
-
-## Aclaraciones Componentes
-- El motor DC consume 183 mA.
-- Los compartimientos reciben el cartucho de bimaterial a usar, por lo que reponible.
-- Las pruebas son realizadas a corriente continua, pero la meta es además incorporar una batería de emergencia.
-- El movimiento de la bomba en ambos sentidos permite evitar el "clouding".
-- El prototipo será contruido en PLA, lo adecuado para uso médico son materiales como ácero inoxidable para el caso de la boquilla, PVC tranparente en el caso del protector dela boquilla.
-### Limpieza de los componentes
-Es importante resaltar estos puntos para evitar la contaminación entre pacientes, ya que al tratar quemaduras lo que principalment se quiere evitar con la sinfecciones:
-- Se recomienda una desinfección de alto nivel (DAN) para el partes como la boquilla, el interiro de los artuchos y todo componente expuesto directamente a la contaminación. Esto puede ser con ácido peracético (0.001-0.2) durante 10 a 15 minutos, lo que se utiliza para desinfectar un equipo de diálisis.
-- La limpieza interna se recomienda el uso de una solución NaOH al 8% para zonas no cercanas al paciente como la carcasa.
-- La para la perte externa se recomienda el uso de hipoclorito 5000 ppm.
  
 ## Tabla de valoración
 ![WhatsApp Image 2023-09-19 at 23 55 50](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/4b861ad6-af39-48a1-97f4-52657b277d45)
@@ -269,6 +257,18 @@ Nozzle: https://skfb.ly/oMKX9
 
 # Presentación HITO 01
 https://www.canva.com/design/DAFyIOSvqEU/xKgEkVsLvqRSR0-aUGSA_A/edit?utm_content=DAFyIOSvqEU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+## Aclaraciones Componentes
+- El motor DC consume 183 mA.
+- Los compartimientos reciben el cartucho de bimaterial a usar, por lo que reponible.
+- Las pruebas son realizadas a corriente continua, pero la meta es además incorporar una batería de emergencia.
+- El movimiento de la bomba en ambos sentidos permite evitar el "clouding".
+- El prototipo será contruido en PLA, lo adecuado para uso médico son materiales como ácero inoxidable para el caso de la boquilla, PVC tranparente en el caso del protector dela boquilla.
+### Limpieza de los componentes
+Es importante resaltar estos puntos para evitar la contaminación entre pacientes, ya que al tratar quemaduras lo que principalment se quiere evitar con la sinfecciones:
+- Se recomienda una desinfección de alto nivel (DAN) para el partes como la boquilla, el interiro de los artuchos y todo componente expuesto directamente a la contaminación. Esto puede ser con ácido peracético (0.001-0.2) durante 10 a 15 minutos, lo que se utiliza para desinfectar un equipo de diálisis.
+- La limpieza interna se recomienda el uso de una solución NaOH al 8% para zonas no cercanas al paciente como la carcasa.
+- La para la perte externa se recomienda el uso de hipoclorito 5000 ppm.
 
 # VI. Iteración 1 (Hardware - Software -Manufactura Digital). Diagrama de Flujo
 
