@@ -277,6 +277,11 @@ Diseño corregido:
 
 Enlace: https://cad.onshape.com/documents/09f9c76a7d47eff0724d30c6/w/3d43e792844fd2dbdda089f4/e/7ecab6a8aefa52bed1cfe061
 
+## Parámetros de impresión
+- Bomba peristáltica:
+  ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/325bcf2a-97c5-4908-b817-3f2f304ee5af)
+
+
 ## Hardware
 Incorporación del joystick
 ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/071029c9-ba2c-4b5c-91d6-a9218971d414)
