@@ -272,11 +272,13 @@ https://www.canva.com/design/DAFyIOSvqEU/xKgEkVsLvqRSR0-aUGSA_A/edit?utm_content
 # VI. Iteración 1 (Hardware - Software -Manufactura Digital). Diagrama de Flujo
 
 ## Modelado
+Diseño corregido:
 ![image](https://i.imgur.com/AK7mcbh.png)
 
 Enlace: https://cad.onshape.com/documents/09f9c76a7d47eff0724d30c6/w/3d43e792844fd2dbdda089f4/e/7ecab6a8aefa52bed1cfe061
 
 ## Hardware
+Incorporación del joystick
 ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/071029c9-ba2c-4b5c-91d6-a9218971d414)
 Simulación: https://www.tinkercad.com/things/jERCG8p7Obw-grand-trug/editel?sharecode=czoMqdoFsqJDZCXz_PBO7eIG9Ziwfk7C82nwVDGqqsg
 
