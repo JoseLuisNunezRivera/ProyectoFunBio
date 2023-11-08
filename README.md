@@ -309,6 +309,10 @@ Código con un motor de prueba:
 # VII. Reporte de pruebas, retos y limitaciones
 <p align="center"> 
 
+## Videos de prueba:
+- https://drive.google.com/file/d/1F15Me29U1R6xqWsC1x0a1ha1G58_8Gcn/view?usp=sharing
+- https://drive.google.com/file/d/1rPYKYIcmd3nNEOR8jjYt4QE14mCWyPdi/view?usp=sharing
+
 | Retos y limitaciones | Posibles soluciones |
 |-|-|
 | Mejorar el sistema de almacenamiento del biomaterial | Diseñar un sistema que permita el intercambio de cartuchos |
