@@ -313,12 +313,14 @@ Código con un motor de prueba:
 - https://drive.google.com/file/d/1F15Me29U1R6xqWsC1x0a1ha1G58_8Gcn/view?usp=sharing
 - https://drive.google.com/file/d/1rPYKYIcmd3nNEOR8jjYt4QE14mCWyPdi/view?usp=sharing
 
+
 | Retos y limitaciones | Posibles soluciones |
 |-|-|
 | Mejorar el sistema de almacenamiento del biomaterial | Diseñar un sistema que permita el intercambio de cartuchos |
-| Control del material extruido, si está saliendo de manera pareja | Darles coloración a las biotinas para diferenciarlas y apreciar su presencia |
 | Mejorar la alimentación ante una emergencia | Implementar una batería de emergencia |
 | Determinar con la mayor exactitud la proporción de Alginato con HA y CaCl2 | Lo recomendable es realizar pruebas experimentales para evaluarse y llegar a un promedio |
+|La manguera más pequeña conseguida posee problemas con el espacio designado en la bomba|Editar el modelo con las nuevas medidas de la manguera|
+|Las mangueras pueden estar muy sueltas |Agregar "caminos" en la carcasa para guiar las mangueras|
 
 
 # Bibliografía 
