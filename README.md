@@ -315,7 +315,7 @@ Código con un motor de prueba:
 | Control del material extruido, si está saliendo de manera pareja | Darles coloración a las biotinas para diferenciarlas y apreciar su presencia |
 | Mejorar la alimentación ante una emergencia | Implementar una batería de emergencia |
 | Determinar con la mayor exactitud la proporción de Alginato con HA y CaCl2 | Lo recomendable es realizar pruebas experimentales para evaluarse y llegar a un promedio |
-</p>
+
 
 # Bibliografía 
 1. Organización Mundial de la Salud. (2018). Quemaduras: Datos y cifras. https://www.who.int/es/news-room/fact-sheets/detail/burns
