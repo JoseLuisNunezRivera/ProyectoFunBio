@@ -306,10 +306,16 @@ Video de prueba: https://drive.google.com/file/d/1bM-UF46B_w9EeCMDXME14NQ2QX0UET
 Código con un motor de prueba:
 ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/d8c32eb8-a2d8-44fc-bba8-bc77c7b3dcd0)
 
+# Reporte de pruebas, retos y limitaciones
+<p align="center"> 
 
-
-
-
+| Retos y limitaciones | Posibles soluciones |
+|-|-|
+| Mejorar el sistema de almacenamiento del biomaterial | Diseñar un sistema que permita el intercambio de cartuchos |
+| Control del material extruido, si está saliendo de manera pareja | Darles coloración a las biotinas para diferenciarlas y apreciar su presencia |
+| Mejorar la alimentación ante una emergencia | Implementar una batería de emergencia |
+| Determinar con la mayor exactitud la proporción de Alginato con HA y CaCl2 | Lo recomendable es realizar pruebas experimentales para evaluarse y llegar a un promedio |
+</p>
 
 # Bibliografía 
 1. Organización Mundial de la Salud. (2018). Quemaduras: Datos y cifras. https://www.who.int/es/news-room/fact-sheets/detail/burns
