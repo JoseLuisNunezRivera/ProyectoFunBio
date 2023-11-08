@@ -306,7 +306,7 @@ Video de prueba: https://drive.google.com/file/d/1bM-UF46B_w9EeCMDXME14NQ2QX0UET
 Código con un motor de prueba:
 ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/d8c32eb8-a2d8-44fc-bba8-bc77c7b3dcd0)
 
-# Reporte de pruebas, retos y limitaciones
+# VII. Reporte de pruebas, retos y limitaciones
 <p align="center"> 
 
 | Retos y limitaciones | Posibles soluciones |
