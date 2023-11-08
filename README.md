@@ -276,7 +276,7 @@ Es importante resaltar estos puntos para evitar la contaminación entre paciente
 Diseño corregido:
 ![image](https://i.imgur.com/AK7mcbh.png)
 
-Enlace: https://cad.onshape.com/documents/09f9c76a7d47eff0724d30c6/w/3d43e792844fd2dbdda089f4/e/7ecab6a8aefa52bed1cfe061
+Enlace: https://cad.onshape.com/documents/ea4d05391d26cad5344d7bf4/w/5630425b4178665594f26478/e/341b976ba16a7e19a7a6a8cc?renderMode=0&uiState=654bcb0dc28458499afb7d11
 
 ## Parámetros de impresión
 - Bomba peristáltica:
