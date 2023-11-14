@@ -268,6 +268,10 @@ Enlace: https://cad.onshape.com/documents/ea4d05391d26cad5344d7bf4/w/5630425b417
 - Tapa y boquilla:
   ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/f6925ce5-2114-4930-bbc6-b88629456535)
 
+## Versión Final
+- Bomba perístaltica
+- Caja electrónica
+- Biopen
 
 ## Aclaraciones Componentes
 - El motor DC consume 183 mA.
