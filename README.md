@@ -22,7 +22,7 @@ El Hardware es una parte esencial de procesos experimentales y los avances en la
 
 # I. Analisis del caso 
 - "Tema": Open Science Hardware para Salud y Laboratorio
--  "Problemática": Aumento de quemaduras de segundo grado en menores de edad del país
+- "Problemática": Aumento de quemaduras de segundo grado en menores de edad del país
  
 ### Contexto social
 - Las quemaduras representan un desafío de salud pública a nivel global. No solo por la frecuencia y facilidad con la que ocurren, sino que, en función de su gravedad, pueden generar discapacidades e incluso la muerte. Según la OMS, a nivel mundial, se estima que alrededor de 180,000 muertes ocurren anualmente debido a quemaduras. En países con desarrollo medio y bajo, las quemaduras ocupan el tercer lugar como causa de muerte accidental. [1]
@@ -215,73 +215,47 @@ El proyecto ofrece una visión prometedora para abordar un problema crítico de 
 # V. Diseño Esquemático y Simulación Electrónica.Modelado 3D de los componentes por separado
 
 ## Diagrama o esquema electrónico
-
 <img width="800" alt="700" src="https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/3f2213d3-8c91-4263-840c-ba0a08073bde">
 
-## Modelado 3D de los componentes
+## Simulador tinkercad
+![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/c53a6dad-0dcb-4d12-b247-17de8e157c14)
 
-Carcasa de batería: https://skfb.ly/oMzyD
-
+## Versión I de modelado 3D
+#### Modelado de los componentes
+- Carcasa de batería: https://skfb.ly/oMzyD
 ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/a2b5b1ff-8740-43a7-84ff-ac3e780afd0e)
-
 ![Bateria](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/7fd6b080-9738-402d-a0fd-cd1ec7a27c17)
 
-
-Soporte Arduino Nano IoT: https://skfb.ly/oMyWH
-
+- Soporte Arduino Nano IoT: https://skfb.ly/oMyWH
 ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/e327fc77-4701-46b2-b805-fbfd8cff48d6)
-
 ![arduino](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/263ad8df-8e19-4f50-862e-8f732baebeb3)
 
-Soporte bomba: https://skfb.ly/oMzPo
-
+-Soporte bomba: https://skfb.ly/oMzPo
 ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/a2738ec3-06d3-476f-9a1b-ae1bcf4aa19d)
 
-Nozzle: https://skfb.ly/oMKX9
-
+- Nozzle: https://skfb.ly/oMKX9
 ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/6648aaf3-5047-4a91-b957-7e488c0eb870)
-
 ![Nozzle](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/1f29efee-f472-4c0b-86d0-146266399faa)
 
-## Parámetros de impresión
+#### Parámetros de impresión
 ![The better way to buy real estate](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/c8b7bda9-aa74-4acb-b43e-9706652bfa26)
 
-## Capturas de cura
+#### Capturas de cura
 ![carcasa izquierda con soportes](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/74231571-5ed1-40e9-8bbc-b2e98175db62)
 ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/698454c9-8dd1-42a3-b260-f2f66c843126)
 ![carcasa arduino y carcasa abteria](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/ddf33c6f-6cc2-4f25-b9e4-0a88e8a2e178)
 ![noozle](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/b9d8fb56-1147-45a3-8ec9-f2e1ae292cdf)
 ![sopprte motores](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/75340d76-2ab6-422e-82d8-ad1967f7ab5d)
-## Simulador tinkercad
-![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/c53a6dad-0dcb-4d12-b247-17de8e157c14)
 
-# Presentación HITO 01
-https://www.canva.com/design/DAFyIOSvqEU/xKgEkVsLvqRSR0-aUGSA_A/edit?utm_content=DAFyIOSvqEU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-
-## Aclaraciones Componentes
-- El motor DC consume 183 mA.
-- Los compartimientos reciben el cartucho de bimaterial a usar, por lo que reponible.
-- Las pruebas son realizadas a corriente continua, pero la meta es además incorporar una batería de emergencia.
-- El movimiento de la bomba en ambos sentidos permite evitar el "clouding".
-- El prototipo será contruido en PLA, lo adecuado para uso médico son materiales como ácero inoxidable para el caso de la boquilla, PVC tranparente en el caso del protector dela boquilla.
-### Limpieza de los componentes
-Es importante resaltar estos puntos para evitar la contaminación entre pacientes, ya que al tratar quemaduras lo que principalment se quiere evitar con la sinfecciones:
-- Se recomienda una desinfección de alto nivel (DAN) para el partes como la boquilla, el interiro de los artuchos y todo componente expuesto directamente a la contaminación. Esto puede ser con ácido peracético (0.001-0.2) durante 10 a 15 minutos, lo que se utiliza para desinfectar un equipo de diálisis.
-- La limpieza interna se recomienda el uso de una solución NaOH al 8% para zonas no cercanas al paciente como la carcasa.
-- La para la perte externa se recomienda el uso de hipoclorito 5000 ppm.
-
-# VI. Iteración 1 (Hardware - Software -Manufactura Digital). Diagrama de Flujo
-
-## Modelado
-Diseño corregido:
+## Versión II de modelado 3D
+### Diseño corregido:
 ![image](https://i.imgur.com/AK7mcbh.png)
-
 Enlace: https://cad.onshape.com/documents/ea4d05391d26cad5344d7bf4/w/5630425b4178665594f26478/e/341b976ba16a7e19a7a6a8cc?renderMode=0&uiState=654bcb0dc28458499afb7d11
 
-## Parámetros de impresión
+### Parámetros de impresión
 - Bomba peristáltica:
   ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/325bcf2a-97c5-4908-b817-3f2f304ee5af)
-
+  
 - Nozzle:
   ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/0a767878-dca5-4980-bbd8-9cf228f9c93a)
 
@@ -294,11 +268,27 @@ Enlace: https://cad.onshape.com/documents/ea4d05391d26cad5344d7bf4/w/5630425b417
 - Tapa y boquilla:
   ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/f6925ce5-2114-4930-bbc6-b88629456535)
 
-## Hardware
-Incorporación del joystick
-![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/071029c9-ba2c-4b5c-91d6-a9218971d414)
-Simulación: https://www.tinkercad.com/things/jERCG8p7Obw-grand-trug/editel?sharecode=czoMqdoFsqJDZCXz_PBO7eIG9Ziwfk7C82nwVDGqqsg
 
+## Aclaraciones Componentes
+- El motor DC consume 183 mA.
+- Los compartimientos reciben el cartucho de bimaterial a usar, por lo que reponible.
+- Las pruebas son realizadas a corriente continua, pero la meta es además incorporar una batería de emergencia.
+- El movimiento de la bomba en ambos sentidos permite evitar el "clouding".
+- El prototipo será contruido en PLA, lo adecuado para uso médico son materiales como ácero inoxidable para el caso de la boquilla, PVC tranparente en el caso del protector dela boquilla.
+
+## Limpieza de los componentes
+Es importante resaltar estos puntos para evitar la contaminación entre pacientes, ya que al tratar quemaduras lo que principalment se quiere evitar con la sinfecciones:
+- Se recomienda una desinfección de alto nivel (DAN) para el partes como la boquilla, el interiro de los artuchos y todo componente expuesto directamente a la contaminación. Esto puede ser con ácido peracético (0.001-0.2) durante 10 a 15 minutos, lo que se utiliza para desinfectar un equipo de diálisis.
+- La limpieza interna se recomienda el uso de una solución NaOH al 8% para zonas no cercanas al paciente como la carcasa.
+- La para la perte externa se recomienda el uso de hipoclorito 5000 ppm.
+
+# VI. Iteración 1 (Hardware - Software -Manufactura Digital). Diagrama de Flujo
+
+## Hardware
+- Incorporación del joystick
+![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/071029c9-ba2c-4b5c-91d6-a9218971d414)
+
+Simulación: https://www.tinkercad.com/things/jERCG8p7Obw-grand-trug/editel?sharecode=czoMqdoFsqJDZCXz_PBO7eIG9Ziwfk7C82nwVDGqqsg
 Video de prueba: https://drive.google.com/file/d/1bM-UF46B_w9EeCMDXME14NQ2QX0UETod/view?usp=drive_link
 
 ## Software
@@ -322,6 +312,8 @@ Código con un motor de prueba:
 |La manguera más pequeña conseguida posee problemas con el espacio designado en la bomba|Editar el modelo con las nuevas medidas de la manguera|
 |Las mangueras pueden estar muy sueltas |Agregar "caminos" en la carcasa para guiar las mangueras|
 
+# Presentación HITO 01
+https://www.canva.com/design/DAFyIOSvqEU/xKgEkVsLvqRSR0-aUGSA_A/edit?utm_content=DAFyIOSvqEU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 # Bibliografía 
 1. Organización Mundial de la Salud. (2018). Quemaduras: Datos y cifras. https://www.who.int/es/news-room/fact-sheets/detail/burns
