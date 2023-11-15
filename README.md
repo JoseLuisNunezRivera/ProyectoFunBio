@@ -215,7 +215,7 @@ El proyecto ofrece una visión prometedora para abordar un problema crítico de 
 # V. Diseño Esquemático y Simulación Electrónica.Modelado 3D de los componentes por separado
 
 ## Diagrama o esquema electrónico
-<img width="800" alt="700" src="https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/3f2213d3-8c91-4263-840c-ba0a08073bde">
+<img width="800" alt="700" src="https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/e45e5638-365f-4e29-87d7-8a9597a8720a">
 
 ## Simulador tinkercad
 ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/c53a6dad-0dcb-4d12-b247-17de8e157c14)
@@ -252,6 +252,7 @@ El proyecto ofrece una visión prometedora para abordar un problema crítico de 
 ![image](https://i.imgur.com/AK7mcbh.png)
 Enlace: https://cad.onshape.com/documents/ea4d05391d26cad5344d7bf4/w/5630425b4178665594f26478/e/341b976ba16a7e19a7a6a8cc?renderMode=0&uiState=654bcb0dc28458499afb7d11
 
+
 ### Parámetros de impresión
 - Bomba peristáltica:
   ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/325bcf2a-97c5-4908-b817-3f2f304ee5af)
@@ -270,13 +271,39 @@ Enlace: https://cad.onshape.com/documents/ea4d05391d26cad5344d7bf4/w/5630425b417
 
 ## Versión Final
 - Bomba perístaltica
+Ensamble:  https://cad.onshape.com/documents/8de709f3be1f92d7d78226ca/w/8e6769958107216e33e4351b/e/bba23d80d86a9d90e47a93d3
+
+Rotor 1: https://cad.onshape.com/documents/a1a31141d0e6236a7a8afdac/w/a38b574b1cf93c56c39f0876/e/4d92b41509b52d3259ff299a
+Tapa: https://cad.onshape.com/documents/9d56f009d577c4719fb07cd5/w/0346843f56588c642b615e98/e/cd1f48146883c8e709fffaa5
+Base: https://cad.onshape.com/documents/86ff641e1319ed8ba230f65f/w/cf8a607ef3fba1517b963901/e/06f48710efe4c3a660979ad4
+
 - Caja electrónica
+Ensamble: https://cad.onshape.com/documents/f10d689c1a461becbf3da6f5/w/d52496f38d187220b270d7e6/e/a1f287fec601dff3414ab840
+
+DENTRO DE LA CAJA:
+Caja: https://cad.onshape.com/documents/4b100c79305f743f9210cc99
+Tapa: https://cad.onshape.com/documents/b5b6cd9f3914f8a5b41c4516/w/a7186eeed686556f54d90923/e/6d1ff2c9b6ad1027c2815acc
+Soporte del motor y la bomba:   https://cad.onshape.com/documents/4ab95d31b83763a74a7c5df6
+Case de la batería:  https://cad.onshape.com/documents/b5b6cd9f3914f8a5b41c4516/w/a7186eeed686556f54d90923/e/6d1ff2c9b6ad1027c2815acc
+FUERA DE LA CAJA (recipientes):
+Tapa: https://cad.onshape.com/documents/b5b6cd9f3914f8a5b41c4516/w/a7186eeed686556f54d90923/e/6d1ff2c9b6ad1027c2815acc
+Base: https://cad.onshape.com/documents/7edb1b0121b29fa5961d8425
+Recipiente:  https://cad.onshape.com/documents/59dc83f669816341396c27d1
+
+
 - Biopen
+Ensamble: https://cad.onshape.com/documents/fa43f6983dc2657439441877/w/561d306e3e23246e6a2a8a79/e/8833a1298579d56897545524?renderMode=0&uiState=6552a77652a8420a1a34c167
+
+Carcasa (las dos partes): https://cad.onshape.com/documents/72aee932b03bc8e04e3bccb8/w/c4a85064b6552d9ff44133d4/e/d55f808f442a5059bc340e5d
+Nozzle: https://cad.onshape.com/documents/bd66374ec5ace9d58c473229
+Boquilla: https://cad.onshape.com/documents/afae13b7620b6a5cce17955e
+Tapa: https://cad.onshape.com/documents/999addb3a5d2f49afebef456/w/5627ec29d2b8c1834bd65853/e/5afc472ae359bef1bf89bb87
+Soporte Joystick: https://cad.onshape.com/documents/095865effa3b667ba34cd493
+
 
 ## Aclaraciones Componentes
-- El motor DC consume 183 mA.
+
 - Los compartimientos reciben el cartucho de bimaterial a usar, por lo que reponible.
-- Las pruebas son realizadas a corriente continua, pero la meta es además incorporar una batería de emergencia.
 - El movimiento de la bomba en ambos sentidos permite evitar el "clouding".
 - El prototipo será contruido en PLA, lo adecuado para uso médico son materiales como ácero inoxidable para el caso de la boquilla, PVC tranparente en el caso del protector dela boquilla.
 
@@ -296,9 +323,8 @@ Simulación: https://www.tinkercad.com/things/jERCG8p7Obw-grand-trug/editel?shar
 Video de prueba: https://drive.google.com/file/d/1bM-UF46B_w9EeCMDXME14NQ2QX0UETod/view?usp=drive_link
 
 ## Software
-![Simple Flowchart Infographic Graph](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/70b78cdd-6fa6-425b-b2d6-e9ff2ab9ff42)
-Código con un motor de prueba:
-![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/d8c32eb8-a2d8-44fc-bba8-bc77c7b3dcd0)
+![Diagrama de flujo](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/7aa86fad-98f5-41bc-86e8-9165a8acc0c3)
+
 
 # VII. Reporte de pruebas, retos y limitaciones
 <p align="center"> 
@@ -313,8 +339,8 @@ Código con un motor de prueba:
 | Mejorar el sistema de almacenamiento del biomaterial | Diseñar un sistema que permita el intercambio de cartuchos |
 | Mejorar la alimentación ante una emergencia | Implementar una batería de emergencia |
 | Determinar con la mayor exactitud la proporción de Alginato con HA y CaCl2 | Lo recomendable es realizar pruebas experimentales para evaluarse y llegar a un promedio |
-|La manguera más pequeña conseguida posee problemas con el espacio designado en la bomba|Editar el modelo con las nuevas medidas de la manguera|
-|Las mangueras pueden estar muy sueltas |Agregar "caminos" en la carcasa para guiar las mangueras|
+| La manguera más pequeña conseguida posee problemas con el espacio designado en la bomba|Editar el modelo con las nuevas medidas de la manguera|
+| Las mangueras pueden estar muy sueltas |Agregar "caminos" en la carcasa para guiar las mangueras|
 
 # Presentación HITO 01
 https://www.canva.com/design/DAFyIOSvqEU/xKgEkVsLvqRSR0-aUGSA_A/edit?utm_content=DAFyIOSvqEU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
