@@ -352,22 +352,31 @@ https://github.com/JoseLuisNunezRivera/ProyectoFunBio/blob/main/Software/Softwar
 https://www.canva.com/design/DAFyIOSvqEU/xKgEkVsLvqRSR0-aUGSA_A/edit?utm_content=DAFyIOSvqEU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 # Bibliografía 
-1. Organización Mundial de la Salud. (2018). Quemaduras: Datos y cifras. https://www.who.int/es/news-room/fact-sheets/detail/burns
-2. PIEL DE CERDO LIOFILIZADA EN TRATAMIENTO DE QUEMADURAS: SERIE DE CASOS 2014-2016 https://revistas.uss.edu.pe/index.php/tzh/article/view/1329/1267
-3. Ministerio de Salud. (2020). Lineamiento para la prevención y atención integral de personas con lesiones por quemaduras. https://cdn.www.gob.pe/uploads/document/file/1400166/RM%20883-2020-MINSA.PDF.PDF 
-4. Tian H, Wang L, Xie W, Shen C, Guo G, Liu J, Han C, Ren L, Liang Y, Tang Y, Wang Y, Yin M, Zhang J, Huang Y. Epidemiologic and clinical characteristics of severe burn patients: results of a retrospective multicenter study in China, 2011-2015. Burns Trauma. 2018 May 23;6:14. Disponible en: https://pubmed.ncbi.nlm.nih.gov/29850643/  
-5. Biopen (handheld bioprinter) [Internet]. Adbioink. [citado el 30 de agosto de 2023]. Disponible en: https://www.adbioink.com/product/biopen-handheld-bioprinter/
-6. Sciencedirectassets.com. [citado el 30 de agosto de 2023]. Disponible en:
-In situ 3D bioprinting: A promising technique in advanced biofabrication strategies (sciencedirectassets.com)
-7. MacAdam A, Chaudry E, McTiernan CD, Cortes D, Suuronen EJ, Alarcon EI. Development of in situ bioprinting: A mini review. Front Bioeng Biotechnol [Internet]. 2022 [citado el 30 de agosto de 2023];10. Disponible en: https://pubmed.ncbi.nlm.nih.gov/35935512/
-8. Varkey M, Visscher DO, van Zuijlen PPM, Atala A, Yoo JJ. Skin bioprinting: the future of burn wound reconstruction? Burns Trauma [Internet]. 2019 [citado el 30 de agosto de 2023];7. Disponible en: https://pubmed.ncbi.nlm.nih.gov/30805375/
-9. Peck MD. Epidemiology of burns throughout the world. Part I: Distribution and risk factors. Burns [Internet]. 2011;37(7):1087–100. Disponible en: https://www.sciencedirect.com/science/article/pii/S0305417911001914 
-10. INSN SAN BORJA: CASOS DE NIÑOS QUEMADOS SE INCREMENTA EN 60% EN LO QUE VA DE ESTE AÑO 2023 [Internet]. Gob.pe. [citado el 30 de agosto de 2023]. Disponible en: https://www.insnsb.gob.pe/blog/2023/03/10/insn-san-borja-casos-de-ninos-quemados-se-incrementa-en-60-en-lo-que-va-de-este-ano-2023/ 
-11. INSN SAN BORJA SALVA VIDA DE PACIENTES CON EXTENSAS QUEMADURAS CON APLICACIÓN DE PIEL CULTIVADA [Internet]. Gob.pe. [citado el 30 de agosto de 2023]. Disponible en: https://www.insnsb.gob.pe/blog/2016/04/27/insn-san-borja-salva-vida-de-pacientes-con-extensas-quemaduras-con-aplicacion-de-piel-cultivada/ 
-12. Chau Ramos EA, Hospital María Auxiliadora, Unidad de Cirugía Plástica. Lima, Perú. Evaluación de cicatrización en zonas donantes de injerto de piel parcial con uso de Xenoinjerto en comparación con sustituto dérmico. Horiz méd [Internet]. 2019 [citado el 30 de agosto de 2023];19(3):20–6. Disponible en: https://www.horizontemedico.usmp.edu.pe/index.php/horizontemed/article/view/1070
-13. Tejido humano en impresora 3D. M. Juste. [Internet]. 2017 [citado el 31 de agosto de 2023]. Disponible en: https://www.expansion.com/economia-digital/innovacion/2017/07/31/5979fa8e268e3e774b8b45b2.html
-14. Gathering for Open Science Hardware. Why GOSH? - gathering for open science hardware [Internet]. Gathering for Open Science Hardware - Gathering for Open Science Hardware. 2021. Disponible en: https://openhardware.science/about/why-gosh/
-15. THREE-DIMENSIONAL ROBOT BIOLOGICAL PRINTER - CN110769771B - https://worldwide.espacenet.com/patent/search?q=pn%3DCN110769771B
-16. 3D PRINTING EQUIPMENT UTILIZING BIOLOGICAL MATERIAL, AND METHOD - US11325301B2 - https://worldwide.espacenet.com/patent/search/family/056325304/publication/US11325301B2?q=pn%3DUS11325301B2
-17. BIOPRINTER DEVICES, SYSTEMS AND METHODS FOR PRINTING SOFT GELS FOR THE TREATMENT OF MUSCULOSKELETAL AND SKIN DISORDERS - US20200123485A1 - https://worldwide.espacenet.com/patent/search/family/070279465/publication/US2020123485A1?q=pn%3DUS2020123485A1
-18. GhavamiNejad A, Ashammakhi N, Wu XY, Khademhosseini A. Crosslinking strategies for 3D bioprinting of polymeric hydrogels. Small [Internet]. 2020;16(35). Disponible en: http://dx.doi.org/10.1002/smll.202002931
+
+## Bioimpresión
+1.	Bioimpresión 3D [Internet]. Hisour.com. HiSoUR Arte Cultura Historia; 2018 [citado el 16 de noviembre de 2023]. Disponible en: https://www.hisour.com/es/3d-bioprinting-40712/amp/	 
+2.	Cidonio G, Glinka M, Dawson JI, Oreffo ROC. The cell in the ink: Improving biofabrication by printing stem cells for skeletal regenerative medicine. Biomaterials [Internet]. 2019 [citado el 16 de noviembre de 2023];209:10–24. Disponible en: http://dx.doi.org/10.1016/j.biomaterials.2019.04.009
+3.	Bolgiani A, Hermida E. Biompresión 3D de piel. Cir plást ibero-latinoam [Internet]. 2020 [citado el 16 de noviembre de 2023];46:85–90. Disponible en: https://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S0376-78922020000200014 	 
+4.	MacAdam A, Chaudry E, McTiernan CD, Cortes D, Suuronen EJ, Alarcon EI. Development of in situ bioprinting: A mini review. Front Bioeng Biotechnol [Internet]. 2022 [citado el 16 de noviembre de 2023];10. Disponible en: https://pubmed.ncbi.nlm.nih.gov/35935512/	 
+5.	Varkey M, Visscher DO, van Zuijlen PPM, Atala A, Yoo JJ. Skin bioprinting: the future of burn wound reconstruction? Burns Trauma [Internet]. 2019 [citado el 16 de noviembre de 2023];7. Disponible en: https://pubmed.ncbi.nlm.nih.gov/30805375/	 
+6.	Duchi S, Onofrillo C, O’Connell CD, Blanchard R, Augustine C, Quigley AF, et al. Handheld Co-Axial Bioprinting: Application to in situ surgical cartilage repair. Sci Rep [Internet]. 2017 [citado el 16 de noviembre de 2023];7(1):1–12. Disponible en: https://www.nature.com/articles/s41598-017-05699-x
+
+## Noticias
+1.	BBC News Mundo. Anthony Atala, el científico peruano que busca un lugar en la historia de la medicina con una impresora. BBC [Internet]. el 17 de marzo de 2016 [citado el 16 de noviembre de 2023]; Disponible en: https://www.bbc.com/mundo/noticias/2016/03/160315_atala_impresora_organos_am 	 
+2.	Com.au. [citado el 16 de noviembre de 2023]. Disponible en: https://mivision.com.au/2018/09/australian-ifix-pen-seals-corneal-wounds 	
+3.	INSN SAN BORJA: CASOS DE NIÑOS QUEMADOS SE INCREMENTA EN 60% EN LO QUE VA DE ESTE AÑO 2023 [Internet]. Gob.pe. [citado el 16 de noviembre de 2023]. Disponible en: https://www.insnsb.gob.pe/blog/2023/03/10/insn-san-borja-casos-de-ninos-quemados-se-incrementa-en-60-en-lo-que-va-de-este-ano-2023/ 	 
+4.	INSN SAN BORJA SALVA VIDA DE PACIENTES CON EXTENSAS QUEMADURAS CON APLICACIÓN DE PIEL CULTIVADA [Internet]. Gob.pe. [citado el 16 de noviembre de 2023]. Disponible en: https://www.insnsb.gob.pe/blog/2016/04/27/insn-san-borja-salva-vida-de-pacientes-con-extensas-quemaduras-con-aplicacion-de-piel-cultivada/
+5.	Tejido humano en impresora 3D [Internet]. Expansi�n.com. 2017 [citado el 16 de noviembre de 2023]. Disponible en: https://www.expansion.com/economia-digital/innovacion/2017/07/31/5979fa8e268e3e774b8b45b2.html
+ 	 
+## Hardware
+
+
+## Productos comercializados
+
+## Patentes
+
+## Quemaduras
+
+## Bioimpresoras
+
+## Limpieza de ocmponentes
