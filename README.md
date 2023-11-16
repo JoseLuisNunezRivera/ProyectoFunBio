@@ -316,15 +316,10 @@ Es importante resaltar estos puntos para evitar la contaminación entre paciente
 # VI. Iteración 1 (Hardware - Software -Manufactura Digital). Diagrama de Flujo
 
 ## Hardware
-- Incorporación del joystick
-![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/071029c9-ba2c-4b5c-91d6-a9218971d414)
-
-Simulación: https://www.tinkercad.com/things/jERCG8p7Obw-grand-trug/editel?sharecode=czoMqdoFsqJDZCXz_PBO7eIG9Ziwfk7C82nwVDGqqsg
-Video de prueba: https://drive.google.com/file/d/1bM-UF46B_w9EeCMDXME14NQ2QX0UETod/view?usp=drive_link
+https://github.com/JoseLuisNunezRivera/ProyectoFunBio/edit/main/Hardware/HardwareREADME.md
 
 ## Software
-![Diagrama de flujo](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/7aa86fad-98f5-41bc-86e8-9165a8acc0c3)
-
+https://github.com/JoseLuisNunezRivera/ProyectoFunBio/blob/main/Software/SoftwareREADME.md
 
 # VII. Reporte de pruebas, retos y limitaciones
 <p align="center"> 
