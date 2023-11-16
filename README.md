@@ -341,7 +341,16 @@ Video de prueba: https://drive.google.com/file/d/1bM-UF46B_w9EeCMDXME14NQ2QX0UET
 | La manguera más pequeña conseguida posee problemas con el espacio designado en la bomba|Editar el modelo con las nuevas medidas de la manguera|
 | Las mangueras pueden estar muy sueltas |Agregar "caminos" en la carcasa para guiar las mangueras|
 
-# VII. Integración Hardware - Software - Manufactura Digital
+# VIII. Integración Hardware - Software - Manufactura Digital
+
+## Verficación de diseño - Sofware
+<img width="527" alt="TS" src="https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/b0e63943-c22a-4958-8879-381a5d36d061">
+
+## Verficación de diseño - Hardware
+<img width="549" alt="TH" src="https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/6f073fbb-2f82-4d36-aa9b-17f43a6ce669">
+
+## Verficación de diseño - Modelado 3D
+<img width="593" alt="TrQ" src="https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/44902fdb-b250-4ca0-9360-4e2a930796af">
 
 
 # Presentación HITO 01
