@@ -122,8 +122,8 @@ Dispositivos, sistemas y métodos que utilizan bioimpresoras para formar estruct
 *Funcionales: ¿Qué es lo que el diseño debe hacer?*
 - Controlar el proceso de extrusión de material a una velocidad constante
 - Funcionar por largos periodos de tiempo sin necesidad de ser alimentado por una fuente externa
-- Imprimir  múltiples tipos de células de manera orientada y precisa, adaptada a cada herida individual
--  Mantener una temperatura constante que permita la preservación de las células durante la aplicación
+- Adaptarse a cada forma de quemadura de segundo grado
+- Mantener una temperatura constante que permita la preservación de las células durante la aplicación
   
 *No funcionales: ¿Cuáles son las propiedades del diseño?*
 - Cumplir con estándares de seguridad médica y estar diseñado para minimizar riesgos de infección o reacciones adversas en el paciente.
@@ -134,12 +134,14 @@ Dispositivos, sistemas y métodos que utilizan bioimpresoras para formar estruct
 # Propuesta de solución
 Sistema In Situ de bioimpresión de scaffolds con extrusión por bomba peristáltica y crosslinking iónico para la estimulación de cicatrización y prevención de infecciones en heridas causadas por quemaduras.
 
-## Aclaraciones sistema de extrusión y crosslinking
+## Aclaraciones 
+### Sistema de extrusión
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6527863/
-- El proceso extrusión para bioimpresión permite el 70 a 75% de células vivas para el implante, a comparación de la bioimpresión por láser que es menor a este porcentaje
-  
+El proceso extrusión para bioimpresión permite el 70 a 75% de células vivas para el implante, a comparación de la bioimpresión por láser que es menor a este porcentaje
+
+### Crosslinking
 https://www.nature.com/articles/s41598-017-05699-x
-- Para el proceso de “photocuring” se ha demostrado que es necesario solo 10 segundos de exposición a o 700mW/cm2 of 365nm UV-A para mantener el 90% de células vivas, para Bioandamios Core/Shell GelMa/HAMa con rigidez de 200KPa. Sin embargo, nos hemos decidido por un crosslinking iónico con cloruro de calcio para el alginato que usaremos como biomaterial para mantener las ceélular vivas.
+Para el proceso de “photocuring” se ha demostrado que es necesario solo 10 segundos de exposición a o 700mW/cm2 of 365nm UV-A para mantener el 90% de células vivas, para Bioandamios Core/Shell GelMa/HAMa con rigidez de 200KPa. Sin embargo, nos hemos decidido por un crosslinking iónico con cloruro de calcio para el alginato que usaremos como biomaterial para mantener las ceélular vivas.
 
 ### Biomateriales para la bioimpresión
 https://drive.google.com/file/d/1x9udr_g3XU39Y2daWFmOKxjno0pU2IlR/view
@@ -156,7 +158,7 @@ https://drive.google.com/file/d/1x9udr_g3XU39Y2daWFmOKxjno0pU2IlR/view
 
 - Concentración de cloruro de calcio: Se utiliza una solución de cloruro de calcio al 2-4% en peso en agua, que es una concentración comúnmente empleada en procesos de crosslinking. Sin embargo, la concentración exacta puede variar según las necesidades del proyecto y las condiciones de bioimpresión.
 
-Es importante señalar que la proporción exacta y la concentración de cloruro de calcio se van optimizando a través de pruebas empíricas para adaptarse a las características específicas del scaffold  deseado y a las condiciones de la herida que se desea tratar.
+- Es importante señalar que la proporción exacta y la concentración de cloruro de calcio se van optimizando a través de pruebas empíricas para adaptarse a las características específicas del scaffold  deseado y a las condiciones de la herida que se desea tratar.
 
 # III. Caja negra y esquema de funciones. MatrizMorfológica y Tabla de Valoración
 ## Caja negra
@@ -215,106 +217,51 @@ El proyecto ofrece una visión prometedora para abordar un problema crítico de 
 # V. Diseño Esquemático y Simulación Electrónica.Modelado 3D de los componentes por separado
 
 ## Diagrama o esquema electrónico
-<img width="800" alt="700" src="https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/e45e5638-365f-4e29-87d7-8a9597a8720a">
+
 
 ## Simulador tinkercad
-![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/c53a6dad-0dcb-4d12-b247-17de8e157c14)
 
-## Versión I de modelado 3D
-#### Modelado de los componentes
-- Carcasa de batería: https://skfb.ly/oMzyD
-![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/a2b5b1ff-8740-43a7-84ff-ac3e780afd0e)
-![Bateria](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/7fd6b080-9738-402d-a0fd-cd1ec7a27c17)
+## Modelado 3D: Versión final
+### Bomba perístaltica
+- Ensamble: https://cad.onshape.com/documents/8de709f3be1f92d7d78226ca/w/8e6769958107216e33e4351b/e/bba23d80d86a9d90e47a93d3
+- Rotor 1: https://cad.onshape.com/documents/a1a31141d0e6236a7a8afdac/w/a38b574b1cf93c56c39f0876/e/4d92b41509b52d3259ff299a
+- Tapa: https://cad.onshape.com/documents/9d56f009d577c4719fb07cd5/w/0346843f56588c642b615e98/e/cd1f48146883c8e709fffaa5
+- Base: https://cad.onshape.com/documents/86ff641e1319ed8ba230f65f/w/cf8a607ef3fba1517b963901/e/06f48710efe4c3a660979ad4
 
-- Soporte Arduino Nano IoT: https://skfb.ly/oMyWH
-![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/e327fc77-4701-46b2-b805-fbfd8cff48d6)
-![arduino](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/263ad8df-8e19-4f50-862e-8f732baebeb3)
+### Caja electrónica
+- Ensamble: https://cad.onshape.com/documents/f10d689c1a461becbf3da6f5/w/d52496f38d187220b270d7e6/e/a1f287fec601dff3414ab840
 
--Soporte bomba: https://skfb.ly/oMzPo
-![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/a2738ec3-06d3-476f-9a1b-ae1bcf4aa19d)
+### Interior de caja electrónica
+- Caja: https://cad.onshape.com/documents/4b100c79305f743f9210cc99
+- Tapa: https://cad.onshape.com/documents/b5b6cd9f3914f8a5b41c4516/w/a7186eeed686556f54d90923/e/6d1ff2c9b6ad1027c2815acc
+- Soporte del motor y la bomba:   https://cad.onshape.com/documents/4ab95d31b83763a74a7c5df6
+- Case de la batería: https://cad.onshape.com/documents/b5b6cd9f3914f8a5b41c4516/w/a7186eeed686556f54d90923/e/6d1ff2c9b6ad1027c2815acc
 
-- Nozzle: https://skfb.ly/oMKX9
-![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/6648aaf3-5047-4a91-b957-7e488c0eb870)
-![Nozzle](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/1f29efee-f472-4c0b-86d0-146266399faa)
+### Exterior de la caja electrónica (recipientes):
+- Tapa: https://cad.onshape.com/documents/b5b6cd9f3914f8a5b41c4516/w/a7186eeed686556f54d90923/e/6d1ff2c9b6ad1027c2815acc
+- Base: https://cad.onshape.com/documents/7edb1b0121b29fa5961d8425
+- Recipiente:  https://cad.onshape.com/documents/59dc83f669816341396c27d1
 
-#### Parámetros de impresión
-![The better way to buy real estate](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/c8b7bda9-aa74-4acb-b43e-9706652bfa26)
-
-#### Capturas de cura
-![carcasa izquierda con soportes](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/74231571-5ed1-40e9-8bbc-b2e98175db62)
-![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/698454c9-8dd1-42a3-b260-f2f66c843126)
-![carcasa arduino y carcasa abteria](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/ddf33c6f-6cc2-4f25-b9e4-0a88e8a2e178)
-![noozle](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/b9d8fb56-1147-45a3-8ec9-f2e1ae292cdf)
-![sopprte motores](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/75340d76-2ab6-422e-82d8-ad1967f7ab5d)
-
-## Versión II de modelado 3D
-### Diseño corregido:
-![image](https://i.imgur.com/AK7mcbh.png)
-Enlace: https://cad.onshape.com/documents/ea4d05391d26cad5344d7bf4/w/5630425b4178665594f26478/e/341b976ba16a7e19a7a6a8cc?renderMode=0&uiState=654bcb0dc28458499afb7d11
-
-
-### Parámetros de impresión
-- Bomba peristáltica:
-  ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/325bcf2a-97c5-4908-b817-3f2f304ee5af)
-  
-- Nozzle:
-  ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/0a767878-dca5-4980-bbd8-9cf228f9c93a)
-
-- Soporte arduino y batería:
-  ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/595a17d0-1f27-4e5a-9f24-6caec6a9bb40)
-
-- Carcasa derecha e izquierda:
-  ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/4f86f504-3860-40b0-bb3d-4a78577dc93b)
-  
-- Tapa y boquilla:
-  ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/f6925ce5-2114-4930-bbc6-b88629456535)
-
-## Versión Final
-- Bomba perístaltica
-Ensamble:  https://cad.onshape.com/documents/8de709f3be1f92d7d78226ca/w/8e6769958107216e33e4351b/e/bba23d80d86a9d90e47a93d3
-
-Rotor 1: https://cad.onshape.com/documents/a1a31141d0e6236a7a8afdac/w/a38b574b1cf93c56c39f0876/e/4d92b41509b52d3259ff299a
-Tapa: https://cad.onshape.com/documents/9d56f009d577c4719fb07cd5/w/0346843f56588c642b615e98/e/cd1f48146883c8e709fffaa5
-Base: https://cad.onshape.com/documents/86ff641e1319ed8ba230f65f/w/cf8a607ef3fba1517b963901/e/06f48710efe4c3a660979ad4
-
-- Caja electrónica
-Ensamble: https://cad.onshape.com/documents/f10d689c1a461becbf3da6f5/w/d52496f38d187220b270d7e6/e/a1f287fec601dff3414ab840
-
-DENTRO DE LA CAJA:
-Caja: https://cad.onshape.com/documents/4b100c79305f743f9210cc99
-Tapa: https://cad.onshape.com/documents/b5b6cd9f3914f8a5b41c4516/w/a7186eeed686556f54d90923/e/6d1ff2c9b6ad1027c2815acc
-Soporte del motor y la bomba:   https://cad.onshape.com/documents/4ab95d31b83763a74a7c5df6
-Case de la batería:  https://cad.onshape.com/documents/b5b6cd9f3914f8a5b41c4516/w/a7186eeed686556f54d90923/e/6d1ff2c9b6ad1027c2815acc
-FUERA DE LA CAJA (recipientes):
-Tapa: https://cad.onshape.com/documents/b5b6cd9f3914f8a5b41c4516/w/a7186eeed686556f54d90923/e/6d1ff2c9b6ad1027c2815acc
-Base: https://cad.onshape.com/documents/7edb1b0121b29fa5961d8425
-Recipiente:  https://cad.onshape.com/documents/59dc83f669816341396c27d1
-
-
-- Biopen
-Ensamble: https://cad.onshape.com/documents/fa43f6983dc2657439441877/w/561d306e3e23246e6a2a8a79/e/8833a1298579d56897545524?renderMode=0&uiState=6552a77652a8420a1a34c167
-
-Carcasa (las dos partes): https://cad.onshape.com/documents/72aee932b03bc8e04e3bccb8/w/c4a85064b6552d9ff44133d4/e/d55f808f442a5059bc340e5d
-Nozzle: https://cad.onshape.com/documents/bd66374ec5ace9d58c473229
-Boquilla: https://cad.onshape.com/documents/afae13b7620b6a5cce17955e
-Tapa: https://cad.onshape.com/documents/999addb3a5d2f49afebef456/w/5627ec29d2b8c1834bd65853/e/5afc472ae359bef1bf89bb87
-Soporte Joystick: https://cad.onshape.com/documents/095865effa3b667ba34cd493
-
+### Dispositivo-Biopen
+- Ensamble: https://cad.onshape.com/documents/fa43f6983dc2657439441877/w/561d306e3e23246e6a2a8a79/e/8833a1298579d56897545524?renderMode=0&uiState=6552a77652a8420a1a34c167
+- Carcasa (las dos partes): https://cad.onshape.com/documents/72aee932b03bc8e04e3bccb8/w/c4a85064b6552d9ff44133d4/e/d55f808f442a5059bc340e5d
+- Nozzle: https://cad.onshape.com/documents/bd66374ec5ace9d58c473229
+- Boquilla: https://cad.onshape.com/documents/afae13b7620b6a5cce17955e
+- Tapa: https://cad.onshape.com/documents/999addb3a5d2f49afebef456/w/5627ec29d2b8c1834bd65853/e/5afc472ae359bef1bf89bb87
+- Soporte Joystick: https://cad.onshape.com/documents/095865effa3b667ba34cd493
 
 ## Aclaraciones Componentes
-
 - Los compartimientos reciben el cartucho de bimaterial a usar, por lo que reponible.
 - El movimiento de la bomba en ambos sentidos permite evitar el "clouding".
 - El prototipo será contruido en PLA, lo adecuado para uso médico son materiales como ácero inoxidable para el caso de la boquilla, PVC tranparente en el caso del protector dela boquilla.
 
-## Limpieza de los componentes
-Es importante resaltar estos puntos para evitar la contaminación entre pacientes, ya que al tratar quemaduras lo que principalment se quiere evitar con la sinfecciones:
+### Limpieza de los componentes
+Es importante resaltar estos puntos para evitar la contaminación entre pacientes, ya que al tratar quemaduras lo que principalment se quiere evitar con las infecciones:
 - Se recomienda una desinfección de alto nivel (DAN) para el partes como la boquilla, el interiro de los artuchos y todo componente expuesto directamente a la contaminación. Esto puede ser con ácido peracético (0.001-0.2) durante 10 a 15 minutos, lo que se utiliza para desinfectar un equipo de diálisis.
 - La limpieza interna se recomienda el uso de una solución NaOH al 8% para zonas no cercanas al paciente como la carcasa.
 - La para la perte externa se recomienda el uso de hipoclorito 5000 ppm.
 
 # VI. Iteración 1 (Hardware - Software -Manufactura Digital). Diagrama de Flujo
-
 ## Hardware
 https://github.com/JoseLuisNunezRivera/ProyectoFunBio/edit/main/Hardware/HardwareREADME.md
 
