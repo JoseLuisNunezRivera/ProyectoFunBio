@@ -1,4 +1,4 @@
-# Proyecto Fundamentos de Biodiseño
+# Proyecto Fundamentos de Biodiseño: BIONOVA
 **<p align="center">
 ¡Bienvenidos al repositorio del grupo 10 de Fundamentos de Biodiseño!**
 </p>
@@ -297,6 +297,7 @@ https://github.com/JoseLuisNunezRivera/ProyectoFunBio/blob/main/Software/Softwar
 
 # Presentación HITO 01
 https://www.canva.com/design/DAFyIOSvqEU/xKgEkVsLvqRSR0-aUGSA_A/edit?utm_content=DAFyIOSvqEU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+# Presentación HITO 02
 
 # Bibliografía 
 
