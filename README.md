@@ -1,4 +1,4 @@
-# Proyecto Fundamentos de Biodiseño
+# Proyecto Fundamentos de Biodiseño: BIONOVA
 **<p align="center">
 ¡Bienvenidos al repositorio del grupo 10 de Fundamentos de Biodiseño!**
 </p>
@@ -122,8 +122,8 @@ Dispositivos, sistemas y métodos que utilizan bioimpresoras para formar estruct
 *Funcionales: ¿Qué es lo que el diseño debe hacer?*
 - Controlar el proceso de extrusión de material a una velocidad constante
 - Funcionar por largos periodos de tiempo sin necesidad de ser alimentado por una fuente externa
-- Imprimir  múltiples tipos de células de manera orientada y precisa, adaptada a cada herida individual
--  Mantener una temperatura constante que permita la preservación de las células durante la aplicación
+- Adaptarse a cada forma de quemadura de segundo grado
+- Mantener una temperatura constante que permita la preservación de las células durante la aplicación
   
 *No funcionales: ¿Cuáles son las propiedades del diseño?*
 - Cumplir con estándares de seguridad médica y estar diseñado para minimizar riesgos de infección o reacciones adversas en el paciente.
@@ -134,12 +134,14 @@ Dispositivos, sistemas y métodos que utilizan bioimpresoras para formar estruct
 # Propuesta de solución
 Sistema In Situ de bioimpresión de scaffolds con extrusión por bomba peristáltica y crosslinking iónico para la estimulación de cicatrización y prevención de infecciones en heridas causadas por quemaduras.
 
-## Aclaraciones sistema de extrusión y crosslinking
+## Aclaraciones 
+### Sistema de extrusión
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6527863/
-- El proceso extrusión para bioimpresión permite el 70 a 75% de células vivas para el implante, a comparación de la bioimpresión por láser que es menor a este porcentaje
-  
+El proceso extrusión para bioimpresión permite el 70 a 75% de células vivas para el implante, a comparación de la bioimpresión por láser que es menor a este porcentaje
+
+### Crosslinking
 https://www.nature.com/articles/s41598-017-05699-x
-- Para el proceso de “photocuring” se ha demostrado que es necesario solo 10 segundos de exposición a o 700mW/cm2 of 365nm UV-A para mantener el 90% de células vivas, para Bioandamios Core/Shell GelMa/HAMa con rigidez de 200KPa. Sin embargo, nos hemos decidido por un crosslinking iónico con cloruro de calcio para el alginato que usaremos como biomaterial para mantener las ceélular vivas.
+Para el proceso de “photocuring” se ha demostrado que es necesario solo 10 segundos de exposición a o 700mW/cm2 of 365nm UV-A para mantener el 90% de células vivas, para Bioandamios Core/Shell GelMa/HAMa con rigidez de 200KPa. Sin embargo, nos hemos decidido por un crosslinking iónico con cloruro de calcio para el alginato que usaremos como biomaterial para mantener las ceélular vivas.
 
 ### Biomateriales para la bioimpresión
 https://drive.google.com/file/d/1x9udr_g3XU39Y2daWFmOKxjno0pU2IlR/view
@@ -156,25 +158,25 @@ https://drive.google.com/file/d/1x9udr_g3XU39Y2daWFmOKxjno0pU2IlR/view
 
 - Concentración de cloruro de calcio: Se utiliza una solución de cloruro de calcio al 2-4% en peso en agua, que es una concentración comúnmente empleada en procesos de crosslinking. Sin embargo, la concentración exacta puede variar según las necesidades del proyecto y las condiciones de bioimpresión.
 
-Es importante señalar que la proporción exacta y la concentración de cloruro de calcio se van optimizando a través de pruebas empíricas para adaptarse a las características específicas del scaffold  deseado y a las condiciones de la herida que se desea tratar.
+- Es importante señalar que la proporción exacta y la concentración de cloruro de calcio se van optimizando a través de pruebas empíricas para adaptarse a las características específicas del scaffold  deseado y a las condiciones de la herida que se desea tratar.
 
 # III. Caja negra y esquema de funciones. MatrizMorfológica y Tabla de Valoración
 ## Caja negra
-Etapa de abstracción de nuestro proyecto a prototipar.
+
+- Etapa de abstracción de nuestro proyecto a prototipar.
 ![15d8d4c7-4761-4de0-bc48-b51743688ad0](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/14513b8d-236c-4c09-8807-47e35a9935a8)
 
 ## Esquema de funciones
 
-Listado de funciones que definen nuestra propuesta de solución
-
+- Listado de funciones que definen nuestra propuesta de solución
 ![Gráfico Circular Azul Presentación](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/14d6d14a-adb5-4ccd-a4fe-f99f51cf2ccc)
 
-#### __FUNCIONES:__ 
-
-- Regulador de energía: Regulará la energía eléctrica para repartirla a todo el sistema
-- Control: Será la base de control de las acciones que el sistema realice.
-- Dosificación: Se refiere a la técnica de bioimpresión a utilizar para la dosificación del biomaterial en la zona deseada. Esta ténica será la extrusión.
-- Crosslinking: Proceso en el cual el biomaterial extruido será crosslinkeado.
+| Fúnción | Descripción |
+|---------|-------------|
+| Regulador de energía | Regular la energía eléctrica para repartirla a todo el sistema|
+| Control | Será la base de control de las acciones que el sistema realice. |
+| Dosificación | Se refiere a la técnica de bioimpresión a utilizar para la dosificación del biomaterial en la zona deseada. Esta ténica será la extrusión. |
+| Crosslinking | Proceso en el cual el biomaterial extruido será crosslinkeado. |
 
 ## Matriz morfologica
 
