@@ -1,6 +1,11 @@
 # Simulación en Tinkercad
+
+## Versiones pasadas:
+![b3](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/34c7f2a7-b64c-4644-908f-ad163a967989)
+
 <img width="695" alt="Captura de pantalla 2023-11-13 223528" src="https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/cd15b30d-7622-4fff-890a-fd2d74c12a5e">
 
+## Versión oficial y Link:
 https://www.tinkercad.com/things/jERCG8p7Obw-grand-trug/editel?sharecode=czoMqdoFsqJDZCXz_PBO7eIG9Ziwfk7C82nwVDGqqsg
 
 # Esquema elctrónico
