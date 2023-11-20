@@ -9,9 +9,13 @@
 https://www.tinkercad.com/things/jERCG8p7Obw-grand-trug/editel?sharecode=czoMqdoFsqJDZCXz_PBO7eIG9Ziwfk7C82nwVDGqqsg
 
 # Esquema elctrónico
+## Versiones pasadas:
 ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/dc09ca94-1cfc-4db8-9139-7b42815af6bc)
+## Versión oficial:
 
-# Incorporación del joystick
+
+# Ensayos y pruebas
+## Incorporación del joystick
 ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/071029c9-ba2c-4b5c-91d6-a9218971d414)
 
 Video de prueba: https://drive.google.com/file/d/1bM-UF46B_w9EeCMDXME14NQ2QX0UETod/view?usp=drive_link
