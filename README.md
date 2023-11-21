@@ -171,6 +171,7 @@ https://drive.google.com/file/d/1x9udr_g3XU39Y2daWFmOKxjno0pU2IlR/view
 ## Esquema de funciones
 
 - Listado de funciones que definen nuestra propuesta de solución
+
 <p align="center"> ![Gráfico Circular Azul Presentación](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/14d6d14a-adb5-4ccd-a4fe-f99f51cf2ccc)
 
 | Fúnción | Descripción |
