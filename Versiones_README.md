@@ -58,9 +58,12 @@ Enlace: https://cad.onshape.com/documents/ea4d05391d26cad5344d7bf4/w/5630425b417
 
 ## Versión IV
 - Esta es la última versión, la desición final fue tener los componentes electrónicos en una caja y el dipsoitivo d mano, es decir el BioPen que contenga solo el joystick y el nozzle, donde se conectaran las magueras con las biotintas desde la caja.
-| Dispositivo de mano | Caja electrónica |
-|---------------------|------------------|
-|<img width="415" alt="image" src="https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/20ec4745-4aa1-4f4d-9e9a-ecbafed27401">| <img width="428" alt="image" src="https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/d83c9586-598e-49a2-8ad7-11ece48e803f">|
+
+### Dispositivo de mano
+<img width="415" alt="image" src="https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/20ec4745-4aa1-4f4d-9e9a-ecbafed27401">
+
+### Caja electrónica
+<img width="428" alt="image" src="https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/d83c9586-598e-49a2-8ad7-11ece48e803f">
 
 
 
