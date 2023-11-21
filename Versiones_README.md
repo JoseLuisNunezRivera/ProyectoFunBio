@@ -6,7 +6,9 @@
 ## Boceto 3 
 ![b7](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/317bd6ff-29ea-484c-9b30-b10541de4f86)
 
-# Versiones del modelado ED
+- El boceto seleccionado fue el boceto 1, por lo que durante el proceso demodelado fue cambiando hasta el boceto final.
+
+# Versiones del modelado 3D
 ## Versión I
 #### Modelado de los componentes
 - Carcasa de batería: https://skfb.ly/oMzyD
