@@ -169,7 +169,7 @@ https://drive.google.com/file/d/1x9udr_g3XU39Y2daWFmOKxjno0pU2IlR/view
 ## Esquema de funciones
 
 - Listado de funciones que definen nuestra propuesta de solución
-**<p align="center"> ![Gráfico Circular Azul Presentación](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/14d6d14a-adb5-4ccd-a4fe-f99f51cf2ccc)
+<p align="center"> ![Gráfico Circular Azul Presentación](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/14d6d14a-adb5-4ccd-a4fe-f99f51cf2ccc)
 
 | Fúnción | Descripción |
 |---------|-------------|
@@ -179,10 +179,10 @@ https://drive.google.com/file/d/1x9udr_g3XU39Y2daWFmOKxjno0pU2IlR/view
 | Crosslinking | Proceso en el cual el biomaterial extruido será crosslinkeado. |
 
 ## Matriz morfologica
-**<p align="center"> <img width="800" alt="800" src="https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/555e84d2-33b7-40d2-8bb5-46311da2bbd4">
+<p align="center"> <img width="800" alt="800" src="https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/555e84d2-33b7-40d2-8bb5-46311da2bbd4">
  
 ## Tabla de valoración
-**<p align="center"> ![WhatsApp Image 2023-09-19 at 23 55 50](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/4b861ad6-af39-48a1-97f4-52657b277d45)
+<p align="center"> ![WhatsApp Image 2023-09-19 at 23 55 50](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/4b861ad6-af39-48a1-97f4-52657b277d45)
 
 # IV. Bocetos del Concepto Seleccionado. Tablade Evaluación Técnica y Económica
 ## Boceto seleccionado
@@ -294,9 +294,9 @@ https://github.com/JoseLuisNunezRivera/ProyectoFunBio/blob/main/Software/Softwar
 # Presentación HITO 01
 https://www.canva.com/design/DAFyIOSvqEU/xKgEkVsLvqRSR0-aUGSA_A/edit?utm_content=DAFyIOSvqEU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 # Presentación HITO 02
+https://www.canva.com/design/DAF0h--ITno/4O1IoZnptE_-SC9zV_8JRQ/edit?utm_content=DAF0h--ITno&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 # Bibliografía 
-
 ## Bioimpresión
 1.	Bioimpresión 3D [Internet]. Hisour.com. HiSoUR Arte Cultura Historia; 2018 [citado el 16 de noviembre de 2023]. Disponible en: https://www.hisour.com/es/3d-bioprinting-40712/amp/	 
 2.	Cidonio G, Glinka M, Dawson JI, Oreffo ROC. The cell in the ink: Improving biofabrication by printing stem cells for skeletal regenerative medicine. Biomaterials [Internet]. 2019 [citado el 16 de noviembre de 2023];209:10–24. Disponible en: http://dx.doi.org/10.1016/j.biomaterials.2019.04.009
