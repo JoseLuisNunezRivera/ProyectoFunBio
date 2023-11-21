@@ -26,21 +26,14 @@
 ![image](https://i.imgur.com/AK7mcbh.png)
 Enlace: https://cad.onshape.com/documents/ea4d05391d26cad5344d7bf4/w/5630425b4178665594f26478/e/341b976ba16a7e19a7a6a8cc?renderMode=0&uiState=654bcb0dc28458499afb7d11
 
-
 ### Parámetros de impresión
-- Bomba peristáltica:
-  ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/325bcf2a-97c5-4908-b817-3f2f304ee5af)
-  
-- Nozzle:
-  ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/0a767878-dca5-4980-bbd8-9cf228f9c93a)
 
-- Soporte arduino y batería:
-  ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/595a17d0-1f27-4e5a-9f24-6caec6a9bb40)
-
-- Carcasa derecha e izquierda:
-  ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/4f86f504-3860-40b0-bb3d-4a78577dc93b)
-  
-- Tapa y boquilla:
-  ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/f6925ce5-2114-4930-bbc6-b88629456535)
+| Componente | Impresión |
+|------------|-----------|
+| Bomba peristáltica | ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/325bcf2a-97c5-4908-b817-3f2f304ee5af) |
+| Nozzle | ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/0a767878-dca5-4980-bbd8-9cf228f9c93a) |
+| Soporte arduino y batería | ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/595a17d0-1f27-4e5a-9f24-6caec6a9bb40) |
+| Carcasa derecha e izquierda | ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/4f86f504-3860-40b0-bb3d-4a78577dc93b) |
+| Tapa y boquilla | ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/f6925ce5-2114-4930-bbc6-b88629456535)
 
 
