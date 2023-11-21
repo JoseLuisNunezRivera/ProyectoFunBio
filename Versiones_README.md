@@ -2,6 +2,8 @@
 
 # Bocetos
 ## Boceto 1 (Modificado)
+<img width="800" alt="image" src="https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/cb21e9ea-33c8-434e-91ad-58b82efb200e">
+
 ![b5](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/1590844c-2c45-416e-ba52-ab51a4baec1c)
 ## Boceto 2
 ![b6](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/d39611ae-a326-4478-9935-5f6c3e4f90ee)
