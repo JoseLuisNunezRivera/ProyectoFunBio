@@ -181,7 +181,7 @@ https://drive.google.com/file/d/1x9udr_g3XU39Y2daWFmOKxjno0pU2IlR/view
 | Crosslinking | Proceso en el cual el biomaterial extruido será crosslinkeado. |
 
 ## Matriz morfologica
-<p align="center"> <img width="800" alt="800" src="https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/555e84d2-33b7-40d2-8bb5-46311da2bbd4">
+<img width="800" alt="800" src="https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/555e84d2-33b7-40d2-8bb5-46311da2bbd4">
  
 ## Tabla de valoración
 ![WhatsApp Image 2023-09-19 at 23 55 50](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/4b861ad6-af39-48a1-97f4-52657b277d45)
