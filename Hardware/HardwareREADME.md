@@ -12,7 +12,7 @@ https://www.tinkercad.com/things/jERCG8p7Obw-grand-trug/editel?sharecode=czoMqdo
 ## Versiones pasadas:
 ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/dc09ca94-1cfc-4db8-9139-7b42815af6bc)
 ## Versión oficial:
-
+<img width="527" alt="image" src="https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/2037ba15-033f-4614-885e-8e6b8a52e81e">
 
 # Ensayos y pruebas
 ## Incorporación del joystick
