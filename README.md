@@ -184,12 +184,12 @@ https://drive.google.com/file/d/1x9udr_g3XU39Y2daWFmOKxjno0pU2IlR/view
 <p align="center"> <img width="800" alt="800" src="https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/555e84d2-33b7-40d2-8bb5-46311da2bbd4">
  
 ## Tabla de valoración
-<p align="center"> ![WhatsApp Image 2023-09-19 at 23 55 50](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/4b861ad6-af39-48a1-97f4-52657b277d45)
+![WhatsApp Image 2023-09-19 at 23 55 50](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/4b861ad6-af39-48a1-97f4-52657b277d45)
 
 # IV. Bocetos del Concepto Seleccionado. Tablade Evaluación Técnica y Económica
 ## Boceto seleccionado
-**<p align="center"> Tamaño ideal ergonómico**
 
+**<p align="center"> Tamaño ideal ergonómico**
 **<p align="center"> <img width="600" alt="600" src="https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/9db94c80-0281-4914-92e3-da366a16769e">**
 
 ## Tabla de valoración económica
@@ -211,7 +211,7 @@ https://drive.google.com/file/d/1x9udr_g3XU39Y2daWFmOKxjno0pU2IlR/view
 El proyecto ofrece una visión prometedora para abordar un problema crítico de salud pública en Perú mediante el uso de tecnologías de bioimpresión accesibles y avanzadas. Sin embargo, es esencial abordar cuidadosamente los desafíos técnicos y de diseño, así como promover la colaboración y la adopción de Open Science Hardware en la comunidad médica para lograr un impacto significativo en la atención de quemaduras. Por esto, La propuesta número tres fue la elegida gracias a su costo asequible y gran eficacia. La bomba peristáltica con motor DC permite un flujo constante, rápido y controlado del biomaterial; además, el atomizador elegido permite realizar un crosslinking eficaz. A pesar de sus características avanzadas, es una opción asequible y posee un interfaz intuitivo y ergonómico, que lo hace fácil de utilizar.
 
 
-# V. Diseño Esquemático y Simulación Electrónica.Modelado 3D de los componentes por separado
+# V. Diseño Esquemático y Simulación Electrónica. Modelado 3D de los componentes por separado
 
 ## Diagrama o esquema electrónico
 
@@ -221,32 +221,47 @@ El proyecto ofrece una visión prometedora para abordar un problema crítico de 
 
 ## Modelado 3D: Versión final
 ### Bomba perístaltica
-- Ensamble: https://cad.onshape.com/documents/8de709f3be1f92d7d78226ca/w/8e6769958107216e33e4351b/e/bba23d80d86a9d90e47a93d3
-- Rotor 1: https://cad.onshape.com/documents/a1a31141d0e6236a7a8afdac/w/a38b574b1cf93c56c39f0876/e/4d92b41509b52d3259ff299a
-- Tapa: https://cad.onshape.com/documents/9d56f009d577c4719fb07cd5/w/0346843f56588c642b615e98/e/cd1f48146883c8e709fffaa5
-- Base: https://cad.onshape.com/documents/86ff641e1319ed8ba230f65f/w/cf8a607ef3fba1517b963901/e/06f48710efe4c3a660979ad4
+- Ensamble:
+https://cad.onshape.com/documents/8de709f3be1f92d7d78226ca/w/8e6769958107216e33e4351b/e/bba23d80d86a9d90e47a93d3
+- Rotor 1:
+https://cad.onshape.com/documents/a1a31141d0e6236a7a8afdac/w/a38b574b1cf93c56c39f0876/e/4d92b41509b52d3259ff299a
+- Tapa:
+https://cad.onshape.com/documents/9d56f009d577c4719fb07cd5/w/0346843f56588c642b615e98/e/cd1f48146883c8e709fffaa5
+- Base:
+https://cad.onshape.com/documents/86ff641e1319ed8ba230f65f/w/cf8a607ef3fba1517b963901/e/06f48710efe4c3a660979ad4
 
 ### Caja electrónica
-- Ensamble: https://cad.onshape.com/documents/f10d689c1a461becbf3da6f5/w/d52496f38d187220b270d7e6/e/a1f287fec601dff3414ab840
+- Ensamble:
+https://cad.onshape.com/documents/f10d689c1a461becbf3da6f5/w/d52496f38d187220b270d7e6/e/a1f287fec601dff3414ab840
 
 ### Interior de caja electrónica
-- Caja: https://cad.onshape.com/documents/4b100c79305f743f9210cc99
-- Tapa: https://cad.onshape.com/documents/b5b6cd9f3914f8a5b41c4516/w/a7186eeed686556f54d90923/e/6d1ff2c9b6ad1027c2815acc
-- Soporte del motor y la bomba:   https://cad.onshape.com/documents/4ab95d31b83763a74a7c5df6
+- Caja:
+https://cad.onshape.com/documents/4b100c79305f743f9210cc99
+- Tapa:
+https://cad.onshape.com/documents/b5b6cd9f3914f8a5b41c4516/w/a7186eeed686556f54d90923/e/6d1ff2c9b6ad1027c2815acc
+- Soporte del motor y la bomba:
+https://cad.onshape.com/documents/4ab95d31b83763a74a7c5df6
 - Case de la batería: https://cad.onshape.com/documents/b5b6cd9f3914f8a5b41c4516/w/a7186eeed686556f54d90923/e/6d1ff2c9b6ad1027c2815acc
 
 ### Exterior de la caja electrónica (recipientes):
-- Tapa: https://cad.onshape.com/documents/b5b6cd9f3914f8a5b41c4516/w/a7186eeed686556f54d90923/e/6d1ff2c9b6ad1027c2815acc
-- Base: https://cad.onshape.com/documents/7edb1b0121b29fa5961d8425
-- Recipiente:  https://cad.onshape.com/documents/59dc83f669816341396c27d1
+- Tapa:
+https://cad.onshape.com/documents/b5b6cd9f3914f8a5b41c4516/w/a7186eeed686556f54d90923/e/6d1ff2c9b6ad1027c2815acc
+- Base:
+https://cad.onshape.com/documents/7edb1b0121b29fa5961d8425
+- Recipiente:
+https://cad.onshape.com/documents/59dc83f669816341396c27d1
 
 ### Dispositivo-Biopen
 - Ensamble: https://cad.onshape.com/documents/fa43f6983dc2657439441877/w/561d306e3e23246e6a2a8a79/e/8833a1298579d56897545524?renderMode=0&uiState=6552a77652a8420a1a34c167
 - Carcasa (las dos partes): https://cad.onshape.com/documents/72aee932b03bc8e04e3bccb8/w/c4a85064b6552d9ff44133d4/e/d55f808f442a5059bc340e5d
-- Nozzle: https://cad.onshape.com/documents/bd66374ec5ace9d58c473229
-- Boquilla: https://cad.onshape.com/documents/afae13b7620b6a5cce17955e
-- Tapa: https://cad.onshape.com/documents/999addb3a5d2f49afebef456/w/5627ec29d2b8c1834bd65853/e/5afc472ae359bef1bf89bb87
-- Soporte Joystick: https://cad.onshape.com/documents/095865effa3b667ba34cd493
+- Nozzle:
+https://cad.onshape.com/documents/bd66374ec5ace9d58c473229
+- Boquilla:
+https://cad.onshape.com/documents/afae13b7620b6a5cce17955e
+- Tapa:
+https://cad.onshape.com/documents/999addb3a5d2f49afebef456/w/5627ec29d2b8c1834bd65853/e/5afc472ae359bef1bf89bb87
+- Soporte Joystick:
+https://cad.onshape.com/documents/095865effa3b667ba34cd493
 
 ## Aclaraciones Componentes
 - Los compartimientos reciben el cartucho de bimaterial a usar, por lo que reponible.
@@ -299,7 +314,7 @@ https://www.canva.com/design/DAFyIOSvqEU/xKgEkVsLvqRSR0-aUGSA_A/edit?utm_content
 https://www.canva.com/design/DAF0h--ITno/4O1IoZnptE_-SC9zV_8JRQ/edit?utm_content=DAF0h--ITno&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 # Bibliografía 
-## Bioimpresión
+- Bioimpresión
 1.	Bioimpresión 3D [Internet]. Hisour.com. HiSoUR Arte Cultura Historia; 2018 [citado el 16 de noviembre de 2023]. Disponible en: https://www.hisour.com/es/3d-bioprinting-40712/amp/	 
 2.	Cidonio G, Glinka M, Dawson JI, Oreffo ROC. The cell in the ink: Improving biofabrication by printing stem cells for skeletal regenerative medicine. Biomaterials [Internet]. 2019 [citado el 16 de noviembre de 2023];209:10–24. Disponible en: http://dx.doi.org/10.1016/j.biomaterials.2019.04.009
 3.	Bolgiani A, Hermida E. Biompresión 3D de piel. Cir plást ibero-latinoam [Internet]. 2020 [citado el 16 de noviembre de 2023];46:85–90. Disponible en: https://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S0376-78922020000200014 	 
@@ -307,22 +322,22 @@ https://www.canva.com/design/DAF0h--ITno/4O1IoZnptE_-SC9zV_8JRQ/edit?utm_content
 5.	Varkey M, Visscher DO, van Zuijlen PPM, Atala A, Yoo JJ. Skin bioprinting: the future of burn wound reconstruction? Burns Trauma [Internet]. 2019 [citado el 16 de noviembre de 2023];7. Disponible en: https://pubmed.ncbi.nlm.nih.gov/30805375/	 
 6.	Duchi S, Onofrillo C, O’Connell CD, Blanchard R, Augustine C, Quigley AF, et al. Handheld Co-Axial Bioprinting: Application to in situ surgical cartilage repair. Sci Rep [Internet]. 2017 [citado el 16 de noviembre de 2023];7(1):1–12. Disponible en: https://www.nature.com/articles/s41598-017-05699-x
 
-## Noticias
+- Noticias
 1.	BBC News Mundo. Anthony Atala, el científico peruano que busca un lugar en la historia de la medicina con una impresora. BBC [Internet]. el 17 de marzo de 2016 [citado el 16 de noviembre de 2023]; Disponible en: https://www.bbc.com/mundo/noticias/2016/03/160315_atala_impresora_organos_am 	 
 2.	Com.au. [citado el 16 de noviembre de 2023]. Disponible en: https://mivision.com.au/2018/09/australian-ifix-pen-seals-corneal-wounds 	
 3.	INSN SAN BORJA: CASOS DE NIÑOS QUEMADOS SE INCREMENTA EN 60% EN LO QUE VA DE ESTE AÑO 2023 [Internet]. Gob.pe. [citado el 16 de noviembre de 2023]. Disponible en: https://www.insnsb.gob.pe/blog/2023/03/10/insn-san-borja-casos-de-ninos-quemados-se-incrementa-en-60-en-lo-que-va-de-este-ano-2023/ 	 
 4.	INSN SAN BORJA SALVA VIDA DE PACIENTES CON EXTENSAS QUEMADURAS CON APLICACIÓN DE PIEL CULTIVADA [Internet]. Gob.pe. [citado el 16 de noviembre de 2023]. Disponible en: https://www.insnsb.gob.pe/blog/2016/04/27/insn-san-borja-salva-vida-de-pacientes-con-extensas-quemaduras-con-aplicacion-de-piel-cultivada/
 5.	Tejido humano en impresora 3D [Internet]. Expansi�n.com. 2017 [citado el 16 de noviembre de 2023]. Disponible en: https://www.expansion.com/economia-digital/innovacion/2017/07/31/5979fa8e268e3e774b8b45b2.html
  	 
-## Hardware
+- Hardware
 
 
-## Productos comercializados
+- Productos comercializados
 
-## Patentes
+- Patentes
 
-## Quemaduras
+- Quemaduras
 
-## Bioimpresoras
+- Bioimpresoras
 
 ## Limpieza de ocmponentes
