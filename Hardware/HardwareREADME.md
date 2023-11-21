@@ -6,7 +6,9 @@
 <img width="695" alt="Captura de pantalla 2023-11-13 223528" src="https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/cd15b30d-7622-4fff-890a-fd2d74c12a5e">
 
 ## Versión oficial y Link:
-https://www.tinkercad.com/things/jERCG8p7Obw-grand-trug/editel?sharecode=czoMqdoFsqJDZCXz_PBO7eIG9Ziwfk7C82nwVDGqqsg
+<img width="692" alt="image" src="https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/b185716c-0911-4d6c-aee1-63d29a413e55">
+
+- Link: https://www.tinkercad.com/things/jERCG8p7Obw-grand-trug/editel
 
 # Esquema elctrónico
 ## Versiones pasadas:
