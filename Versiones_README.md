@@ -1,3 +1,5 @@
+- En esta sección hemos colocados bocetos y versiones dle modelado pasados que fueron descartados en el camino a medida que ibamos llegando a nuestra idea final
+
 # Bocetos
 ## Boceto 1 (Modificado)
 ![b5](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/1590844c-2c45-416e-ba52-ab51a4baec1c)
@@ -10,7 +12,7 @@
 
 # Versiones del modelado 3D
 ## Versión I
-#### Modelado de los componentes
+### Modelado de los componentes
 - Carcasa de batería: https://skfb.ly/oMzyD
 ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/a2b5b1ff-8740-43a7-84ff-ac3e780afd0e)
 ![Bateria](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/7fd6b080-9738-402d-a0fd-cd1ec7a27c17)
@@ -26,10 +28,10 @@
 ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/6648aaf3-5047-4a91-b957-7e488c0eb870)
 ![Nozzle](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/1f29efee-f472-4c0b-86d0-146266399faa)
 
-#### Parámetros de impresión
+### Parámetros de impresión
 ![The better way to buy real estate](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/c8b7bda9-aa74-4acb-b43e-9706652bfa26)
 
-#### Capturas de cura
+### Capturas de cura
 ![carcasa izquierda con soportes](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/74231571-5ed1-40e9-8bbc-b2e98175db62)
 ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/698454c9-8dd1-42a3-b260-f2f66c843126)
 ![carcasa arduino y carcasa abteria](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/ddf33c6f-6cc2-4f25-b9e4-0a88e8a2e178)
