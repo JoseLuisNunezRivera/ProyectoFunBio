@@ -21,11 +21,6 @@
 | Soporte bomba: https://skfb.ly/oMzPo | ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/a2738ec3-06d3-476f-9a1b-ae1bcf4aa19d) | - | ![sopprte motores](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/75340d76-2ab6-422e-82d8-ad1967f7ab5d) |
 | Nozzle: https://skfb.ly/oMKX9 | ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/6648aaf3-5047-4a91-b957-7e488c0eb870) | ![Nozzle](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/1f29efee-f472-4c0b-86d0-146266399faa) | - | ![noozle](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/b9d8fb56-1147-45a3-8ec9-f2e1ae292cdf) |
 
-### Parámetros de impresión
-![The better way to buy real estate](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/c8b7bda9-aa74-4acb-b43e-9706652bfa26)
-
-### Capturas de cura
-
 ## Versión II
 ### Diseño corregido:
 ![image](https://i.imgur.com/AK7mcbh.png)
