@@ -185,11 +185,7 @@ https://drive.google.com/file/d/1x9udr_g3XU39Y2daWFmOKxjno0pU2IlR/view
 **<p align="center"> ![WhatsApp Image 2023-09-19 at 23 55 50](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/4b861ad6-af39-48a1-97f4-52657b277d45)
 
 # IV. Bocetos del Concepto Seleccionado. Tablade Evaluación Técnica y Económica
-
-![](https://i.imgur.com/UwXRCZZ.png)
-![](https://i.imgur.com/L8Dtdnr.png)
-![Gráfico Circular Azul Presentación (3)](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/1366df94-0447-4629-a678-c82b14518280)
-
+## Boceto seleccionado
 **<p align="center"> Tamaño ideal ergonómico**
 
 **<p align="center"> <img width="600" alt="600" src="https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/9db94c80-0281-4914-92e3-da366a16769e">**
@@ -216,106 +212,52 @@ El proyecto ofrece una visión prometedora para abordar un problema crítico de 
 # V. Diseño Esquemático y Simulación Electrónica.Modelado 3D de los componentes por separado
 
 ## Diagrama o esquema electrónico
-<img width="800" alt="700" src="https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/e45e5638-365f-4e29-87d7-8a9597a8720a">
+
 
 ## Simulador tinkercad
-![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/c53a6dad-0dcb-4d12-b247-17de8e157c14)
-
-## Versión I de modelado 3D
-#### Modelado de los componentes
-- Carcasa de batería: https://skfb.ly/oMzyD
-![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/a2b5b1ff-8740-43a7-84ff-ac3e780afd0e)
-![Bateria](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/7fd6b080-9738-402d-a0fd-cd1ec7a27c17)
-
-- Soporte Arduino Nano IoT: https://skfb.ly/oMyWH
-![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/e327fc77-4701-46b2-b805-fbfd8cff48d6)
-![arduino](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/263ad8df-8e19-4f50-862e-8f732baebeb3)
-
--Soporte bomba: https://skfb.ly/oMzPo
-![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/a2738ec3-06d3-476f-9a1b-ae1bcf4aa19d)
-
-- Nozzle: https://skfb.ly/oMKX9
-![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/6648aaf3-5047-4a91-b957-7e488c0eb870)
-![Nozzle](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/1f29efee-f472-4c0b-86d0-146266399faa)
-
-#### Parámetros de impresión
-![The better way to buy real estate](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/c8b7bda9-aa74-4acb-b43e-9706652bfa26)
-
-#### Capturas de cura
-![carcasa izquierda con soportes](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/74231571-5ed1-40e9-8bbc-b2e98175db62)
-![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/698454c9-8dd1-42a3-b260-f2f66c843126)
-![carcasa arduino y carcasa abteria](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/ddf33c6f-6cc2-4f25-b9e4-0a88e8a2e178)
-![noozle](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/b9d8fb56-1147-45a3-8ec9-f2e1ae292cdf)
-![sopprte motores](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/75340d76-2ab6-422e-82d8-ad1967f7ab5d)
-
-## Versión II de modelado 3D
-### Diseño corregido:
-![image](https://i.imgur.com/AK7mcbh.png)
-Enlace: https://cad.onshape.com/documents/ea4d05391d26cad5344d7bf4/w/5630425b4178665594f26478/e/341b976ba16a7e19a7a6a8cc?renderMode=0&uiState=654bcb0dc28458499afb7d11
 
 
-### Parámetros de impresión
-- Bomba peristáltica:
-  ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/325bcf2a-97c5-4908-b817-3f2f304ee5af)
-  
-- Nozzle:
-  ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/0a767878-dca5-4980-bbd8-9cf228f9c93a)
+## Modelado 3D: Versión final
+### Bomba perístaltica
+- Ensamble: https://cad.onshape.com/documents/8de709f3be1f92d7d78226ca/w/8e6769958107216e33e4351b/e/bba23d80d86a9d90e47a93d3
+- Rotor 1: https://cad.onshape.com/documents/a1a31141d0e6236a7a8afdac/w/a38b574b1cf93c56c39f0876/e/4d92b41509b52d3259ff299a
+- Tapa: https://cad.onshape.com/documents/9d56f009d577c4719fb07cd5/w/0346843f56588c642b615e98/e/cd1f48146883c8e709fffaa5
+- Base: https://cad.onshape.com/documents/86ff641e1319ed8ba230f65f/w/cf8a607ef3fba1517b963901/e/06f48710efe4c3a660979ad4
 
-- Soporte arduino y batería:
-  ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/595a17d0-1f27-4e5a-9f24-6caec6a9bb40)
+### Caja electrónica
+- Ensamble: https://cad.onshape.com/documents/f10d689c1a461becbf3da6f5/w/d52496f38d187220b270d7e6/e/a1f287fec601dff3414ab840
 
-- Carcasa derecha e izquierda:
-  ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/4f86f504-3860-40b0-bb3d-4a78577dc93b)
-  
-- Tapa y boquilla:
-  ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/f6925ce5-2114-4930-bbc6-b88629456535)
+### Interior de caja electrónica
+- Caja: https://cad.onshape.com/documents/4b100c79305f743f9210cc99
+- Tapa: https://cad.onshape.com/documents/b5b6cd9f3914f8a5b41c4516/w/a7186eeed686556f54d90923/e/6d1ff2c9b6ad1027c2815acc
+- Soporte del motor y la bomba:   https://cad.onshape.com/documents/4ab95d31b83763a74a7c5df6
+- Case de la batería: https://cad.onshape.com/documents/b5b6cd9f3914f8a5b41c4516/w/a7186eeed686556f54d90923/e/6d1ff2c9b6ad1027c2815acc
 
-## Versión Final
-- Bomba perístaltica
-Ensamble:  https://cad.onshape.com/documents/8de709f3be1f92d7d78226ca/w/8e6769958107216e33e4351b/e/bba23d80d86a9d90e47a93d3
+### Exterior de la caja electrónica (recipientes):
+- Tapa: https://cad.onshape.com/documents/b5b6cd9f3914f8a5b41c4516/w/a7186eeed686556f54d90923/e/6d1ff2c9b6ad1027c2815acc
+- Base: https://cad.onshape.com/documents/7edb1b0121b29fa5961d8425
+- Recipiente:  https://cad.onshape.com/documents/59dc83f669816341396c27d1
 
-Rotor 1: https://cad.onshape.com/documents/a1a31141d0e6236a7a8afdac/w/a38b574b1cf93c56c39f0876/e/4d92b41509b52d3259ff299a
-Tapa: https://cad.onshape.com/documents/9d56f009d577c4719fb07cd5/w/0346843f56588c642b615e98/e/cd1f48146883c8e709fffaa5
-Base: https://cad.onshape.com/documents/86ff641e1319ed8ba230f65f/w/cf8a607ef3fba1517b963901/e/06f48710efe4c3a660979ad4
-
-- Caja electrónica
-Ensamble: https://cad.onshape.com/documents/f10d689c1a461becbf3da6f5/w/d52496f38d187220b270d7e6/e/a1f287fec601dff3414ab840
-
-DENTRO DE LA CAJA:
-Caja: https://cad.onshape.com/documents/4b100c79305f743f9210cc99
-Tapa: https://cad.onshape.com/documents/b5b6cd9f3914f8a5b41c4516/w/a7186eeed686556f54d90923/e/6d1ff2c9b6ad1027c2815acc
-Soporte del motor y la bomba:   https://cad.onshape.com/documents/4ab95d31b83763a74a7c5df6
-Case de la batería:  https://cad.onshape.com/documents/b5b6cd9f3914f8a5b41c4516/w/a7186eeed686556f54d90923/e/6d1ff2c9b6ad1027c2815acc
-FUERA DE LA CAJA (recipientes):
-Tapa: https://cad.onshape.com/documents/b5b6cd9f3914f8a5b41c4516/w/a7186eeed686556f54d90923/e/6d1ff2c9b6ad1027c2815acc
-Base: https://cad.onshape.com/documents/7edb1b0121b29fa5961d8425
-Recipiente:  https://cad.onshape.com/documents/59dc83f669816341396c27d1
-
-
-- Biopen
-Ensamble: https://cad.onshape.com/documents/fa43f6983dc2657439441877/w/561d306e3e23246e6a2a8a79/e/8833a1298579d56897545524?renderMode=0&uiState=6552a77652a8420a1a34c167
-
-Carcasa (las dos partes): https://cad.onshape.com/documents/72aee932b03bc8e04e3bccb8/w/c4a85064b6552d9ff44133d4/e/d55f808f442a5059bc340e5d
-Nozzle: https://cad.onshape.com/documents/bd66374ec5ace9d58c473229
-Boquilla: https://cad.onshape.com/documents/afae13b7620b6a5cce17955e
-Tapa: https://cad.onshape.com/documents/999addb3a5d2f49afebef456/w/5627ec29d2b8c1834bd65853/e/5afc472ae359bef1bf89bb87
-Soporte Joystick: https://cad.onshape.com/documents/095865effa3b667ba34cd493
-
+### Dispositivo-Biopen
+- Ensamble: https://cad.onshape.com/documents/fa43f6983dc2657439441877/w/561d306e3e23246e6a2a8a79/e/8833a1298579d56897545524?renderMode=0&uiState=6552a77652a8420a1a34c167
+- Carcasa (las dos partes): https://cad.onshape.com/documents/72aee932b03bc8e04e3bccb8/w/c4a85064b6552d9ff44133d4/e/d55f808f442a5059bc340e5d
+- Nozzle: https://cad.onshape.com/documents/bd66374ec5ace9d58c473229
+- Boquilla: https://cad.onshape.com/documents/afae13b7620b6a5cce17955e
+- Tapa: https://cad.onshape.com/documents/999addb3a5d2f49afebef456/w/5627ec29d2b8c1834bd65853/e/5afc472ae359bef1bf89bb87
+- Soporte Joystick: https://cad.onshape.com/documents/095865effa3b667ba34cd493
 
 ## Aclaraciones Componentes
-
 - Los compartimientos reciben el cartucho de bimaterial a usar, por lo que reponible.
 - El movimiento de la bomba en ambos sentidos permite evitar el "clouding".
 - El prototipo será contruido en PLA, lo adecuado para uso médico son materiales como ácero inoxidable para el caso de la boquilla, PVC tranparente en el caso del protector dela boquilla.
 
-## Limpieza de los componentes
-Es importante resaltar estos puntos para evitar la contaminación entre pacientes, ya que al tratar quemaduras lo que principalment se quiere evitar con la sinfecciones:
+### Limpieza de los componentes
+Es importante resaltar estos puntos para evitar la contaminación entre pacientes, ya que al tratar quemaduras lo que principalment se quiere evitar con las infecciones:
 - Se recomienda una desinfección de alto nivel (DAN) para el partes como la boquilla, el interiro de los artuchos y todo componente expuesto directamente a la contaminación. Esto puede ser con ácido peracético (0.001-0.2) durante 10 a 15 minutos, lo que se utiliza para desinfectar un equipo de diálisis.
 - La limpieza interna se recomienda el uso de una solución NaOH al 8% para zonas no cercanas al paciente como la carcasa.
 - La para la perte externa se recomienda el uso de hipoclorito 5000 ppm.
 
 # VI. Iteración 1 (Hardware - Software -Manufactura Digital). Diagrama de Flujo
-
 ## Hardware
 https://github.com/JoseLuisNunezRivera/ProyectoFunBio/edit/main/Hardware/HardwareREADME.md
 
@@ -351,40 +293,34 @@ https://github.com/JoseLuisNunezRivera/ProyectoFunBio/blob/main/Software/Softwar
 
 # Presentación HITO 01
 https://www.canva.com/design/DAFyIOSvqEU/xKgEkVsLvqRSR0-aUGSA_A/edit?utm_content=DAFyIOSvqEU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+# Presentación HITO 02
 
 # Bibliografía 
-1. Organización Mundial de la Salud. (2018). Quemaduras: Datos y cifras. https://www.who.int/es/news-room/fact-sheets/detail/burns
-2. PIEL DE CERDO LIOFILIZADA EN TRATAMIENTO DE QUEMADURAS: SERIE DE CASOS 2014-2016 https://revistas.uss.edu.pe/index.php/tzh/article/view/1329/1267
-3. Ministerio de Salud. (2020). Lineamiento para la prevención y atención integral de personas con lesiones por quemaduras. https://cdn.www.gob.pe/uploads/document/file/1400166/RM%20883-2020-MINSA.PDF.PDF 
-4. Tian H, Wang L, Xie W, Shen C, Guo G, Liu J, Han C, Ren L, Liang Y, Tang Y, Wang Y, Yin M, Zhang J, Huang Y. Epidemiologic and clinical characteristics of severe burn patients: results of a retrospective multicenter study in China, 2011-2015. Burns Trauma. 2018 May 23;6:14. Disponible en: https://pubmed.ncbi.nlm.nih.gov/29850643/  
-5. Biopen (handheld bioprinter) [Internet]. Adbioink. [citado el 30 de agosto de 2023]. Disponible en: https://www.adbioink.com/product/biopen-handheld-bioprinter/
-6. Sciencedirectassets.com. [citado el 30 de agosto de 2023]. Disponible en:
-In situ 3D bioprinting: A promising technique in advanced biofabrication strategies (sciencedirectassets.com)
-7. MacAdam A, Chaudry E, McTiernan CD, Cortes D, Suuronen EJ, Alarcon EI. Development of in situ bioprinting: A mini review. Front Bioeng Biotechnol [Internet]. 2022 [citado el 30 de agosto de 2023];10. Disponible en: https://pubmed.ncbi.nlm.nih.gov/35935512/
-8. Varkey M, Visscher DO, van Zuijlen PPM, Atala A, Yoo JJ. Skin bioprinting: the future of burn wound reconstruction? Burns Trauma [Internet]. 2019 [citado el 30 de agosto de 2023];7. Disponible en: https://pubmed.ncbi.nlm.nih.gov/30805375/
-9. Peck MD. Epidemiology of burns throughout the world. Part I: Distribution and risk factors. Burns [Internet]. 2011;37(7):1087–100. Disponible en: https://www.sciencedirect.com/science/article/pii/S0305417911001914 
-10. INSN SAN BORJA: CASOS DE NIÑOS QUEMADOS SE INCREMENTA EN 60% EN LO QUE VA DE ESTE AÑO 2023 [Internet]. Gob.pe. [citado el 30 de agosto de 2023]. Disponible en: https://www.insnsb.gob.pe/blog/2023/03/10/insn-san-borja-casos-de-ninos-quemados-se-incrementa-en-60-en-lo-que-va-de-este-ano-2023/ 
-11. INSN SAN BORJA SALVA VIDA DE PACIENTES CON EXTENSAS QUEMADURAS CON APLICACIÓN DE PIEL CULTIVADA [Internet]. Gob.pe. [citado el 30 de agosto de 2023]. Disponible en: https://www.insnsb.gob.pe/blog/2016/04/27/insn-san-borja-salva-vida-de-pacientes-con-extensas-quemaduras-con-aplicacion-de-piel-cultivada/ 
-12. Chau Ramos EA, Hospital María Auxiliadora, Unidad de Cirugía Plástica. Lima, Perú. Evaluación de cicatrización en zonas donantes de injerto de piel parcial con uso de Xenoinjerto en comparación con sustituto dérmico. Horiz méd [Internet]. 2019 [citado el 30 de agosto de 2023];19(3):20–6. Disponible en: https://www.horizontemedico.usmp.edu.pe/index.php/horizontemed/article/view/1070
-13. Tejido humano en impresora 3D. M. Juste. [Internet]. 2017 [citado el 31 de agosto de 2023]. Disponible en: https://www.expansion.com/economia-digital/innovacion/2017/07/31/5979fa8e268e3e774b8b45b2.html
-14. Gathering for Open Science Hardware. Why GOSH? - gathering for open science hardware [Internet]. Gathering for Open Science Hardware - Gathering for Open Science Hardware. 2021. Disponible en: https://openhardware.science/about/why-gosh/
-15. THREE-DIMENSIONAL ROBOT BIOLOGICAL PRINTER - CN110769771B - https://worldwide.espacenet.com/patent/search?q=pn%3DCN110769771B
-16. 3D PRINTING EQUIPMENT UTILIZING BIOLOGICAL MATERIAL, AND METHOD - US11325301B2 - https://worldwide.espacenet.com/patent/search/family/056325304/publication/US11325301B2?q=pn%3DUS11325301B2
-17. BIOPRINTER DEVICES, SYSTEMS AND METHODS FOR PRINTING SOFT GELS FOR THE TREATMENT OF MUSCULOSKELETAL AND SKIN DISORDERS - US20200123485A1 - https://worldwide.espacenet.com/patent/search/family/070279465/publication/US2020123485A1?q=pn%3DUS2020123485A1
-18. GhavamiNejad A, Ashammakhi N, Wu XY, Khademhosseini A. Crosslinking strategies for 3D bioprinting of polymeric hydrogels. Small [Internet]. 2020;16(35). Disponible en: http://dx.doi.org/10.1002/smll.202002931
+
+## Bioimpresión
+1.	Bioimpresión 3D [Internet]. Hisour.com. HiSoUR Arte Cultura Historia; 2018 [citado el 16 de noviembre de 2023]. Disponible en: https://www.hisour.com/es/3d-bioprinting-40712/amp/	 
+2.	Cidonio G, Glinka M, Dawson JI, Oreffo ROC. The cell in the ink: Improving biofabrication by printing stem cells for skeletal regenerative medicine. Biomaterials [Internet]. 2019 [citado el 16 de noviembre de 2023];209:10–24. Disponible en: http://dx.doi.org/10.1016/j.biomaterials.2019.04.009
+3.	Bolgiani A, Hermida E. Biompresión 3D de piel. Cir plást ibero-latinoam [Internet]. 2020 [citado el 16 de noviembre de 2023];46:85–90. Disponible en: https://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S0376-78922020000200014 	 
+4.	MacAdam A, Chaudry E, McTiernan CD, Cortes D, Suuronen EJ, Alarcon EI. Development of in situ bioprinting: A mini review. Front Bioeng Biotechnol [Internet]. 2022 [citado el 16 de noviembre de 2023];10. Disponible en: https://pubmed.ncbi.nlm.nih.gov/35935512/	 
+5.	Varkey M, Visscher DO, van Zuijlen PPM, Atala A, Yoo JJ. Skin bioprinting: the future of burn wound reconstruction? Burns Trauma [Internet]. 2019 [citado el 16 de noviembre de 2023];7. Disponible en: https://pubmed.ncbi.nlm.nih.gov/30805375/	 
+6.	Duchi S, Onofrillo C, O’Connell CD, Blanchard R, Augustine C, Quigley AF, et al. Handheld Co-Axial Bioprinting: Application to in situ surgical cartilage repair. Sci Rep [Internet]. 2017 [citado el 16 de noviembre de 2023];7(1):1–12. Disponible en: https://www.nature.com/articles/s41598-017-05699-x
+
+## Noticias
+1.	BBC News Mundo. Anthony Atala, el científico peruano que busca un lugar en la historia de la medicina con una impresora. BBC [Internet]. el 17 de marzo de 2016 [citado el 16 de noviembre de 2023]; Disponible en: https://www.bbc.com/mundo/noticias/2016/03/160315_atala_impresora_organos_am 	 
+2.	Com.au. [citado el 16 de noviembre de 2023]. Disponible en: https://mivision.com.au/2018/09/australian-ifix-pen-seals-corneal-wounds 	
+3.	INSN SAN BORJA: CASOS DE NIÑOS QUEMADOS SE INCREMENTA EN 60% EN LO QUE VA DE ESTE AÑO 2023 [Internet]. Gob.pe. [citado el 16 de noviembre de 2023]. Disponible en: https://www.insnsb.gob.pe/blog/2023/03/10/insn-san-borja-casos-de-ninos-quemados-se-incrementa-en-60-en-lo-que-va-de-este-ano-2023/ 	 
+4.	INSN SAN BORJA SALVA VIDA DE PACIENTES CON EXTENSAS QUEMADURAS CON APLICACIÓN DE PIEL CULTIVADA [Internet]. Gob.pe. [citado el 16 de noviembre de 2023]. Disponible en: https://www.insnsb.gob.pe/blog/2016/04/27/insn-san-borja-salva-vida-de-pacientes-con-extensas-quemaduras-con-aplicacion-de-piel-cultivada/
+5.	Tejido humano en impresora 3D [Internet]. Expansi�n.com. 2017 [citado el 16 de noviembre de 2023]. Disponible en: https://www.expansion.com/economia-digital/innovacion/2017/07/31/5979fa8e268e3e774b8b45b2.html
  	 
+## Hardware
 
 
+## Productos comercializados
 
- 
+## Patentes
 
+## Quemaduras
 
+## Bioimpresoras
 
-
-
-
-
-
-
-
-
+## Limpieza de ocmponentes
