@@ -285,9 +285,9 @@ https://github.com/JoseLuisNunezRivera/ProyectoFunBio/blob/main/Software/Softwar
 <p align="center"> 
 
 ## Videos de prueba:
-- https://drive.google.com/file/d/1F15Me29U1R6xqWsC1x0a1ha1G58_8Gcn/view?usp=sharing
-- https://drive.google.com/file/d/1rPYKYIcmd3nNEOR8jjYt4QE14mCWyPdi/view?usp=sharing
+https://drive.google.com/drive/folders/1dNpvZ_3heZI8Mf5WiS9OIGKs_0XBnwm1?usp=sharing
 
+## Tabla de retos y limitaciones
 | Retos y limitaciones | Posibles soluciones |
 |-|-|
 | Mejorar el sistema de almacenamiento del biomaterial | Diseñar un sistema que permita el intercambio de cartuchos |
@@ -340,4 +340,4 @@ https://www.canva.com/design/DAF0h--ITno/4O1IoZnptE_-SC9zV_8JRQ/edit?utm_content
 
 - Bioimpresoras
 
-## Limpieza de ocmponentes
+- Limpieza de ocmponentes
