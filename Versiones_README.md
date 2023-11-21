@@ -2,11 +2,16 @@
 
 # Bocetos
 ## Boceto 1 (Modificado)
+-La idea principal de este boceto, era acomodar todos los componentes dentro del dispositivo, pero el es acio era reducido si queríamos mantener un diseño ergonómico, además de nivelar el peso. Asimismo, la idea inicial era con botones, en lugar deun Joystick.
+
 <img width="800" alt="image" src="https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/cb21e9ea-33c8-434e-91ad-58b82efb200e">
+- Por lo que se decidió, agregarle un mango para hacer más manejable el peso y así aumentar el espacio. Sin embargo, eso afectaba el movimiento de la mano al momento de "dibujar", por ello este boceto paso por otros cambios.
 
 ![b5](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/1590844c-2c45-416e-ba52-ab51a4baec1c)
+
 ## Boceto 2
 ![b6](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/d39611ae-a326-4478-9935-5f6c3e4f90ee)
+
 ## Boceto 3 
 ![b7](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/317bd6ff-29ea-484c-9b30-b10541de4f86)
 
