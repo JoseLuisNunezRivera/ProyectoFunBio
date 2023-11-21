@@ -214,7 +214,7 @@ El proyecto ofrece una visión prometedora para abordar un problema crítico de 
 # V. Diseño Esquemático y Simulación Electrónica. Modelado 3D de los componentes por separado
 
 ## Diagrama o esquema electrónico
-
+<img width="527" alt="image" src="https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/9e816aed-795e-487a-a2ee-b5fa0176a920">
 
 ## Simulador tinkercad
 
