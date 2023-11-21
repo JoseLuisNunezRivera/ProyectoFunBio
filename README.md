@@ -217,7 +217,7 @@ El proyecto ofrece una visión prometedora para abordar un problema crítico de 
 <img width="527" alt="image" src="https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/9e816aed-795e-487a-a2ee-b5fa0176a920">
 
 ## Simulador tinkercad
-
+<img width="692" alt="image" src="https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/e9e0f1a3-a717-4ff1-8ac0-bdf5627ebbce">
 
 ## Modelado 3D: Versión final
 ### Bomba perístaltica
