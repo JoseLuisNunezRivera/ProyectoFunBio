@@ -198,7 +198,6 @@ https://drive.google.com/file/d/1x9udr_g3XU39Y2daWFmOKxjno0pU2IlR/view
 
 <img width="800" alt="600" src="https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/f7cd4d36-bd9e-4599-9ab8-7c66a7b14d68">
 
-
 ## Tabla de valoración técnica
 ![Captura de pantalla 2023-10-15 144519](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143332991/5b72bf3e-b47e-4579-9a04-a81651c333ed)
 
@@ -263,6 +262,9 @@ https://cad.onshape.com/documents/afae13b7620b6a5cce17955e
 https://cad.onshape.com/documents/999addb3a5d2f49afebef456/w/5627ec29d2b8c1834bd65853/e/5afc472ae359bef1bf89bb87
 - Soporte Joystick:
 https://cad.onshape.com/documents/095865effa3b667ba34cd493
+
+## Parámetros de impresión
+![The better way to buy real estate](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/c8b7bda9-aa74-4acb-b43e-9706652bfa26)
 
 ## Aclaraciones Componentes
 - Los compartimientos reciben el cartucho de bimaterial a usar, por lo que reponible.
