@@ -188,6 +188,9 @@ https://drive.google.com/file/d/1x9udr_g3XU39Y2daWFmOKxjno0pU2IlR/view
 ![WhatsApp Image 2023-09-19 at 23 55 50](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/4b861ad6-af39-48a1-97f4-52657b277d45)
 
 # IV. Bocetos del Concepto Seleccionado. Tablade Evaluación Técnica y Económica
+## Boceto inicial
+<img width="800" alt="image" src="https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/cb21e9ea-33c8-434e-91ad-58b82efb200e">
+
 ## Boceto seleccionado
 
 **<p align="center"> Tamaño ideal ergonómico**
