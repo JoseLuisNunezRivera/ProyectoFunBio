@@ -1,12 +1,13 @@
 # Bocetos
-## Boceto 1
+## Boceto 1 (Modificado)
 ![b5](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/1590844c-2c45-416e-ba52-ab51a4baec1c)
 ## Boceto 2
 ![b6](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/d39611ae-a326-4478-9935-5f6c3e4f90ee)
-## Boceto 3 (Modificado)
+## Boceto 3 
 ![b7](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/317bd6ff-29ea-484c-9b30-b10541de4f86)
 
-## Versión I de modelado 3D
+# Versiones del modelado ED
+## Versión I
 #### Modelado de los componentes
 - Carcasa de batería: https://skfb.ly/oMzyD
 ![image](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143018798/a2b5b1ff-8740-43a7-84ff-ac3e780afd0e)
@@ -33,7 +34,7 @@
 ![noozle](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/b9d8fb56-1147-45a3-8ec9-f2e1ae292cdf)
 ![sopprte motores](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/75340d76-2ab6-422e-82d8-ad1967f7ab5d)
 
-## Versión II de modelado 3D
+## Versión II
 ### Diseño corregido:
 ![image](https://i.imgur.com/AK7mcbh.png)
 Enlace: https://cad.onshape.com/documents/ea4d05391d26cad5344d7bf4/w/5630425b4178665594f26478/e/341b976ba16a7e19a7a6a8cc?renderMode=0&uiState=654bcb0dc28458499afb7d11
