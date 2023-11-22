@@ -192,6 +192,8 @@ https://drive.google.com/file/d/1x9udr_g3XU39Y2daWFmOKxjno0pU2IlR/view
 <img width="800" alt="image" src="https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/cb21e9ea-33c8-434e-91ad-58b82efb200e">
 
 ## Boceto seleccionado
+![Gráfico Circular Azul Presentación (4)](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/d4c587fc-9200-4d58-8c7e-a42ae98de44d)
+
 
 **<p align="center"> Tamaño ideal ergonómico**
 **<p align="center"> <img width="600" alt="600" src="https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/9db94c80-0281-4914-92e3-da366a16769e">**
