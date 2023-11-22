@@ -10,6 +10,10 @@
 
 ![b5](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/1590844c-2c45-416e-ba52-ab51a4baec1c)
 
+-Finalmente, llegamos la boceto que se acercaba más a nuestra meta.
+![Gráfico Circular Azul Presentación (4)](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/53db89fb-a91d-4c88-a911-7f8651bb3fec)
+
+
 ## Boceto 2
 ![b6](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/d39611ae-a326-4478-9935-5f6c3e4f90ee)
 
