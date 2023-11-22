@@ -272,6 +272,9 @@ https://cad.onshape.com/documents/095865effa3b667ba34cd493
 ## Parámetros de impresión
 ![The better way to buy real estate](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143347817/c8b7bda9-aa74-4acb-b43e-9706652bfa26)
 
+## Planos componentes
+https://github.com/JoseLuisNunezRivera/ProyectoFunBio/tree/main/Componentes
+
 ## Aclaraciones Componentes
 - Los compartimientos reciben el cartucho de bimaterial a usar, por lo que reponible.
 - El movimiento de la bomba en ambos sentidos permite evitar el "clouding".
