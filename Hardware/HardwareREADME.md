@@ -23,13 +23,19 @@
 Video de prueba: https://drive.google.com/file/d/1m3TTTPkxf_yJ8F58oNAUqxza2nzA7NOk/view?usp=drive_link
 
 ## Funcionamiento de los motores
+- Versiones Antiguas
 https://drive.google.com/file/d/1m3TTTPkxf_yJ8F58oNAUqxza2nzA7NOk/view?usp=drive_link
 https://drive.google.com/file/d/1DnIaGXmrpsbtofKS_-w4D1B56QLaWfkj/view?usp=drive_link
 https://drive.google.com/file/d/1RS8DPj1X3xWqN5D0ZCUUCXiAAB1mNRG_/view?usp=drive_link
+- Versión oficial
+https://drive.google.com/file/d/1NSgrsKIEiijKBT-J-sk5hcxzbiLZ4G48/view?usp=drive_link
 
-## Bomba perístaltica
+## Funcionamiento de la  Bomba perístaltica
 ![WhatsApp Image 2023-11-07 at 15 11 37](https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/868cddf5-f5ea-443a-8fd9-e927ae4c1ded)
 https://drive.google.com/file/d/1j15Y8CCSeVYcgiBGKV3uRSqamulXDMsW/view?usp=drive_link
+https://drive.google.com/file/d/1j15Y8CCSeVYcgiBGKV3uRSqamulXDMsW/view?usp=drive_link
+
+
 
 
 
