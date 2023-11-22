@@ -277,7 +277,7 @@ https://cad.onshape.com/documents/095865effa3b667ba34cd493
 - El prototipo será contruido en PLA, lo adecuado para uso médico son materiales como ácero inoxidable para el caso de la boquilla, PVC tranparente en el caso del protector dela boquilla.
 
 ### Limpieza de los componentes
-Es importante resaltar estos puntos para evitar la contaminación entre pacientes, ya que al tratar quemaduras lo que principalment se quiere evitar con las infecciones:
+Es importante resaltar estos puntos para evitar la contaminación entre pacientes, ya que al tratar quemaduras lo que principalmente se quiere evitar con las infecciones. Por ello, después del lavado de los ocmponentes expuestos al paciente con el clásico lavo de agua purificada:
 - Se recomienda una desinfección de alto nivel (DAN) para el partes como la boquilla, el interiro de los artuchos y todo componente expuesto directamente a la contaminación. Esto puede ser con ácido peracético (0.001-0.2) durante 10 a 15 minutos, lo que se utiliza para desinfectar un equipo de diálisis.
 - La limpieza interna se recomienda el uso de una solución NaOH al 8% para zonas no cercanas al paciente como la carcasa.
 - La para la perte externa se recomienda el uso de hipoclorito 5000 ppm.
@@ -338,14 +338,44 @@ https://www.canva.com/design/DAF0h--ITno/4O1IoZnptE_-SC9zV_8JRQ/edit?utm_content
 5.	Tejido humano en impresora 3D [Internet]. Expansi�n.com. 2017 [citado el 16 de noviembre de 2023]. Disponible en: https://www.expansion.com/economia-digital/innovacion/2017/07/31/5979fa8e268e3e774b8b45b2.html
  	 
 - Hardware
-
+1.	Why GOSH? [Internet]. Gathering for Open Science Hardware - Gathering for Open Science Hardware. Gathering for Open Science Hardware; 2016 [citado el 22 de noviembre de 2023]. Disponible en: https://openhardware.science/about/why-gosh/
 
 - Productos comercializados
-
+1.	Axcelda [Internet]. Axcelda.com. [citado el 22 de noviembre de 2023]. Disponible en: https://axcelda.com/
+2.	BioPen-X (handheld bioprinter) [Internet]. Adbioink. [citado el 22 de noviembre de 2023]. Disponible en: https://www.adbioink.com/product/biopen-handheld-bioprinter/
+ 	 
 - Patentes
+1.	Espacenet [Internet]. Espacenet.com. [citado el 22 de noviembre de 2023]. Disponible en: https://worldwide.espacenet.com/patent/search/family/063712092/publication/CN110769771B?q=pn%3DCN110769771B	 
+2.	Espacenet [Internet]. Espacenet.com. [citado el 22 de noviembre de 2023]. Disponible en: https://worldwide.espacenet.com/patent/search/family/056325304/publication/US11325301B2?q=pn%3DUS11325301B2 	 
+3.	Espacenet [Internet]. Espacenet.com. [citado el 22 de noviembre de 2023]. Disponible en: https://worldwide.espacenet.com/patent/search/family/070279465/publication/US2020123485A1?q=pn%3DUS2020123485A1
+ 	 
 
 - Quemaduras
-
+1.	Wound care after burn injury [Internet]. Msktc.org. [citado el 22 de noviembre de 2023]. Disponible en: https://msktc.org/burn/factsheets/wound-care-after-burn-injury 	 
+2.	Quemaduras [Internet]. Who.int. [citado el 22 de noviembre de 2023]. Disponible en: https://www.who.int/es/news-room/fact-sheets/detail/burns 	 
+3.	Vista de PIEL DE CERDO LIOFILIZADA EN TRATAMIENTO DE QUEMADURAS: SERIE DE CASOS 2014-2016 [Internet]. Edu.pe. [citado el 22 de noviembre de 2023]. Disponible en: https://revistas.uss.edu.pe/index.php/tzh/article/view/1329/1267	 
+4.	Gob.pe. [citado el 22 de noviembre de 2023]. Disponible en: https://cdn.www.gob.pe/uploads/document/file/1400166/RM%20883-2020-MINSA.PDF.PDF 	 
+5.	Tian H, Wang L, Xie W, Shen C, Guo G, Liu J, et al. Epidemiologic and clinical characteristics of severe burn patients: results of a retrospective multicenter study in China, 2011–2015. Burns Trauma [Internet]. 2018 [citado el 22 de noviembre de 2023];6. Disponible en: https://pubmed.ncbi.nlm.nih.gov/29850643/ 	 
+6.	Peck MD. Epidemiology of burns throughout the world. Part I: Distribution and risk factors. Burns [Internet]. 2011;37(7):1087–100. Disponible en: https://www.sciencedirect.com/science/article/pii/S0305417911001914	 
+7.	Chau Ramos EA, Hospital María Auxiliadora, Unidad de Cirugía Plástica. Lima, Perú. Evaluación de cicatrización en zonas donantes de injerto de piel parcial con uso de Xenoinjerto en comparación con sustituto dérmico. Horiz méd [Internet]. 2019 [citado el 22 de noviembre de 2023];19(3):20–6. Disponible en: https://www.horizontemedico.usmp.edu.pe/index.php/horizontemed/article/view/1070 	 
+8.	Vista de Costos directos en el que incurre el Instituto Nacional de Salud del Niño en el tratamiento de niños quemados [Internet]. Edu.pe. [citado el 22 de noviembre de 2023]. Disponible en: https://revistas.unjfsc.edu.pe/index.php/INFINITUM/article/view/340/329
+ 	 
 - Bioimpresoras
+1.	Ink D. Open & affordable 3D bioprinting [Internet]. Hackster.io. [citado el 22 de noviembre de 2023]. Disponible en: https://www.hackster.io/dynamic-ink/open-affordable-3d-bioprinting-14d68b 	 
+2.	Pazhouhnia Z, Beheshtizadeh N, Namini MS, Lotfibakhshaiesh N. Portable hand‐held bioprinters promote in situ tissue regeneration. Bioeng Transl Med [Internet]. 2022;7(3). Disponible en: http://dx.doi.org/10.1002/btm2.10307 
+3.	Ahmed_EGomaa, grad. DIY 3D bio-printer [Internet]. Hackster.io. [citado el 22 de noviembre de 2023]. Disponible en: https://www.hackster.io/473403/diy-3d-bio-printer-9ecea6 
+4.	de Grado TF. Departamento de Sistemas y Automática Grado en Ingeniería Electrónica Industrial y Automática [Internet]. Uc3m.es. [citado el 22 de noviembre de 2023]. Disponible en: https://e-archivo.uc3m.es/bitstream/handle/10016/16853/TFG_Marco_Esteban_Illescas.pdf?sequence=1&isAllowed=y	 
+5.	[citado el 22 de noviembre de 2023]. Disponible en: http://file:///C:/Users/mftas/Downloads/IJB-7-2-337.pdf
+ 	 
+- Limpieza de componentes
+1.	Matsos S. Bioprinting experiment preparation in 8 easy steps [Internet]. Allevi. 2020 [citado el 22 de noviembre de 2023]. Disponible en: https://www.allevi3d.com/preparing-for-a-biostudy/
+2.	Sas FC. Ácido Peracético, nueva tecnología de fabricación que disminuye corrosión en acero inoxidable [Internet]. Flow Chem - Productos de Limpieza y Desinfección. Flow Chem SAS; 2019 [citado el 22 de noviembre de 2023]. Disponible en: https://www.flowchem.com.co/corrosion-desinfectante-acido-peracetico/	 
+3.	Hernández-Navarrete M-J, Celorrio-Pascual J-M, Lapresta Moros C, Solano Bernad V-M. Fundamentos de antisepsia, desinfección y esterilización. Enferm Infecc Microbiol Clin [Internet]. 2014 [citado el 22 de noviembre de 2023];32(10):681–8. Disponible en: https://www.elsevier.es/en-revista-enfermedades-infecciosas-microbiologia-clinica-28-articulo-fundamentos-antisepsia-desinfeccion-esterilizacion-S0213005X14001839 	 
+4.	Natalia L, Rodríguez C. LAVADO Y DESINFECCION DE MATERIAL LABORATORIO CLINICO [Internet]. Gov.co. [citado el 22 de noviembre de 2023]. Disponible en: https://www.cribsaludmental.gov.co/attachments/category/425/M-AD-LC-M01%20MANUAL%20LAVADO%20Y%20DESINFECCION%20DE%20MATERIAL%20LABORATORIO%20CLINICO.pdf 	 
+5.	Sochihem.cl. [citado el 22 de noviembre de 2023]. Disponible en: https://www.sochihem.cl/bases/arch1202.pdf 	 
+6.	Santolaria S, Ducons J, Maria Bordas J. Limpieza y desinfección en endoscopia digestiva. Gastroenterol Hepatol [Internet]. 2007 [citado el 22 de noviembre de 2023];30(1):25–35. Disponible en: https://www.elsevier.es/es-revista-gastroenterologia-hepatologia-14-articulo-limpieza-desinfeccion-endoscopia-digestiva-13097448	 
+7.	Gargallo CJ, Ferrandez A, Carrera P, Simon MA, Ducons J, Lanas A. Short- and long-term clinical outcomes of self-expandable metal stents inserted for colorectal obstruction and efficacy of different insertion techniques. Gastroenterol Hepatol [Internet]. 2019 [citado el 22 de noviembre de 2023];42(3):157–63. Disponible en: https://www.elsevier.es/es-revista-gastroenterologia-hepatologia-14-articulo-short-long-term-clinical-outcomes-self-expandable-S0210570518302449 	 
+8.	Marketing Simmedica-PENTAX. Desinfección de endoscopios Paso a Paso [Internet]. Simmedica.com. PENTAX Medical Iberia SAU; 2021 [citado el 22 de noviembre de 2023]. Disponible en: https://blog.simmedica.com/blog/desinfeccion-de-endoscopios-paso-a-paso 	 
+9.	Logic Clean. Desinfección y Esterilización con Luz Ultravioleta • [Internet]. LogicClean. 2017 [citado el 22 de noviembre de 2023]. Disponible en: https://logicclean.es/la-desinfeccion-esterilizacion-luz-ultravioleta/
+ 	 
 
-- Limpieza de ocmponentes
