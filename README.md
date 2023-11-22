@@ -225,6 +225,7 @@ El proyecto ofrece una visión prometedora para abordar un problema crítico de 
 <img width="692" alt="image" src="https://github.com/JoseLuisNunezRivera/ProyectoFunBio/assets/143373576/e9e0f1a3-a717-4ff1-8ac0-bdf5627ebbce">
 
 ## Modelado 3D: Versión final
+-LINK DE ONSHAPE: https://cad.onshape.com/documents?column=modifiedAt&nodeId=1fe420164c73a5b0132d8f78&resourceType=folder&sortOrder=desc
 ### Bomba perístaltica
 - Ensamble:
 https://cad.onshape.com/documents/8de709f3be1f92d7d78226ca/w/8e6769958107216e33e4351b/e/bba23d80d86a9d90e47a93d3
